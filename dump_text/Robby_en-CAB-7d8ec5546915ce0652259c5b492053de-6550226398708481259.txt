@@ -1,0 +1,242 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Robby_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2744235867272999646
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TableEntryData m_TableData
+  0 Array Array (27 items)
+   0 int size = 27
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 58675089408
+     1 string m_Localized = "FOLLOW ME"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 39642877915136
+     1 string m_Localized = "FIRE"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 39491421597696
+     1 string m_Localized = "FILL HOLDER"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 38522784837632
+     1 string m_Localized = "GET"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 39115746177024
+     1 string m_Localized = "BUILD"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 39182645325824
+     1 string m_Localized = "STAY"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 39220905766912
+     1 string m_Localized = "TAKE A BREAK"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 39276992000000
+     1 string m_Localized = "CLEAR"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 39290149531648
+     1 string m_Localized = "TAKE ITEM"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 39324047896576
+     1 string m_Localized = "DROP HERE"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 39347590524928
+     1 string m_Localized = "GIVE TO ME"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 40975353769984
+     1 string m_Localized = "SHELTER"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 41003686293504
+     1 string m_Localized = "PERIMETER WALL"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 41060196151296
+     1 string m_Localized = "CLEAR SHELTER"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 41099110903808
+     1 string m_Localized = "FINISH STRUCTURE"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 41249514450944
+     1 string m_Localized = "STICKS"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 41286394966016
+     1 string m_Localized = "ROCKS"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 41304921206784
+     1 string m_Localized = "LOGS"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 41324064010240
+     1 string m_Localized = "RADIO"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 41358037872640
+     1 string m_Localized = "ARROWS"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 41374324355072
+     1 string m_Localized = "BERRIES"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 41385103716352
+     1 string m_Localized = "FISH"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 41428770615296
+     1 string m_Localized = "METERS"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 42090858278912
+     1 string m_Localized = "HERE"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 42108168171520
+     1 string m_Localized = "HIDDEN"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 26502776249380864
+     1 string m_Localized = "AND"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 27534935554781184
+     1 string m_Localized = "AT SHELTER"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array (0 items)
+    0 int size = 0
