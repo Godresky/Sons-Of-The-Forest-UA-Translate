@@ -22,7 +22,7 @@
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 101228290048
-     1 string m_Localized = "Place"
+     1 string m_Localized = "Розмістити"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -30,7 +30,7 @@
    [1]
     0 TableEntryData data
      0 SInt64 m_Id = 171751317504
-     1 string m_Localized = "Cancel"
+     1 string m_Localized = "Скасувати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -38,7 +38,7 @@
    [2]
     0 TableEntryData data
      0 SInt64 m_Id = 217074966528
-     1 string m_Localized = "Combine"
+     1 string m_Localized = "Поєднати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -46,7 +46,7 @@
    [3]
     0 TableEntryData data
      0 SInt64 m_Id = 266542587904
-     1 string m_Localized = "Cut"
+     1 string m_Localized = "Вирізати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -54,7 +54,7 @@
    [4]
     0 TableEntryData data
      0 SInt64 m_Id = 308057808896
-     1 string m_Localized = "Level"
+     1 string m_Localized = "Рівень"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -62,7 +62,7 @@
    [5]
     0 TableEntryData data
      0 SInt64 m_Id = 352425156608
-     1 string m_Localized = "Above"
+     1 string m_Localized = "Вище"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -70,7 +70,7 @@
    [6]
     0 TableEntryData data
      0 SInt64 m_Id = 400491880448
-     1 string m_Localized = "Equip"
+     1 string m_Localized = "Екіпірувати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -78,7 +78,7 @@
    [7]
     0 TableEntryData data
      0 SInt64 m_Id = 444221693952
-     1 string m_Localized = "Place\nHorizontal"
+     1 string m_Localized = "Розмістити\nГоризонтально"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -86,7 +86,7 @@
    [8]
     0 TableEntryData data
      0 SInt64 m_Id = 584659574784
-     1 string m_Localized = "Place\nVertical"
+     1 string m_Localized = "Розмістити\nВертикально"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -94,7 +94,7 @@
    [9]
     0 TableEntryData data
      0 SInt64 m_Id = 671519416320
-     1 string m_Localized = "Place\nFire"
+     1 string m_Localized = "Розмістити\nЗапалити"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -102,7 +102,7 @@
    [10]
     0 TableEntryData data
      0 SInt64 m_Id = 718776639488
-     1 string m_Localized = "Place\nBeam"
+     1 string m_Localized = "Розмістити\nBeam"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -110,7 +110,7 @@
    [11]
     0 TableEntryData data
      0 SInt64 m_Id = 759079706624
-     1 string m_Localized = "Place\nWall"
+     1 string m_Localized = "Розмістити\nСтіну"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -118,7 +118,7 @@
    [12]
     0 TableEntryData data
      0 SInt64 m_Id = 813026844672
-     1 string m_Localized = "Place\nPillar"
+     1 string m_Localized = "Розмістити\nСтовп"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -126,7 +126,7 @@
    [13]
     0 TableEntryData data
      0 SInt64 m_Id = 868492320768
-     1 string m_Localized = "Place\nStrut"
+     1 string m_Localized = "Розмістити\nОпору"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -134,7 +134,7 @@
    [14]
     0 TableEntryData data
      0 SInt64 m_Id = 921399271424
-     1 string m_Localized = "Place\nFloor"
+     1 string m_Localized = "Розмістити\nПідлогу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -142,7 +142,7 @@
    [15]
     0 TableEntryData data
      0 SInt64 m_Id = 958976040960
-     1 string m_Localized = "Place\nStairs"
+     1 string m_Localized = "Розмістити\nСходи"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -150,7 +150,7 @@
    [16]
     0 TableEntryData data
      0 SInt64 m_Id = 1071416942592
-     1 string m_Localized = "Place\nRamp"
+     1 string m_Localized = "Розмістити\nПандус"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -158,7 +158,7 @@
    [17]
     0 TableEntryData data
      0 SInt64 m_Id = 1120918118400
-     1 string m_Localized = "Place\nPost"
+     1 string m_Localized = "Розмістити\nПост"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -166,7 +166,7 @@
    [18]
     0 TableEntryData data
      0 SInt64 m_Id = 1157639249920
-     1 string m_Localized = "Place\nFence"
+     1 string m_Localized = "Розмістити\nПаркан"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -174,7 +174,7 @@
    [19]
     0 TableEntryData data
      0 SInt64 m_Id = 1211942903808
-     1 string m_Localized = "Place\nApex"
+     1 string m_Localized = "Розмістити\nApex"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -182,7 +182,7 @@
    [20]
     0 TableEntryData data
      0 SInt64 m_Id = 1253554593792
-     1 string m_Localized = "Place\nRock Wall"
+     1 string m_Localized = "Розмістити\nКам'яну стіну"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -190,7 +190,7 @@
    [21]
     0 TableEntryData data
      0 SInt64 m_Id = 1292570009600
-     1 string m_Localized = "Place\nColumn"
+     1 string m_Localized = "Розмістити\nКолона"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -198,7 +198,7 @@
    [22]
     0 TableEntryData data
      0 SInt64 m_Id = 1358680629248
-     1 string m_Localized = "Place\nAlternating"
+     1 string m_Localized = "Розмістити\nПочергово"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -206,7 +206,7 @@
    [23]
     0 TableEntryData data
      0 SInt64 m_Id = 1430831046656
-     1 string m_Localized = "Place\nLadder"
+     1 string m_Localized = "Розмістити\nДрабину"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -214,7 +214,7 @@
    [24]
     0 TableEntryData data
      0 SInt64 m_Id = 1466809786368
-     1 string m_Localized = "Place\nHook"
+     1 string m_Localized = "Розмістити\nГак"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -222,7 +222,7 @@
    [25]
     0 TableEntryData data
      0 SInt64 m_Id = 1503648358400
-     1 string m_Localized = "Place\nTarp"
+     1 string m_Localized = "Розмістити\nБрезент"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -230,7 +230,7 @@
    [26]
     0 TableEntryData data
      0 SInt64 m_Id = 1548997173248
-     1 string m_Localized = "Place\nTarp Stake"
+     1 string m_Localized = "Розмістити\nБрезентовий кіл"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -238,7 +238,7 @@
    [27]
     0 TableEntryData data
      0 SInt64 m_Id = 1614323458048
-     1 string m_Localized = "Place\nDoor"
+     1 string m_Localized = "Розмістити\nДвері"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -246,7 +246,7 @@
    [28]
     0 TableEntryData data
      0 SInt64 m_Id = 1651526934528
-     1 string m_Localized = "Place\nDefensive Wall"
+     1 string m_Localized = "Розмістити\nЗахисну стіну"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -254,7 +254,7 @@
    [29]
     0 TableEntryData data
      0 SInt64 m_Id = 1703016210432
-     1 string m_Localized = "Place\nBridge Rope"
+     1 string m_Localized = "Розмістити\nМотузковий міст"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -262,7 +262,7 @@
    [30]
     0 TableEntryData data
      0 SInt64 m_Id = 1784566063104
-     1 string m_Localized = "Place\nBridge Floor"
+     1 string m_Localized = "Розмістити\nМіст-поверх"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -270,7 +270,7 @@
    [31]
     0 TableEntryData data
      0 SInt64 m_Id = 1836072116224
-     1 string m_Localized = "Place\nGate"
+     1 string m_Localized = "Розмістити\nВорота"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -278,7 +278,7 @@
    [32]
     0 TableEntryData data
      0 SInt64 m_Id = 1912223899648
-     1 string m_Localized = "Place\nStack"
+     1 string m_Localized = "Розмістити\nStack"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -286,7 +286,7 @@
    [33]
     0 TableEntryData data
      0 SInt64 m_Id = 1967907479552
-     1 string m_Localized = "Reinforce"
+     1 string m_Localized = "Посилити"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -294,7 +294,7 @@
    [34]
     0 TableEntryData data
      0 SInt64 m_Id = 2020277559296
-     1 string m_Localized = "Raft"
+     1 string m_Localized = "Пліт"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -302,7 +302,7 @@
    [35]
     0 TableEntryData data
      0 SInt64 m_Id = 2061343989760
-     1 string m_Localized = "Support"
+     1 string m_Localized = "Підтримка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -310,7 +310,7 @@
    [36]
     0 TableEntryData data
      0 SInt64 m_Id = 2106407591936
-     1 string m_Localized = "Place\nTrap"
+     1 string m_Localized = "Розмістити\nПастку"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -318,7 +318,7 @@
    [37]
     0 TableEntryData data
      0 SInt64 m_Id = 2147587268608
-     1 string m_Localized = "Mode"
+     1 string m_Localized = "Режим"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -326,7 +326,7 @@
    [38]
     0 TableEntryData data
      0 SInt64 m_Id = 2186065813504
-     1 string m_Localized = "Lift"
+     1 string m_Localized = "Підняти"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -334,7 +334,7 @@
    [39]
     0 TableEntryData data
      0 SInt64 m_Id = 2223449645056
-     1 string m_Localized = "Pickup"
+     1 string m_Localized = "Забрати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -342,7 +342,7 @@
    [40]
     0 TableEntryData data
      0 SInt64 m_Id = 2344975409152
-     1 string m_Localized = "Drop"
+     1 string m_Localized = "Викинути"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -350,7 +350,7 @@
    [41]
     0 TableEntryData data
      0 SInt64 m_Id = 2426810474496
-     1 string m_Localized = "Blocked"
+     1 string m_Localized = "Заблоковано"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -358,7 +358,7 @@
    [42]
     0 TableEntryData data
      0 SInt64 m_Id = 2508855255040
-     1 string m_Localized = "Unpack"
+     1 string m_Localized = "Розпакувати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -366,7 +366,7 @@
    [43]
     0 TableEntryData data
      0 SInt64 m_Id = 2656624779264
-     1 string m_Localized = "Close"
+     1 string m_Localized = "Закрити"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -374,7 +374,7 @@
    [44]
     0 TableEntryData data
      0 SInt64 m_Id = 2850556813312
-     1 string m_Localized = "Switch Mode"
+     1 string m_Localized = "Перемикання режиму"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -382,7 +382,7 @@
    [45]
     0 TableEntryData data
      0 SInt64 m_Id = 3317303156736
-     1 string m_Localized = "Rotate"
+     1 string m_Localized = "Обертати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -390,7 +390,7 @@
    [46]
     0 TableEntryData data
      0 SInt64 m_Id = 26053144518062080
-     1 string m_Localized = "Game Saved"
+     1 string m_Localized = "Гру збережено"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -398,7 +398,7 @@
    [47]
     0 TableEntryData data
      0 SInt64 m_Id = 26053199937400832
-     1 string m_Localized = "Game Loaded"
+     1 string m_Localized = "Гру завантажено"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

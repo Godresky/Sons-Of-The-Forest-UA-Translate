@@ -25,7 +25,7 @@
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 77557309440
-     1 string m_Localized = "Forward"
+     1 string m_Localized = "Уперед"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -33,7 +33,7 @@
    [1]
     0 TableEntryData data
      0 SInt64 m_Id = 125242351616
-     1 string m_Localized = "Backward"
+     1 string m_Localized = "Назад"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -41,7 +41,7 @@
    [2]
     0 TableEntryData data
      0 SInt64 m_Id = 178627452928
-     1 string m_Localized = "Right"
+     1 string m_Localized = "Праворуч"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -49,7 +49,7 @@
    [3]
     0 TableEntryData data
      0 SInt64 m_Id = 216439103488
-     1 string m_Localized = "Left"
+     1 string m_Localized = "Ліворуч"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -57,7 +57,7 @@
    [4]
     0 TableEntryData data
      0 SInt64 m_Id = 239075762176
-     1 string m_Localized = "Crouch"
+     1 string m_Localized = "Скрадання"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -65,7 +65,7 @@
    [5]
     0 TableEntryData data
      0 SInt64 m_Id = 257253875712
-     1 string m_Localized = "Drop"
+     1 string m_Localized = "Викинути"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -73,7 +73,7 @@
    [6]
     0 TableEntryData data
      0 SInt64 m_Id = 282147069952
-     1 string m_Localized = "Inventory"
+     1 string m_Localized = "Інвентар"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -81,7 +81,7 @@
    [7]
     0 TableEntryData data
      0 SInt64 m_Id = 309678481408
-     1 string m_Localized = "Jump"
+     1 string m_Localized = "Стрибок"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -89,7 +89,7 @@
    [8]
     0 TableEntryData data
      0 SInt64 m_Id = 350946238464
-     1 string m_Localized = "Lighter"
+     1 string m_Localized = "Запальничка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -97,7 +97,7 @@
    [9]
     0 TableEntryData data
      0 SInt64 m_Id = 376221114368
-     1 string m_Localized = "Reload"
+     1 string m_Localized = "Перезаряджання"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -105,7 +105,7 @@
    [10]
     0 TableEntryData data
      0 SInt64 m_Id = 400585826304
-     1 string m_Localized = "Run"
+     1 string m_Localized = "Біг"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -113,7 +113,7 @@
    [11]
     0 TableEntryData data
      0 SInt64 m_Id = 424589828096
-     1 string m_Localized = "Take"
+     1 string m_Localized = "Узяти"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -121,7 +121,7 @@
    [12]
     0 TableEntryData data
      0 SInt64 m_Id = 437109825536
-     1 string m_Localized = "Dismantle"
+     1 string m_Localized = "Розібрати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -129,7 +129,7 @@
    [13]
     0 TableEntryData data
      0 SInt64 m_Id = 462913183744
-     1 string m_Localized = "Utility"
+     1 string m_Localized = "Пристрій"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -137,7 +137,7 @@
    [14]
     0 TableEntryData data
      0 SInt64 m_Id = 493951033344
-     1 string m_Localized = "Book"
+     1 string m_Localized = "Книга"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -145,7 +145,7 @@
    [15]
     0 TableEntryData data
      0 SInt64 m_Id = 521385975808
-     1 string m_Localized = "Rotate Right"
+     1 string m_Localized = "Повернути вправо"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -153,7 +153,7 @@
    [16]
     0 TableEntryData data
      0 SInt64 m_Id = 547491323904
-     1 string m_Localized = "Rotate Left"
+     1 string m_Localized = "Повернути вліво"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -161,7 +161,7 @@
    [17]
     0 TableEntryData data
      0 SInt64 m_Id = 570878763008
-     1 string m_Localized = "Primary Action"
+     1 string m_Localized = "Основна дія"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -169,7 +169,7 @@
    [18]
     0 TableEntryData data
      0 SInt64 m_Id = 598640861184
-     1 string m_Localized = "Secondary Action"
+     1 string m_Localized = "Вторинна дія"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -177,7 +177,7 @@
    [19]
     0 TableEntryData data
      0 SInt64 m_Id = 624003817472
-     1 string m_Localized = "Interact"
+     1 string m_Localized = "Взаємодія"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -185,7 +185,7 @@
    [20]
     0 TableEntryData data
      0 SInt64 m_Id = 1134526111744
-     1 string m_Localized = "Alternate Interact"
+     1 string m_Localized = "Альтернативна взаємодія"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -193,7 +193,7 @@
    [21]
     0 TableEntryData data
      0 SInt64 m_Id = 1178193010688
-     1 string m_Localized = "Place Element"
+     1 string m_Localized = "Розмістити елемент"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -201,7 +201,7 @@
    [22]
     0 TableEntryData data
      0 SInt64 m_Id = 1231989153792
-     1 string m_Localized = "Toggle Place Mode"
+     1 string m_Localized = "Увімкнути режим розміщення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -209,7 +209,7 @@
    [23]
     0 TableEntryData data
      0 SInt64 m_Id = 1260678193152
-     1 string m_Localized = "Tertiary Action"
+     1 string m_Localized = "Третинна дія"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -217,7 +217,7 @@
    [24]
     0 TableEntryData data
      0 SInt64 m_Id = 1336209219584
-     1 string m_Localized = "Sleep"
+     1 string m_Localized = "Спати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -225,7 +225,7 @@
    [25]
     0 TableEntryData data
      0 SInt64 m_Id = 1350901866496
-     1 string m_Localized = "Save"
+     1 string m_Localized = "Зберегти"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -233,7 +233,7 @@
    [26]
     0 TableEntryData data
      0 SInt64 m_Id = 1380580761600
-     1 string m_Localized = "Skip"
+     1 string m_Localized = "Пропустити"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -241,7 +241,7 @@
    [27]
     0 TableEntryData data
      0 SInt64 m_Id = 1423194890240
-     1 string m_Localized = "Apply"
+     1 string m_Localized = "Застосувати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -249,7 +249,7 @@
    [28]
     0 TableEntryData data
      0 SInt64 m_Id = 1520456605696
-     1 string m_Localized = "Select"
+     1 string m_Localized = "Вибрати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -257,7 +257,7 @@
    [29]
     0 TableEntryData data
      0 SInt64 m_Id = 1540102725632
-     1 string m_Localized = "Back"
+     1 string m_Localized = "Назад"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -265,7 +265,7 @@
    [30]
     0 TableEntryData data
      0 SInt64 m_Id = 1636823375872
-     1 string m_Localized = "Next Page"
+     1 string m_Localized = "Наступна сторінка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -273,7 +273,7 @@
    [31]
     0 TableEntryData data
      0 SInt64 m_Id = 1665826988032
-     1 string m_Localized = "Previous Page"
+     1 string m_Localized = "Попередня сторінка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -281,7 +281,7 @@
    [32]
     0 TableEntryData data
      0 SInt64 m_Id = 1694717353984
-     1 string m_Localized = "Cancel Structure"
+     1 string m_Localized = "Скасувати будівництво"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -289,7 +289,7 @@
    [33]
     0 TableEntryData data
      0 SInt64 m_Id = 1743924928512
-     1 string m_Localized = "Toggle Book Mode"
+     1 string m_Localized = "Перемикання режиму книги"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -297,7 +297,7 @@
    [34]
     0 TableEntryData data
      0 SInt64 m_Id = 1776690831360
-     1 string m_Localized = "Book Flip Next Page"
+     1 string m_Localized = "Перегорнути на наступну сторінку"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -305,7 +305,7 @@
    [35]
     0 TableEntryData data
      0 SInt64 m_Id = 1844772773888
-     1 string m_Localized = "Book Flip Previous Page"
+     1 string m_Localized = "Перегорнути на попередню сторінку"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -313,7 +313,7 @@
    [36]
     0 TableEntryData data
      0 SInt64 m_Id = 1879245758464
-     1 string m_Localized = "Place"
+     1 string m_Localized = "Розмістити"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -321,7 +321,7 @@
    [37]
     0 TableEntryData data
      0 SInt64 m_Id = 4412667423354880
-     1 string m_Localized = "Cycle Grab Bag Category"
+     1 string m_Localized = "Категорія велосумки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -329,7 +329,7 @@
    [38]
     0 TableEntryData data
      0 SInt64 m_Id = 12962236116856832
-     1 string m_Localized = "Player list (multiplayer)"
+     1 string m_Localized = "Список гравців (мультиплеєр)"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
