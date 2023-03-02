@@ -22,7 +22,7 @@
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 58675089408
-     1 string m_Localized = "FOLLOW ME"
+     1 string m_Localized = "ЙДИ ЗА МНОЮ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -30,7 +30,7 @@
    [1]
     0 TableEntryData data
      0 SInt64 m_Id = 39642877915136
-     1 string m_Localized = "FIRE"
+     1 string m_Localized = "БАГАТТЯ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -46,7 +46,7 @@
    [3]
     0 TableEntryData data
      0 SInt64 m_Id = 38522784837632
-     1 string m_Localized = "GET"
+     1 string m_Localized = "ВІЗЬМИ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -54,7 +54,7 @@
    [4]
     0 TableEntryData data
      0 SInt64 m_Id = 39115746177024
-     1 string m_Localized = "BUILD"
+     1 string m_Localized = "ЗБУДУЙ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -62,7 +62,7 @@
    [5]
     0 TableEntryData data
      0 SInt64 m_Id = 39182645325824
-     1 string m_Localized = "STAY"
+     1 string m_Localized = "СТІЙ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -70,7 +70,7 @@
    [6]
     0 TableEntryData data
      0 SInt64 m_Id = 39220905766912
-     1 string m_Localized = "TAKE A BREAK"
+     1 string m_Localized = "ВІДПОЧИНЬ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -78,7 +78,7 @@
    [7]
     0 TableEntryData data
      0 SInt64 m_Id = 39276992000000
-     1 string m_Localized = "CLEAR"
+     1 string m_Localized = "ОЧИСТИ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -86,7 +86,7 @@
    [8]
     0 TableEntryData data
      0 SInt64 m_Id = 39290149531648
-     1 string m_Localized = "TAKE ITEM"
+     1 string m_Localized = "ВІЗЬМИ ПРЕДМЕТ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -94,7 +94,7 @@
    [9]
     0 TableEntryData data
      0 SInt64 m_Id = 39324047896576
-     1 string m_Localized = "DROP HERE"
+     1 string m_Localized = "КИНЬ ТУТ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -102,7 +102,7 @@
    [10]
     0 TableEntryData data
      0 SInt64 m_Id = 39347590524928
-     1 string m_Localized = "GIVE TO ME"
+     1 string m_Localized = "ДАЙ МЕНІ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -110,7 +110,7 @@
    [11]
     0 TableEntryData data
      0 SInt64 m_Id = 40975353769984
-     1 string m_Localized = "SHELTER"
+     1 string m_Localized = "УКРИТТЯ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -142,7 +142,7 @@
    [15]
     0 TableEntryData data
      0 SInt64 m_Id = 41249514450944
-     1 string m_Localized = "STICKS"
+     1 string m_Localized = "ПАЛИЦІ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -150,7 +150,7 @@
    [16]
     0 TableEntryData data
      0 SInt64 m_Id = 41286394966016
-     1 string m_Localized = "ROCKS"
+     1 string m_Localized = "КАМІННЯ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -158,7 +158,7 @@
    [17]
     0 TableEntryData data
      0 SInt64 m_Id = 41304921206784
-     1 string m_Localized = "LOGS"
+     1 string m_Localized = "КОЛОДИ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -190,7 +190,7 @@
    [21]
     0 TableEntryData data
      0 SInt64 m_Id = 41385103716352
-     1 string m_Localized = "FISH"
+     1 string m_Localized = "РИБУ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -198,7 +198,7 @@
    [22]
     0 TableEntryData data
      0 SInt64 m_Id = 41428770615296
-     1 string m_Localized = "METERS"
+     1 string m_Localized = "МЕТРІВ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -206,7 +206,7 @@
    [23]
     0 TableEntryData data
      0 SInt64 m_Id = 42090858278912
-     1 string m_Localized = "HERE"
+     1 string m_Localized = "ТУТ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -214,7 +214,7 @@
    [24]
     0 TableEntryData data
      0 SInt64 m_Id = 42108168171520
-     1 string m_Localized = "HIDDEN"
+     1 string m_Localized = "ПРИХОВАНО"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -222,7 +222,7 @@
    [25]
     0 TableEntryData data
      0 SInt64 m_Id = 26502776249380864
-     1 string m_Localized = "AND"
+     1 string m_Localized = "ТА"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

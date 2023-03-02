@@ -329,7 +329,7 @@
    [38]
     0 TableEntryData data
      0 SInt64 m_Id = 12962236116856832
-     1 string m_Localized = "Список гравців (мультиплеєр)"
+     1 string m_Localized = "Список гравців (багатоосібна)"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -337,7 +337,7 @@
    [39]
     0 TableEntryData data
      0 SInt64 m_Id = 18148705387245568
-     1 string m_Localized = "Hotkey {index}"
+     1 string m_Localized = "Гаряча клавіша {index}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)

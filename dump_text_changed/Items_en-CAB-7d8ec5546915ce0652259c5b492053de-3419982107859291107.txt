@@ -1686,7 +1686,7 @@
    [208]
     0 TableEntryData data
      0 SInt64 m_Id = 14145502912569
-     1 string m_Localized = "Emergency Pack"
+     1 string m_Localized = "Cумка для надзвичайних ситуацій"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1694,7 +1694,7 @@
    [209]
     0 TableEntryData data
      0 SInt64 m_Id = 14145502912570
-     1 string m_Localized = "Emergency Packs"
+     1 string m_Localized = "Cумки для надзвичайних ситуацій"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2550,7 +2550,7 @@
    [316]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495457
-     1 string m_Localized = "Log"
+     1 string m_Localized = "Колода"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2558,7 +2558,7 @@
    [317]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495458
-     1 string m_Localized = "Logs"
+     1 string m_Localized = "Колоди"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3062,7 +3062,7 @@
    [380]
     0 TableEntryData data
      0 SInt64 m_Id = 14145519689785
-     1 string m_Localized = "Rock"
+     1 string m_Localized = "Камінь"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3070,7 +3070,7 @@
    [381]
     0 TableEntryData data
      0 SInt64 m_Id = 14145519689786
-     1 string m_Localized = "Rocks"
+     1 string m_Localized = "Камені"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3350,7 +3350,7 @@
    [416]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884074
-     1 string m_Localized = "Small Rock"
+     1 string m_Localized = "Камінчик"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3358,7 +3358,7 @@
    [417]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884075
-     1 string m_Localized = "Small Rocks"
+     1 string m_Localized = "Камінчики"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4174,7 +4174,7 @@
    [519]
     0 TableEntryData data
      0 SInt64 m_Id = 655808921788416
-     1 string m_Localized = "Add Items to the Mat to Open or Combine Them"
+     1 string m_Localized = "Покладіть речі на килимок, щоб розпакувати або об’єднати їх"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4182,7 +4182,7 @@
    [520]
     0 TableEntryData data
      0 SInt64 m_Id = 656826241835008
-     1 string m_Localized = "Click the Gear to Open the Emergency Pack"
+     1 string m_Localized = "Натисніть на шестерню, щоб розпакувати сумку для надзвичайних ситуацій"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4198,7 +4198,7 @@
    [522]
     0 TableEntryData data
      0 SInt64 m_Id = 660505028124672
-     1 string m_Localized = "OK"
+     1 string m_Localized = "Гаразд"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

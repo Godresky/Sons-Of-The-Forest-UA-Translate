@@ -134,7 +134,7 @@
    [14]
     0 TableEntryData data
      0 SInt64 m_Id = 1233841852416
-     1 string m_Localized = "ВАШЕ ЗДОРОВ'Я ТРОХИ ЗБІЛЬШИТЬСЯ, КОЛИ ВИ ПІДВИЩИТЕ РІВЕНЬ СИЛИ"
+     1 string m_Localized = "ВАШЕ ЗДОРОВ’Я ТРОХИ ЗБІЛЬШИТЬСЯ, КОЛИ ВИ ПІДВИЩИТЕ РІВЕНЬ СИЛИ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -158,7 +158,7 @@
    [17]
     0 TableEntryData data
      0 SInt64 m_Id = 3206871814144
-     1 string m_Localized = "ВИКОРИСТОВУЙТЕ КУЩІ, ЩОБИ СХОВАТИСЯ ВІД ВОРОГІВ"
+     1 string m_Localized = "ВИКОРИСТОВУЙТЕ КУЩІ, ЩОБИ ЗАХОВАТИСЯ ВІД ВОРОГІВ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -206,7 +206,7 @@
    [23]
     0 TableEntryData data
      0 SInt64 m_Id = 16335123025920
-     1 string m_Localized = "ПОРАДА: ВИКОРИСТОВУЙТЕ КУЩІ, ЩОБИ СХОВАТИСЯ ВІД ВОРОГІВ"
+     1 string m_Localized = "ПОРАДА: ВИКОРИСТОВУЙТЕ КУЩІ, ЩОБИ ЗАХОВАТИСЯ ВІД ВОРОГІВ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -238,7 +238,7 @@
    [27]
     0 TableEntryData data
      0 SInt64 m_Id = 60698744467673088
-     1 string m_Localized = "У мультиплеєрі будьте люб'язні один із одним."
+     1 string m_Localized = "У багатоосібній грі будьте люб’язні один із одним."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
