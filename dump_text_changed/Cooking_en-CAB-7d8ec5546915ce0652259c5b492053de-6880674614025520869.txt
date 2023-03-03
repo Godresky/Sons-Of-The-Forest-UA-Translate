@@ -22,7 +22,7 @@
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 1773254025216
-     1 string m_Localized = "Boiled Meat"
+     1 string m_Localized = "Зварене м’ясо"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -30,7 +30,7 @@
    [1]
     0 TableEntryData data
      0 SInt64 m_Id = 1888362504192
-     1 string m_Localized = "Grilled Arm"
+     1 string m_Localized = "Смажена рука"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -38,7 +38,7 @@
    [2]
     0 TableEntryData data
      0 SInt64 m_Id = 1918376943616
-     1 string m_Localized = "Grilled Fish"
+     1 string m_Localized = "Смажена риба"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -46,7 +46,7 @@
    [3]
     0 TableEntryData data
      0 SInt64 m_Id = 1933006675968
-     1 string m_Localized = "Grilled Leg"
+     1 string m_Localized = "Смажена нога"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -54,7 +54,7 @@
    [4]
     0 TableEntryData data
      0 SInt64 m_Id = 1959791501312
-     1 string m_Localized = "Grilled Meat"
+     1 string m_Localized = "Смажене м’ясо"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -62,7 +62,7 @@
    [5]
     0 TableEntryData data
      0 SInt64 m_Id = 2004347592704
-     1 string m_Localized = "Skull"
+     1 string m_Localized = "Череп"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -70,7 +70,7 @@
    [6]
     0 TableEntryData data
      0 SInt64 m_Id = 2017396072448
-     1 string m_Localized = "Meat Surprise"
+     1 string m_Localized = "М’ясний сюрприз"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -78,7 +78,7 @@
    [7]
     0 TableEntryData data
      0 SInt64 m_Id = 2043434311680
-     1 string m_Localized = "Meat Stew"
+     1 string m_Localized = "М’ясне раґу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -86,7 +86,7 @@
    [8]
     0 TableEntryData data
      0 SInt64 m_Id = 2064581992448
-     1 string m_Localized = "Water"
+     1 string m_Localized = "Вода"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -94,7 +94,7 @@
    [9]
     0 TableEntryData data
      0 SInt64 m_Id = 2758403760128
-     1 string m_Localized = "EMPTY"
+     1 string m_Localized = "ПУСТО"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
