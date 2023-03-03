@@ -145,7 +145,7 @@
    [15]
     0 TableEntryData data
      0 SInt64 m_Id = 84707502682087424
-     1 string m_Localized = "VSync"
+     1 string m_Localized = "Вертикальна сихронізація"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -193,7 +193,7 @@
    [21]
     0 TableEntryData data
      0 SInt64 m_Id = 84711201471012864
-     1 string m_Localized = "Переднабір якости"
+     1 string m_Localized = "Якість ґрафіки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -481,7 +481,7 @@
    [57]
     0 TableEntryData data
      0 SInt64 m_Id = 84714673285177344
-     1 string m_Localized = "Призначення клаценів"
+     1 string m_Localized = "Прив’язки клавіш"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -601,7 +601,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 84873081612791808
-     1 string m_Localized = "Balanced"
+     1 string m_Localized = "Збалансован."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -609,7 +609,7 @@
    [73]
     0 TableEntryData data
      0 SInt64 m_Id = 84873124612796416
-     1 string m_Localized = "Performance"
+     1 string m_Localized = "Продуктивність"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -833,7 +833,7 @@
    [101]
     0 TableEntryData data
      0 SInt64 m_Id = 88303008987664384
-     1 string m_Localized = "Grass"
+     1 string m_Localized = "Трава"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -841,7 +841,7 @@
    [102]
     0 TableEntryData data
      0 SInt64 m_Id = 89888093920632832
-     1 string m_Localized = "Terrain Tessellation"
+     1 string m_Localized = "Теселяція поверхні"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -849,7 +849,7 @@
    [103]
     0 TableEntryData data
      0 SInt64 m_Id = 89888093966770176
-     1 string m_Localized = "Parallax Distance"
+     1 string m_Localized = "Відстань паралаксу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -857,7 +857,7 @@
    [104]
     0 TableEntryData data
      0 SInt64 m_Id = 89888093970964480
-     1 string m_Localized = "Billboard Quality"
+     1 string m_Localized = "Якість надписів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -865,7 +865,7 @@
    [105]
     0 TableEntryData data
      0 SInt64 m_Id = 91233855424352256
-     1 string m_Localized = "Upscale Filter"
+     1 string m_Localized = "Апскейл обробка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1025,7 +1025,7 @@
    [125]
     0 TableEntryData data
      0 SInt64 m_Id = 104561200050655232
-     1 string m_Localized = "Small Speakers"
+     1 string m_Localized = "Малі колонки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1033,7 +1033,7 @@
    [126]
     0 TableEntryData data
      0 SInt64 m_Id = 104561778227073024
-     1 string m_Localized = "Night Time"
+     1 string m_Localized = "Нічний час"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1185,7 +1185,7 @@
    [145]
     0 TableEntryData data
      0 SInt64 m_Id = 106737045502074880
-     1 string m_Localized = "Press any key... {delay}"
+     1 string m_Localized = "Натисніть будь-яка клавіша... {delay}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1196,7 +1196,7 @@
    [146]
     0 TableEntryData data
      0 SInt64 m_Id = 106737105161854976
-     1 string m_Localized = "Press any button... {delay}"
+     1 string m_Localized = "Натисніть будь-яка клавіша... {delay}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1207,7 +1207,7 @@
    [147]
     0 TableEntryData data
      0 SInt64 m_Id = 107193896765136896
-     1 string m_Localized = "GamePad Deadzone"
+     1 string m_Localized = "Мертва зона ґеймпада"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1215,7 +1215,7 @@
    [148]
     0 TableEntryData data
      0 SInt64 m_Id = 108100087699644416
-     1 string m_Localized = "Disabled"
+     1 string m_Localized = "Вимкнут."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1223,7 +1223,7 @@
    [149]
     0 TableEntryData data
      0 SInt64 m_Id = 108100172005154816
-     1 string m_Localized = "{0} hz"
+     1 string m_Localized = "{0} ГЦ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1234,7 +1234,7 @@
    [150]
     0 TableEntryData data
      0 SInt64 m_Id = 108100768057696256
-     1 string m_Localized = "{0} hz"
+     1 string m_Localized = "{0} ГЦ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1245,7 +1245,7 @@
    [151]
     0 TableEntryData data
      0 SInt64 m_Id = 108100771559940096
-     1 string m_Localized = "{0} hz"
+     1 string m_Localized = "{0} ГЦ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1256,7 +1256,7 @@
    [152]
     0 TableEntryData data
      0 SInt64 m_Id = 108149175698759680
-     1 string m_Localized = "Exclusive Fullscreen"
+     1 string m_Localized = "Повноекранний"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1264,7 +1264,7 @@
    [153]
     0 TableEntryData data
      0 SInt64 m_Id = 108149268694867968
-     1 string m_Localized = "Windowed"
+     1 string m_Localized = "Віконний"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1272,7 +1272,7 @@
    [154]
     0 TableEntryData data
      0 SInt64 m_Id = 108149261023485952
-     1 string m_Localized = "Windowed Borderless"
+     1 string m_Localized = "Повноекранний без меж"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1280,7 +1280,7 @@
    [155]
     0 TableEntryData data
      0 SInt64 m_Id = 108179385164931072
-     1 string m_Localized = "Max FPS"
+     1 string m_Localized = "Обмеження FPS"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1304,7 +1304,7 @@
    [158]
     0 TableEntryData data
      0 SInt64 m_Id = 111154061660786688
-     1 string m_Localized = "Reset keyboard bindings to default?"
+     1 string m_Localized = "Скинути прив’язки клавіш за замовчуванням?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1312,7 +1312,7 @@
    [159]
     0 TableEntryData data
      0 SInt64 m_Id = 111153436076150784
-     1 string m_Localized = "Replace existing save?"
+     1 string m_Localized = "Замінити наявне збереження?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1320,7 +1320,7 @@
    [160]
     0 TableEntryData data
      0 SInt64 m_Id = 111153555144052736
-     1 string m_Localized = "Reset all settings to default?"
+     1 string m_Localized = "Скинути усі налаштування за замовчуванням?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1328,7 +1328,7 @@
    [161]
     0 TableEntryData data
      0 SInt64 m_Id = 111153638933663744
-     1 string m_Localized = "Start new game on this server?"
+     1 string m_Localized = "Почати нову гру на цьому сервері?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1336,7 +1336,7 @@
    [162]
     0 TableEntryData data
      0 SInt64 m_Id = 111153895956418560
-     1 string m_Localized = "Quit to title?"
+     1 string m_Localized = "Вийти у головне меню?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1344,7 +1344,7 @@
    [163]
     0 TableEntryData data
      0 SInt64 m_Id = 111154184012828672
-     1 string m_Localized = "Reset gamepad bindings to default?"
+     1 string m_Localized = "Скинути прив’язки ґеймпаду за замовчуванням?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1352,7 +1352,7 @@
    [164]
     0 TableEntryData data
      0 SInt64 m_Id = 111154266984550400
-     1 string m_Localized = "Keyboard"
+     1 string m_Localized = "Клавіятура"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1360,7 +1360,7 @@
    [165]
     0 TableEntryData data
      0 SInt64 m_Id = 111154296839606272
-     1 string m_Localized = "Gamepad"
+     1 string m_Localized = "Ґеймпад"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1368,7 +1368,7 @@
    [166]
     0 TableEntryData data
      0 SInt64 m_Id = 111154807986851840
-     1 string m_Localized = "Guest"
+     1 string m_Localized = "Гість"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1376,7 +1376,7 @@
    [167]
     0 TableEntryData data
      0 SInt64 m_Id = 111154880418287616
-     1 string m_Localized = "Trusted"
+     1 string m_Localized = "Довірений"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1384,7 +1384,7 @@
    [168]
     0 TableEntryData data
      0 SInt64 m_Id = 111154926547243008
-     1 string m_Localized = "Admin"
+     1 string m_Localized = "Адмін"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1392,7 +1392,7 @@
    [169]
     0 TableEntryData data
      0 SInt64 m_Id = 111155074371293184
-     1 string m_Localized = "Ban"
+     1 string m_Localized = "Заблокувати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1400,7 +1400,7 @@
    [170]
     0 TableEntryData data
      0 SInt64 m_Id = 111155101386805248
-     1 string m_Localized = "Kick"
+     1 string m_Localized = "Вигнати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1408,7 +1408,7 @@
    [171]
     0 TableEntryData data
      0 SInt64 m_Id = 111155691420520448
-     1 string m_Localized = "Filter"
+     1 string m_Localized = "Шукання"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1432,7 +1432,7 @@
    [174]
     0 TableEntryData data
      0 SInt64 m_Id = 111156000658165760
-     1 string m_Localized = "Game name"
+     1 string m_Localized = "Назва гри"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1448,7 +1448,7 @@
    [176]
     0 TableEntryData data
      0 SInt64 m_Id = 111158312214597632
-     1 string m_Localized = "Reset bindings to default?"
+     1 string m_Localized = "Скинути прив’язки за замовчуванням?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1584,7 +1584,7 @@
    [193]
     0 TableEntryData data
      0 SInt64 m_Id = 115682874425700352
-     1 string m_Localized = "Authorize"
+     1 string m_Localized = "Авторизація"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1592,7 +1592,7 @@
    [194]
     0 TableEntryData data
      0 SInt64 m_Id = 115682919870984192
-     1 string m_Localized = "You've been invited to a lobby {0}"
+     1 string m_Localized = "Ви були запрошені «{0}»"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1600,7 +1600,7 @@
    [195]
     0 TableEntryData data
      0 SInt64 m_Id = 115683476044083200
-     1 string m_Localized = "Тебе вигнали :("
+     1 string m_Localized = "Вас вигнали :("
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1608,7 +1608,7 @@
    [196]
     0 TableEntryData data
      0 SInt64 m_Id = 115683690914082816
-     1 string m_Localized = "Ти був заблокований :("
+     1 string m_Localized = "Вас було заблоковано :("
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1616,7 +1616,7 @@
    [197]
     0 TableEntryData data
      0 SInt64 m_Id = 115684115125989376
-     1 string m_Localized = "You are about to join lobby {0}"
+     1 string m_Localized = "Ви збираєтеся приєднатися до лобі «{0}»"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1624,7 +1624,7 @@
    [198]
     0 TableEntryData data
      0 SInt64 m_Id = 115685026393059328
-     1 string m_Localized = "Waiting for the host to start the game"
+     1 string m_Localized = "Чекаємо, поки гост почне гру"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1664,7 +1664,7 @@
    [203]
     0 TableEntryData data
      0 SInt64 m_Id = 115686715225370624
-     1 string m_Localized = "Starting client"
+     1 string m_Localized = "Запуск клієнту"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1672,7 +1672,7 @@
    [204]
     0 TableEntryData data
      0 SInt64 m_Id = 115686840559562752
-     1 string m_Localized = "Lobby destroyed"
+     1 string m_Localized = "Лобі розформоване"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1696,7 +1696,7 @@
    [207]
     0 TableEntryData data
      0 SInt64 m_Id = 115688216148668416
-     1 string m_Localized = "Refreshing server list"
+     1 string m_Localized = "Оновлення списку серверів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1704,7 +1704,7 @@
    [208]
     0 TableEntryData data
      0 SInt64 m_Id = 115689233296748544
-     1 string m_Localized = "Could not join lobby"
+     1 string m_Localized = "Не вдалося приєднатися до лобі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1712,7 +1712,7 @@
    [209]
     0 TableEntryData data
      0 SInt64 m_Id = 115689320508911616
-     1 string m_Localized = "Could not start game server"
+     1 string m_Localized = "Не вдалося запустити ігровий сервер"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1720,7 +1720,7 @@
    [210]
     0 TableEntryData data
      0 SInt64 m_Id = 115689394148306944
-     1 string m_Localized = "Could not create lobby"
+     1 string m_Localized = "Не вдалося створити лобі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1728,7 +1728,7 @@
    [211]
     0 TableEntryData data
      0 SInt64 m_Id = 115690535540060160
-     1 string m_Localized = "Starting host"
+     1 string m_Localized = "Запуск госта"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1736,7 +1736,7 @@
    [212]
     0 TableEntryData data
      0 SInt64 m_Id = 115698121878368256
-     1 string m_Localized = "Invitation"
+     1 string m_Localized = "Запрошення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1744,7 +1744,7 @@
    [213]
     0 TableEntryData data
      0 SInt64 m_Id = 117365754201731072
-     1 string m_Localized = "You've been invited to a lobby, but the game version is not compatible"
+     1 string m_Localized = "Вас запрошено до лобі, але версія гри не сумісна"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1752,7 +1752,7 @@
    [214]
     0 TableEntryData data
      0 SInt64 m_Id = 117584466687127552
-     1 string m_Localized = "The host left the lobby"
+     1 string m_Localized = "Гост вийшов з лобі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1760,7 +1760,7 @@
    [215]
     0 TableEntryData data
      0 SInt64 m_Id = 117585553196412928
-     1 string m_Localized = "{0} joined the lobby"
+     1 string m_Localized = "{0} приєднався до лобі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1800,7 +1800,7 @@
    [220]
     0 TableEntryData data
      0 SInt64 m_Id = 119073941457129472
-     1 string m_Localized = "Survived"
+     1 string m_Localized = "Вижив"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1816,7 +1816,7 @@
    [222]
     0 TableEntryData data
      0 SInt64 m_Id = 119120938163687424
-     1 string m_Localized = "Anisotropic Textures"
+     1 string m_Localized = "Анізотропні текстури"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1832,7 +1832,7 @@
    [224]
     0 TableEntryData data
      0 SInt64 m_Id = 118714959563059200
-     1 string m_Localized = "Consumable Effects"
+     1 string m_Localized = "Сила споживання"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
