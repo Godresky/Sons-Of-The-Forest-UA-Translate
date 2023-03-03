@@ -1686,7 +1686,7 @@
    [208]
     0 TableEntryData data
      0 SInt64 m_Id = 14145502912569
-     1 string m_Localized = "Cумка для надзвичайних ситуацій"
+     1 string m_Localized = "Аварійна сумка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1694,7 +1694,7 @@
    [209]
     0 TableEntryData data
      0 SInt64 m_Id = 14145502912570
-     1 string m_Localized = "Cумки для надзвичайних ситуацій"
+     1 string m_Localized = "Аварійні сумки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4174,7 +4174,7 @@
    [519]
     0 TableEntryData data
      0 SInt64 m_Id = 655808921788416
-     1 string m_Localized = "Покладіть речі на килимок, щоб розпакувати або об’єднати їх"
+     1 string m_Localized = "Покладіть речі на килимок, щоби розпакувати або об’єднати їх"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4182,7 +4182,7 @@
    [520]
     0 TableEntryData data
      0 SInt64 m_Id = 656826241835008
-     1 string m_Localized = "Натисніть на шестерню, щоб розпакувати сумку для надзвичайних ситуацій"
+     1 string m_Localized = "Натисніть на шестерню, щоби розпакувати аварійну сумку"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
