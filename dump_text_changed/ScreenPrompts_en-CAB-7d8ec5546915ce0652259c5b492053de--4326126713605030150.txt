@@ -374,7 +374,7 @@
    [44]
     0 TableEntryData data
      0 SInt64 m_Id = 2850556813312
-     1 string m_Localized = "Перемикання режиму"
+     1 string m_Localized = "Перемкнути режим"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

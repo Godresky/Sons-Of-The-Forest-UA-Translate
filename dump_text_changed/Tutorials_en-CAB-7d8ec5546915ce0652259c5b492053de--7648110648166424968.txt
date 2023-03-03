@@ -22,7 +22,7 @@
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 38817046528
-     1 string m_Localized = "Щоби відкрити інвентар, натисніть"
+     1 string m_Localized = "Щоб відкрити інвентар, натисніть"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -30,7 +30,7 @@
    [1]
     0 TableEntryData data
      0 SInt64 m_Id = 2340810465280
-     1 string m_Localized = "Спочатку ви повинні дістати свій рюкзак"
+     1 string m_Localized = "Спочатку ви повинні дістати свій наплечник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -102,7 +102,7 @@
    [10]
     0 TableEntryData data
      0 SInt64 m_Id = 3905499766784
-     1 string m_Localized = "додано до рюкзака"
+     1 string m_Localized = "додано до наплечника"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -166,7 +166,7 @@
    [18]
     0 TableEntryData data
      0 SInt64 m_Id = 457857376256
-     1 string m_Localized = "Поверніть свій рюкзак"
+     1 string m_Localized = "Поверніть свій наплечник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -222,7 +222,7 @@
    [25]
     0 TableEntryData data
      0 SInt64 m_Id = 631405092864
-     1 string m_Localized = "Щоби відкрити швидкий вибір, натисніть та утримуйте"
+     1 string m_Localized = "Щоб відкрити швидкий вибір, натисніть та утримуйте"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -246,7 +246,7 @@
    [28]
     0 TableEntryData data
      0 SInt64 m_Id = 26554212187250688
-     1 string m_Localized = "Вам холодно. Використовуйте палиці, щоби розпалити багаття"
+     1 string m_Localized = "Вам холодно. Використовуйте палиці, щоб розпалити багаття"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

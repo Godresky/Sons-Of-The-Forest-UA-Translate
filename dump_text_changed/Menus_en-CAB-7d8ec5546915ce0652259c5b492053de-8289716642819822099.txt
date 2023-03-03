@@ -25,7 +25,7 @@
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
-     1 string m_Localized = "Одноосібна"
+     1 string m_Localized = "Наодинці"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1800,7 +1800,7 @@
    [220]
     0 TableEntryData data
      0 SInt64 m_Id = 119073941457129472
-     1 string m_Localized = "Вижив"
+     1 string m_Localized = "Ви вижили:"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

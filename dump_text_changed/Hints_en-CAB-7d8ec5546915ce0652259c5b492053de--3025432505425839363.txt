@@ -62,7 +62,7 @@
    [5]
     0 TableEntryData data
      0 SInt64 m_Id = 627739758592
-     1 string m_Localized = "НАТИСНІТЬ {BUTTON.Inventory}, ЩОБ ВІДКРИТИ ІНВЕНТАР АБО УТРИМУЙТЕ {BUTTON.Inventory}, ЩОБИ ВІДКРИТИ ШВИДКИЙ ДОСТУП"
+     1 string m_Localized = "НАТИСНІТЬ {BUTTON.Inventory}, ЩОБ ВІДКРИТИ ІНВЕНТАР АБО УТРИМУЙТЕ {BUTTON.Inventory}, ЩОБ ВІДКРИТИ ШВИДКИЙ ДОСТУП"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -102,7 +102,7 @@
    [10]
     0 TableEntryData data
      0 SInt64 m_Id = 911572504576
-     1 string m_Localized = "ПИЙТЕ, ЇЖТЕ ТА ВІДПОЧИВАЙТЕ ВЧАСНО, ЩОБИ ЗБЕРЕГТИ ВИСОКУ ЖИТТЄЗДАТНІСТЬ"
+     1 string m_Localized = "ПИЙТЕ, ЇЖТЕ ТА ВІДПОЧИВАЙТЕ ВЧАСНО, ЩОБ ЗБЕРЕГТИ ВИСОКУ ЖИТТЄЗДАТНІСТЬ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -158,7 +158,7 @@
    [17]
     0 TableEntryData data
      0 SInt64 m_Id = 3206871814144
-     1 string m_Localized = "ВИКОРИСТОВУЙТЕ КУЩІ, ЩОБИ ЗАХОВАТИСЯ ВІД ВОРОГІВ"
+     1 string m_Localized = "ВИКОРИСТОВУЙТЕ КУЩІ, ЩОБ ЗАХОВАТИСЯ ВІД ВОРОГІВ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -182,7 +182,7 @@
    [20]
     0 TableEntryData data
      0 SInt64 m_Id = 3404301897728
-     1 string m_Localized = "ПОЄДНАЙТЕ ТКАНИНУ З ВИПИВКОЮ, ЩОБИ ЗРОБИТИ КОКТЕЙЛЬ МОЛОТОВА"
+     1 string m_Localized = "ПОЄДНАЙТЕ ТКАНИНУ З ВИПИВКОЮ, ЩОБ ЗРОБИТИ КОКТЕЙЛЬ МОЛОТОВА"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -206,7 +206,7 @@
    [23]
     0 TableEntryData data
      0 SInt64 m_Id = 16335123025920
-     1 string m_Localized = "ПОРАДА: ВИКОРИСТОВУЙТЕ КУЩІ, ЩОБИ ЗАХОВАТИСЯ ВІД ВОРОГІВ"
+     1 string m_Localized = "ПОРАДА: ВИКОРИСТОВУЙТЕ КУЩІ, ЩОБ ЗАХОВАТИСЯ ВІД ВОРОГІВ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
