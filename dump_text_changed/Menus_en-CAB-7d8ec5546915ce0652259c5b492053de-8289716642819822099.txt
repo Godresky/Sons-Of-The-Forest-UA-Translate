@@ -329,7 +329,7 @@
    [38]
     0 TableEntryData data
      0 SInt64 m_Id = 84713984655958016
-     1 string m_Localized = "Усе ҐІК"
+     1 string m_Localized = "Усі ҐІК"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1464,7 +1464,7 @@
    [178]
     0 TableEntryData data
      0 SInt64 m_Id = 111162688337481728
-     1 string m_Localized = "Friends only"
+     1 string m_Localized = "Лише друзі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1472,7 +1472,7 @@
    [179]
     0 TableEntryData data
      0 SInt64 m_Id = 113521276184502272
-     1 string m_Localized = "Blockbuster"
+     1 string m_Localized = "Блокбастер"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1480,7 +1480,7 @@
    [180]
     0 TableEntryData data
      0 SInt64 m_Id = 113521346174853120
-     1 string m_Localized = "City"
+     1 string m_Localized = "Місто"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1488,7 +1488,7 @@
    [181]
     0 TableEntryData data
      0 SInt64 m_Id = 113521400331706368
-     1 string m_Localized = "Forage"
+     1 string m_Localized = "Форейдж"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1496,7 +1496,7 @@
    [182]
     0 TableEntryData data
      0 SInt64 m_Id = 113521489859125248
-     1 string m_Localized = "70's"
+     1 string m_Localized = "70-ті"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1504,7 +1504,7 @@
    [183]
     0 TableEntryData data
      0 SInt64 m_Id = 113521537502224384
-     1 string m_Localized = "Outback"
+     1 string m_Localized = "Аутбек"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1512,7 +1512,7 @@
    [184]
     0 TableEntryData data
      0 SInt64 m_Id = 113521675117338624
-     1 string m_Localized = "Sepia"
+     1 string m_Localized = "Сепія"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1520,7 +1520,7 @@
    [185]
     0 TableEntryData data
      0 SInt64 m_Id = 114007168461402112
-     1 string m_Localized = "All"
+     1 string m_Localized = "Усе"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1536,7 +1536,7 @@
    [187]
     0 TableEntryData data
      0 SInt64 m_Id = 114420645840736256
-     1 string m_Localized = "Film Grain"
+     1 string m_Localized = "Зернистість"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1600,7 +1600,7 @@
    [195]
     0 TableEntryData data
      0 SInt64 m_Id = 115683476044083200
-     1 string m_Localized = "You've been kicked"
+     1 string m_Localized = "Тебе вигнали :("
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1608,7 +1608,7 @@
    [196]
     0 TableEntryData data
      0 SInt64 m_Id = 115683690914082816
-     1 string m_Localized = "You've been banned"
+     1 string m_Localized = "Ти був заблокований :("
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1632,7 +1632,7 @@
    [199]
     0 TableEntryData data
      0 SInt64 m_Id = 115685687537004544
-     1 string m_Localized = "Loading"
+     1 string m_Localized = "Завантаження"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1648,7 +1648,7 @@
    [201]
     0 TableEntryData data
      0 SInt64 m_Id = 115686041469153280
-     1 string m_Localized = "Joining lobby"
+     1 string m_Localized = "Приєднання до лобі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1656,7 +1656,7 @@
    [202]
     0 TableEntryData data
      0 SInt64 m_Id = 115686411960414208
-     1 string m_Localized = "Creating lobby"
+     1 string m_Localized = "Створення лобі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1792,7 +1792,7 @@
    [219]
     0 TableEntryData data
      0 SInt64 m_Id = 117643705330880512
-     1 string m_Localized = "Coming Soon"
+     1 string m_Localized = "Незабаром"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1808,7 +1808,7 @@
    [221]
     0 TableEntryData data
      0 SInt64 m_Id = 119100824357883904
-     1 string m_Localized = "Water"
+     1 string m_Localized = "Вода"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1824,7 +1824,7 @@
    [223]
     0 TableEntryData data
      0 SInt64 m_Id = 118940137194090496
-     1 string m_Localized = "The game server is full (max players: {0})"
+     1 string m_Localized = "Ігровий сервер повний (максимум гравців: {0})"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1856,7 +1856,7 @@
    [227]
     0 TableEntryData data
      0 SInt64 m_Id = 119770373632651264
-     1 string m_Localized = "Banned players"
+     1 string m_Localized = "Заблоковані гравці"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1872,7 +1872,7 @@
    [229]
     0 TableEntryData data
      0 SInt64 m_Id = 119860335887609856
-     1 string m_Localized = "Ban player {0}?"
+     1 string m_Localized = "Заблокувати гравця {0}?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1896,7 +1896,7 @@
    [232]
     0 TableEntryData data
      0 SInt64 m_Id = 120535462714818560
-     1 string m_Localized = "Anti Aliasing"
+     1 string m_Localized = "Обробка зглажування"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1928,7 +1928,7 @@
    [236]
     0 TableEntryData data
      0 SInt64 m_Id = 121659418440724480
-     1 string m_Localized = "Are you sure? Any unsaved progress will be lost."
+     1 string m_Localized = "Ви впевнені? Весь незбережений поступ буде втрачено."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1936,7 +1936,7 @@
    [237]
     0 TableEntryData data
      0 SInt64 m_Id = 121660046722297856
-     1 string m_Localized = "Quit Game"
+     1 string m_Localized = "Вийти з гри"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
