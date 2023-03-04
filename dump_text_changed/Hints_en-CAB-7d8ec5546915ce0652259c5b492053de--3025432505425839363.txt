@@ -46,7 +46,7 @@
    [3]
     0 TableEntryData data
      0 SInt64 m_Id = 524840898560
-     1 string m_Localized = "ЗБІЛЬШІТЬ МАСШТАБ МАПИ НА GPS-ПРИСТРОЇ ЗА ДОПОМОГОЮ {BUTTON.GpsZoom}"
+     1 string m_Localized = "МОЖНА ЗБІЛЬШИТИ МАСШТАБ МАПИ НА GPS-ПРИСТРОЇ ЗА ДОПОМОГОЮ {BUTTON.GpsZoom}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -254,7 +254,7 @@
    [29]
     0 TableEntryData data
      0 SInt64 m_Id = 65178679947575296
-     1 string m_Localized = "Утримуйте {BUTTON.PrimaryAction}, щоб зробити сильну атаку"
+     1 string m_Localized = "Утримуйте {BUTTON.PrimaryAction}, щоб зробити сильний удар"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

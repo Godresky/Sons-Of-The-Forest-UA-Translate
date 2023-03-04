@@ -134,7 +134,7 @@
    [14]
     0 TableEntryData data
      0 SInt64 m_Id = 14145486135309
-     1 string m_Localized = "Надрукована смола"
+     1 string m_Localized = "Смола для друку"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -142,7 +142,7 @@
    [15]
     0 TableEntryData data
      0 SInt64 m_Id = 14145486135310
-     1 string m_Localized = "Надрукована смола"
+     1 string m_Localized = "Смола для друку"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -758,7 +758,7 @@
    [92]
     0 TableEntryData data
      0 SInt64 m_Id = 14145494523910
-     1 string m_Localized = "Маленька тваринницька пастка"
+     1 string m_Localized = "Тваринницька пастка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -766,7 +766,7 @@
    [93]
     0 TableEntryData data
      0 SInt64 m_Id = 14145494523911
-     1 string m_Localized = "Маленькі тваринницькі пастки"
+     1 string m_Localized = "Тваринницькі пастки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3750,7 +3750,7 @@
    [466]
     0 TableEntryData data
      0 SInt64 m_Id = 14145528078387
-     1 string m_Localized = "Путівник"
+     1 string m_Localized = "Посібник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3758,7 +3758,7 @@
    [467]
     0 TableEntryData data
      0 SInt64 m_Id = 14145528078388
-     1 string m_Localized = "Путівники"
+     1 string m_Localized = "Посібники"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3766,7 +3766,7 @@
    [468]
     0 TableEntryData data
      0 SInt64 m_Id = 14145528078390
-     1 string m_Localized = "Сторінка путівника"
+     1 string m_Localized = "Сторінка посібника"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3774,7 +3774,7 @@
    [469]
     0 TableEntryData data
      0 SInt64 m_Id = 14145528078391
-     1 string m_Localized = "Сторінки путівника"
+     1 string m_Localized = "Сторінки посібника"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3782,7 +3782,7 @@
    [470]
     0 TableEntryData data
      0 SInt64 m_Id = 14145528078393
-     1 string m_Localized = "Сторінка путівника"
+     1 string m_Localized = "Сторінка посібника"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3790,7 +3790,7 @@
    [471]
     0 TableEntryData data
      0 SInt64 m_Id = 14145528078394
-     1 string m_Localized = "Сторінки путівника"
+     1 string m_Localized = "Сторінки посібника"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4006,7 +4006,7 @@
    [498]
     0 TableEntryData data
      0 SInt64 m_Id = 14145532272672
-     1 string m_Localized = "Мотузка зіплайн"
+     1 string m_Localized = "Мотузка зіплайна"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4014,7 +4014,7 @@
    [499]
     0 TableEntryData data
      0 SInt64 m_Id = 14145532272673
-     1 string m_Localized = "Мотузки зіплайн"
+     1 string m_Localized = "Мотузки зіплайна"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4414,7 +4414,7 @@
    [549]
     0 TableEntryData data
      0 SInt64 m_Id = 14425440324677632
-     1 string m_Localized = "Притулитися до"
+     1 string m_Localized = "Комора"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4801,7 +4801,7 @@
    [597]
     0 TableEntryData data
      0 SInt64 m_Id = 35129498651848704
-     1 string m_Localized = "Путь з каменю"
+     1 string m_Localized = "Доріжка з каменю"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4817,7 +4817,7 @@
    [599]
     0 TableEntryData data
      0 SInt64 m_Id = 35134315361202176
-     1 string m_Localized = "Путь з паличок"
+     1 string m_Localized = "Доріжка з паличок"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

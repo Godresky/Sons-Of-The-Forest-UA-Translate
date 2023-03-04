@@ -209,7 +209,7 @@
    [23]
     0 TableEntryData data
      0 SInt64 m_Id = 84711201483595777
-     1 string m_Localized = "Ембієнт Оклюзія"
+     1 string m_Localized = "Освітлення затінених областей"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -225,7 +225,7 @@
    [25]
     0 TableEntryData data
      0 SInt64 m_Id = 84711201483595779
-     1 string m_Localized = "Моушн блюр"
+     1 string m_Localized = "Розмиття у русі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -241,7 +241,7 @@
    [27]
     0 TableEntryData data
      0 SInt64 m_Id = 84711201487790080
-     1 string m_Localized = "Скрін спейс рефлекшин"
+     1 string m_Localized = "Відображення поверхнень"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -249,7 +249,7 @@
    [28]
     0 TableEntryData data
      0 SInt64 m_Id = 84711201487790081
-     1 string m_Localized = "Блюм"
+     1 string m_Localized = "Світіння"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
