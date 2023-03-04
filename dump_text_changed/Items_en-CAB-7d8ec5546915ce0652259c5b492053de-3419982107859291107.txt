@@ -2054,7 +2054,7 @@
    [254]
     0 TableEntryData data
      0 SInt64 m_Id = 14145511301129
-     1 string m_Localized = "Ключка"
+     1 string m_Localized = "Ковінька"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2062,7 +2062,7 @@
    [255]
     0 TableEntryData data
      0 SInt64 m_Id = 14145511301130
-     1 string m_Localized = "Ключки"
+     1 string m_Localized = "Ковіньки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2646,7 +2646,7 @@
    [328]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495475
-     1 string m_Localized = "Коктель Молотова"
+     1 string m_Localized = "Коктейль Молотову"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2654,7 +2654,7 @@
    [329]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495476
-     1 string m_Localized = "Коктелі Молотову"
+     1 string m_Localized = "Коктейлі Молотову"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2662,7 +2662,7 @@
    [330]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495478
-     1 string m_Localized = "Коктель Молотову"
+     1 string m_Localized = "Коктейль Молотову"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2670,7 +2670,7 @@
    [331]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495479
-     1 string m_Localized = "Коктелі Молотову"
+     1 string m_Localized = "Коктейлі Молотову"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

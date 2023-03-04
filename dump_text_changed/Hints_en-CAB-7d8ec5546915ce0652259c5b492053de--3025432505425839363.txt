@@ -182,7 +182,7 @@
    [20]
     0 TableEntryData data
      0 SInt64 m_Id = 3404301897728
-     1 string m_Localized = "ПОЄДНАЙТЕ ТКАНИНУ З ВИПИВКОЮ, ЩОБ ЗРОБИТИ КОКТЕЙЛЬ ДЛЯ МОЛОТОВУ"
+     1 string m_Localized = "ПОЄДНАЙТЕ ТКАНИНУ З ВИПИВКОЮ, ЩОБ ЗРОБИТИ КОКТЕЙЛЬ МОЛОТОВУ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
