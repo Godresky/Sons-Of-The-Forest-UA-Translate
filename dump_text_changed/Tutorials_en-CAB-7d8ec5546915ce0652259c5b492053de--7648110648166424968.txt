@@ -262,7 +262,7 @@
    [30]
     0 TableEntryData data
      0 SInt64 m_Id = 32663556374130688
-     1 string m_Localized = "Не можна нести більше"
+     1 string m_Localized = "Не можна нести більше: "
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

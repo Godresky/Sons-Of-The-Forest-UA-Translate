@@ -38,7 +38,7 @@
    [2]
     0 TableEntryData data
      0 SInt64 m_Id = 478867132416
-     1 string m_Localized = "СПОРЯДІТЬ GPS-ПРИСТРІЙ ЗА ДОПОМОГОЮ {BUTTON.Utility}"
+     1 string m_Localized = "МОЖНА СПОРЯДИТИ GPS-ПРИСТРІЙ ЗА ДОПОМОГОЮ {BUTTON.Utility}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -54,7 +54,7 @@
    [4]
     0 TableEntryData data
      0 SInt64 m_Id = 578125336576
-     1 string m_Localized = "СПОРЯДІТЬ ДЖЕРЕЛО СВІТЛА ЗА ДОПОМОГОЮ {BUTTON.Lighter}"
+     1 string m_Localized = "МОЖНА СПОРЯДИТИ ДЖЕРЕЛО СВІТЛА ЗА ДОПОМОГОЮ {BUTTON.Lighter}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -78,7 +78,7 @@
    [7]
     0 TableEntryData data
      0 SInt64 m_Id = 754525179904
-     1 string m_Localized = "ВАШ GPS-ПРИСТРІЙ МОЖЕ ПОКАЗУВАТИ ВАЖЛИВІ МІСЦЯ НА ОСТРОВІ"
+     1 string m_Localized = "ВАШ GPS-ЛОКАТОР МОЖЕ ПОКАЗУВАТИ ВАЖЛИВІ МІСЦЯ НА ОСТРОВІ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -86,7 +86,7 @@
    [8]
     0 TableEntryData data
      0 SInt64 m_Id = 812570152960
-     1 string m_Localized = "GPS-ПРИСТРОЇ МОЖНА РОЗТАШОВУВАТИ НА ПОВЕРХНІ АБО ДАВАТИ НІП"
+     1 string m_Localized = "GPS-ЛОКАТОР МОЖНА РОЗТАШОВУВАТИ НА ПОВЕРХНІ АБО ДАВАТИ НІП"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -150,7 +150,7 @@
    [16]
     0 TableEntryData data
      0 SInt64 m_Id = 3057533620224
-     1 string m_Localized = "ВИБУХІВКА ТА КОКТЕЙЛІ МОЛОТОВА ЕФЕКТИВНІ ПРОТИ БІЛЬШОСТИ ВОРОГІВ"
+     1 string m_Localized = "ВИБУХІВКА ТА КОКТЕЙЛІ МОЛОТОВУ ЕФЕКТИВНІ ПРОТИ БІЛЬШОСТИ ВОРОГІВ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -182,7 +182,7 @@
    [20]
     0 TableEntryData data
      0 SInt64 m_Id = 3404301897728
-     1 string m_Localized = "ПОЄДНАЙТЕ ТКАНИНУ З ВИПИВКОЮ, ЩОБ ЗРОБИТИ КОКТЕЙЛЬ МОЛОТОВА"
+     1 string m_Localized = "ПОЄДНАЙТЕ ТКАНИНУ З ВИПИВКОЮ, ЩОБ ЗРОБИТИ КОКТЕЙЛЬ ДЛЯ МОЛОТОВУ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -246,7 +246,7 @@
    [28]
     0 TableEntryData data
      0 SInt64 m_Id = 60802221867888640
-     1 string m_Localized = "СПОРЯДІТЬ GPS-ПРИСТРІЙ ЗА ДОПОМОГОЮ {BUTTON.GpsTracker}"
+     1 string m_Localized = "МОЖНА СПОРЯДИТИ GPS-ПРИСТРІЙ ЗА ДОПОМОГОЮ {BUTTON.GpsTracker}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

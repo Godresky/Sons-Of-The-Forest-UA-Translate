@@ -38,7 +38,7 @@
    [2]
     0 TableEntryData data
      0 SInt64 m_Id = 39491421597696
-     1 string m_Localized = "НАПОВНИ ТРИМАЧ"
+     1 string m_Localized = "НАПОВНИ СХОВИЩЕ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -126,7 +126,7 @@
    [13]
     0 TableEntryData data
      0 SInt64 m_Id = 41060196151296
-     1 string m_Localized = "ОЧИСТИ УКРИТТЯ"
+     1 string m_Localized = "ПРИБРАТИ УКРИТТЯ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -166,7 +166,7 @@
    [18]
     0 TableEntryData data
      0 SInt64 m_Id = 41324064010240
-     1 string m_Localized = "ГОЛОСИВО"
+     1 string m_Localized = "РАДІО"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
