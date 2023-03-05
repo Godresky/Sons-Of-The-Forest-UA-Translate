@@ -1862,7 +1862,7 @@
    [230]
     0 TableEntryData data
      0 SInt64 m_Id = 14145507106843
-     1 string m_Localized = "Кріплення для ліхтарика"
+     1 string m_Localized = "Додатковий ліхтарик"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1870,7 +1870,7 @@
    [231]
     0 TableEntryData data
      0 SInt64 m_Id = 14145507106844
-     1 string m_Localized = "Кріплення для ліхтарика"
+     1 string m_Localized = "Додаткові ліхтарики"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2966,7 +2966,7 @@
    [368]
     0 TableEntryData data
      0 SInt64 m_Id = 14145519689767
-     1 string m_Localized = "Респіратор"
+     1 string m_Localized = "Ребризер"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2974,7 +2974,7 @@
    [369]
     0 TableEntryData data
      0 SInt64 m_Id = 14145519689768
-     1 string m_Localized = "Респіратори"
+     1 string m_Localized = "Ребризери"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3494,7 +3494,7 @@
    [434]
     0 TableEntryData data
      0 SInt64 m_Id = 14145528078339
-     1 string m_Localized = "Складений лук"
+     1 string m_Localized = "Сучасний лук"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3502,7 +3502,7 @@
    [435]
     0 TableEntryData data
      0 SInt64 m_Id = 14145528078340
-     1 string m_Localized = "Складені луки"
+     1 string m_Localized = "Сучасні луки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3510,7 +3510,7 @@
    [436]
     0 TableEntryData data
      0 SInt64 m_Id = 14145528078342
-     1 string m_Localized = "Стріла з вуглецевого волокна"
+     1 string m_Localized = "Карбонова стріла"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3518,7 +3518,7 @@
    [437]
     0 TableEntryData data
      0 SInt64 m_Id = 14145528078343
-     1 string m_Localized = "Стріли з вуглецевого волокна"
+     1 string m_Localized = "Карбонові стріли"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4142,7 +4142,7 @@
    [515]
     0 TableEntryData data
      0 SInt64 m_Id = 237672277549056
-     1 string m_Localized = "Розспорядити"
+     1 string m_Localized = "Зняти"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4494,7 +4494,7 @@
    [559]
     0 TableEntryData data
      0 SInt64 m_Id = 22068127462846464
-     1 string m_Localized = "3D-друкована стріла"
+     1 string m_Localized = "Надрукована стріла"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -4505,7 +4505,7 @@
    [560]
     0 TableEntryData data
      0 SInt64 m_Id = 22068158127403008
-     1 string m_Localized = "3D-друковані стріли"
+     1 string m_Localized = "Надруковані стріли"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
