@@ -150,7 +150,7 @@
    [16]
     0 TableEntryData data
      0 SInt64 m_Id = 14145486135312
-     1 string m_Localized = "9мм набої"
+     1 string m_Localized = "9-мм набої"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -158,7 +158,7 @@
    [17]
     0 TableEntryData data
      0 SInt64 m_Id = 14145486135313
-     1 string m_Localized = "9мм набої"
+     1 string m_Localized = "9-мм набої"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1078,7 +1078,7 @@
    [132]
     0 TableEntryData data
      0 SInt64 m_Id = 14145494523970
-     1 string m_Localized = "Пістолетне кріплення"
+     1 string m_Localized = "Рейка Пікатінні для пістолету"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1086,7 +1086,7 @@
    [133]
     0 TableEntryData data
      0 SInt64 m_Id = 14145498718208
-     1 string m_Localized = "Пістолетне кріплення"
+     1 string m_Localized = "Рейки Пікатінні для пістолету"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2214,7 +2214,7 @@
    [274]
     0 TableEntryData data
      0 SInt64 m_Id = 14145511301159
-     1 string m_Localized = "Напівколода"
+     1 string m_Localized = "Пів колоди"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2222,7 +2222,7 @@
    [275]
     0 TableEntryData data
      0 SInt64 m_Id = 14145511301160
-     1 string m_Localized = "Напівколоди"
+     1 string m_Localized = "Пів колоди"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2230,7 +2230,7 @@
    [276]
     0 TableEntryData data
      0 SInt64 m_Id = 14145511301162
-     1 string m_Localized = "Напівдошка"
+     1 string m_Localized = "Пів дошки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2238,7 +2238,7 @@
    [277]
     0 TableEntryData data
      0 SInt64 m_Id = 14145511301163
-     1 string m_Localized = "Напівдошки"
+     1 string m_Localized = "Пів дошки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2470,7 +2470,7 @@
    [306]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495442
-     1 string m_Localized = "Лазерний інструмент для вимірювання"
+     1 string m_Localized = "Лазерне приладдя для вимірювання"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2478,7 +2478,7 @@
    [307]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495443
-     1 string m_Localized = "Лазерні інструменти для вимірювання"
+     1 string m_Localized = "Лазерне приладдя для вимірювання"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3046,7 +3046,7 @@
    [378]
     0 TableEntryData data
      0 SInt64 m_Id = 14145519689782
-     1 string m_Localized = "Кріплення для кріса"
+     1 string m_Localized = "Рейка Пікатінні для кріса"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3054,7 +3054,7 @@
    [379]
     0 TableEntryData data
      0 SInt64 m_Id = 14145519689783
-     1 string m_Localized = "Кріплення для кріса"
+     1 string m_Localized = "Рейки Пікатінні для кріса"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3222,7 +3222,7 @@
    [400]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884050
-     1 string m_Localized = "Набої для рушниці"
+     1 string m_Localized = "Набої для дробовика"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3230,7 +3230,7 @@
    [401]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884051
-     1 string m_Localized = "Набої для рушниці"
+     1 string m_Localized = "Набої для дробовика"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3238,7 +3238,7 @@
    [402]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884053
-     1 string m_Localized = "Рушниця"
+     1 string m_Localized = "Дробовик"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3246,7 +3246,7 @@
    [403]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884054
-     1 string m_Localized = "Рушниці"
+     1 string m_Localized = "Дробовики"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3254,7 +3254,7 @@
    [404]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884056
-     1 string m_Localized = "Кріплення для рушниці"
+     1 string m_Localized = "Рейка Пікатінні для рушниці"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3262,7 +3262,7 @@
    [405]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884057
-     1 string m_Localized = "Кріплення для рушниці"
+     1 string m_Localized = "Рейки Пікатінні для рушниці"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3294,7 +3294,7 @@
    [409]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884063
-     1 string m_Localized = "Піжама"
+     1 string m_Localized = "Піжами"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3414,7 +3414,7 @@
    [424]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884086
-     1 string m_Localized = "Елемент споруди"
+     1 string m_Localized = "Первень споруди"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3422,7 +3422,7 @@
    [425]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884087
-     1 string m_Localized = "Елементи споруди"
+     1 string m_Localized = "Первені споруди"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3670,7 +3670,7 @@
    [456]
     0 TableEntryData data
      0 SInt64 m_Id = 14145528078372
-     1 string m_Localized = "Бомба сповільненої дії"
+     1 string m_Localized = "Вибухівка сповільненої дії"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3678,7 +3678,7 @@
    [457]
     0 TableEntryData data
      0 SInt64 m_Id = 14145528078373
-     1 string m_Localized = "Бомби сповільненої дії"
+     1 string m_Localized = "Вибухівки сповільненої дії"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

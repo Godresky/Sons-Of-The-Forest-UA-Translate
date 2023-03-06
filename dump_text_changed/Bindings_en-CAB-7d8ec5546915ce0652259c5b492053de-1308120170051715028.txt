@@ -25,7 +25,7 @@
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 77557309440
-     1 string m_Localized = "Уперед"
+     1 string m_Localized = "Вперед"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -97,7 +97,7 @@
    [9]
     0 TableEntryData data
      0 SInt64 m_Id = 376221114368
-     1 string m_Localized = "Перезаряджання"
+     1 string m_Localized = "Перезарядка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -113,7 +113,7 @@
    [11]
     0 TableEntryData data
      0 SInt64 m_Id = 424589828096
-     1 string m_Localized = "Узяти"
+     1 string m_Localized = "Взяти"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -129,7 +129,7 @@
    [13]
     0 TableEntryData data
      0 SInt64 m_Id = 462913183744
-     1 string m_Localized = "Пристрій"
+     1 string m_Localized = "GPS-Пристрій"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -193,7 +193,7 @@
    [21]
     0 TableEntryData data
      0 SInt64 m_Id = 1178193010688
-     1 string m_Localized = "Розмістити елемент"
+     1 string m_Localized = "Розмістити первень"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -321,7 +321,7 @@
    [37]
     0 TableEntryData data
      0 SInt64 m_Id = 4412667423354880
-     1 string m_Localized = "Категорія велосумки"
+     1 string m_Localized = "Інший бік сумки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
