@@ -838,7 +838,7 @@
    [102]
     0 TableEntryData data
      0 SInt64 m_Id = 14145494523925
-     1 string m_Localized = "Великокаліберні набої"
+     1 string m_Localized = "Картечні набої"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -846,7 +846,7 @@
    [103]
     0 TableEntryData data
      0 SInt64 m_Id = 14145494523926
-     1 string m_Localized = "Великокаліберні набої"
+     1 string m_Localized = "Картечні набої"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -902,7 +902,7 @@
    [110]
     0 TableEntryData data
      0 SInt64 m_Id = 14145494523937
-     1 string m_Localized = "Консервний ключ"
+     1 string m_Localized = "Відкривачка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -910,7 +910,7 @@
    [111]
     0 TableEntryData data
      0 SInt64 m_Id = 14145494523938
-     1 string m_Localized = "Консервні ключі"
+     1 string m_Localized = "Відкривачки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3222,7 +3222,7 @@
    [400]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884050
-     1 string m_Localized = "Набої для дробовика"
+     1 string m_Localized = "Кульові набої"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3230,7 +3230,7 @@
    [401]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884051
-     1 string m_Localized = "Набої для дробовика"
+     1 string m_Localized = "Кульові набої"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4521,7 +4521,7 @@
    [562]
     0 TableEntryData data
      0 SInt64 m_Id = 22315102452051968
-     1 string m_Localized = "Зарядити набої на"
+     1 string m_Localized = "Зарядити набої в"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
