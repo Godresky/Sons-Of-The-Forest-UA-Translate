@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (33 items)
-   0 int size = 33
+  0 Array Array (35 items)
+   0 int size = 35
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 38817046528
@@ -279,6 +279,22 @@
     0 TableEntryData data
      0 SInt64 m_Id = 36982961325207552
      1 string m_Localized = "You are Tired. Use a tarp to build a shelter"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44507741146312704
+     1 string m_Localized = "Find the Puffton Family"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44508690464108544
+     1 string m_Localized = "Found the Puffton Family"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

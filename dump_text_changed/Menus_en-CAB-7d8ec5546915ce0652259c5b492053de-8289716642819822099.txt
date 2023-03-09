@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (238 items)
-   0 int size = 238
+  0 Array Array (242 items)
+   0 int size = 242
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -1520,7 +1520,7 @@
    [185]
     0 TableEntryData data
      0 SInt64 m_Id = 114007168461402112
-     1 string m_Localized = "Усе"
+     1 string m_Localized = "Усі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1832,7 +1832,7 @@
    [224]
     0 TableEntryData data
      0 SInt64 m_Id = 118714959563059200
-     1 string m_Localized = "Сила споживання"
+     1 string m_Localized = "Погана їжа та вода"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1937,6 +1937,38 @@
     0 TableEntryData data
      0 SInt64 m_Id = 121660046722297856
      1 string m_Localized = "Вийти з гри"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [238]
+    0 TableEntryData data
+     0 SInt64 m_Id = 124213841952075776
+     1 string m_Localized = "Голод та спрага"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [239]
+    0 TableEntryData data
+     0 SInt64 m_Id = 124245244118319104
+     1 string m_Localized = "Затримка засинання"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [240]
+    0 TableEntryData data
+     0 SInt64 m_Id = 124850718019252224
+     1 string m_Localized = "Візирні лінії"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [241]
+    0 TableEntryData data
+     0 SInt64 m_Id = 124850781659426816
+     1 string m_Localized = "Відображення імен гравців"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

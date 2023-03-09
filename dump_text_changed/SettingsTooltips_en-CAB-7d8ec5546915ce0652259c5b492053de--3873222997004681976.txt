@@ -1,0 +1,1678 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "SettingsTooltips_en"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "en"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = -4727379912584900571
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (1 items)
+    0 int size = 1
+    [0]
+     0 managedRefArrayItem data
+      0 SInt64 rid = 4115542425863454741
+ 0 TableEntryData m_TableData
+  0 Array Array (69 items)
+   0 int size = 69
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10714634612736
+     1 string m_Localized = "<color=yellow>{label}</color> - Поточний розмір екрана у пікселях"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10714663972864
+     1 string m_Localized = "<color=yellow>{label}</color> - Фіксує оновлення дисплея на певній частоті"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10714663972865
+     1 string m_Localized = "<color=yellow>{label}</color> - Встановіть максимальну кількість кадрів на секунду, яку буде рендерити гра"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979404247040
+     1 string m_Localized = "<color=yellow>{label}</color> - Максимальна роздільна здатність текстури для зменшення вимог до пам’яті"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979400052736
+     1 string m_Localized = "<color=yellow>{label}</color> - Змінює кілька налаштувань для досягнення загального рівня ґрафіки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [5]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10714668167169
+     1 string m_Localized = "<color=yellow>{label}</color> - Колірна крива для розширення або звуження візуального діяпазону кольорів"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [6]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10714668167168
+     1 string m_Localized = "<color=yellow>{label}</color> - Загальна яскравість оточення"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [7]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10714663972866
+     1 string m_Localized = "<color=yellow>{label}</color> - Відображення у повноекранному режимі"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [8]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979404247041
+     1 string m_Localized = "<color=yellow>{label}</color> - Quality and cost of Ambient Occlusion, near-surface shadowing"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [9]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979404247042
+     1 string m_Localized = "<color=yellow>{label}</color> - Visual effect to distort colours around the borders of the screen"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979404247043
+     1 string m_Localized = "<color=yellow>{label}</color> - Visual effect to help enhance the sense of motion"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979404247044
+     1 string m_Localized = "<color=yellow>{label}</color> - Extra shadows where objects are in contact with other objects"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979404247045
+     1 string m_Localized = "<color=yellow>{label}</color> - Fast approximation of reflection using a screen effect"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979408441344
+     1 string m_Localized = "<color=yellow>{label}</color> - Visual effect which allows bright light to brighten surrounding areas"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979408441345
+     1 string m_Localized = "<color=yellow>{label}</color> - Enhanced shadowing feature on surfaces"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979408441346
+     1 string m_Localized = "<color=yellow>{label}</color> - Quality and cost of primary shadows"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979408441347
+     1 string m_Localized = "<color=yellow>{label}</color> - Quality and cost of volumetric fog effects"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979408441348
+     1 string m_Localized = "<color=yellow>{label}</color> - Quality and cost of Cloud rendering"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [18]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979408441349
+     1 string m_Localized = "<color=yellow>{label}</color> - Quality and cost of grass"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979408441350
+     1 string m_Localized = "<color=yellow>{label}</color> - Distance of surface effect to simulate displacement"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [20]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979408441351
+     1 string m_Localized = "<color=yellow>{label}</color> - Count and cost of object billboards"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [21]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979408441352
+     1 string m_Localized = "<color=yellow>{label}</color> - Max distance certain renderers will switch and disable"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979408441353
+     1 string m_Localized = "<color=yellow>{label}</color> - Quality and cost of water surfaces"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [23]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979412635648
+     1 string m_Localized = "<color=yellow>{label}</color> - Texture quality for surfaces that are parallel to the camera"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [24]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979412635649
+     1 string m_Localized = "<color=yellow>{label}</color> - Visual filter to reduce pixel aliasing around edges of object"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [25]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979412635650
+     1 string m_Localized = "<color=yellow>{label}</color> - Render lower resolution with advanced up-scaling to reduce GPU cost while keeping overall quality"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [26]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979416829952
+     1 string m_Localized = "<color=yellow>{label}</color> - Target frames per second to drive the scale of dynamic resolution"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [27]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979416829953
+     1 string m_Localized = "<color=yellow>{label}</color> - Nvidia trained dynamic resolution"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979416829954
+     1 string m_Localized = "<color=yellow>{label}</color> - Environmental colour filters based on unique themes"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10979416829955
+     1 string m_Localized = "<color=yellow>{label}</color> - Visual effect to add subtle grain noise"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10997271982080
+     1 string m_Localized = "<color=yellow>{label}</color> - Text localization language"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10997276176384
+     1 string m_Localized = "<color=yellow>{label}</color> - All UI elements"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10997276176385
+     1 string m_Localized = "<color=yellow>{label}</color> - Hud / vitals UI elements"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10997276176386
+     1 string m_Localized = "<color=yellow>{label}</color> - Tutorial UI elements"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10997276176387
+     1 string m_Localized = "<color=yellow>{label}</color> - On screen map"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10997280370688
+     1 string m_Localized = "<color=yellow>{label}</color> - In world UI elements"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10997280370689
+     1 string m_Localized = "<color=yellow>{label}</color> - Building Ui and icons"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10997280370690
+     1 string m_Localized = "<color=yellow>{label}</color> - Camera field of view to adjust the overall view width"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10997280370691
+     1 string m_Localized = "<color=yellow>{label}</color> - Allow buildings to be damaged"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 10997280370692
+     1 string m_Localized = "<color=yellow>{label}</color> - Increases head sizes"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 11017001988096
+     1 string m_Localized = "<color=yellow>{label}</color> - Flips the vertical look input for the camera"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 11017001988097
+     1 string m_Localized = "<color=yellow>{label}</color> - Stays crouched until activated again"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 11017006182400
+     1 string m_Localized = "<color=yellow>{label}</color> - Stays sprinting until activated again"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 11017006182401
+     1 string m_Localized = "<color=yellow>{label}</color> - Gamepad rumble feature to enhance the feeling of impacts"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 11017006182402
+     1 string m_Localized = "<color=yellow>{label}</color> - Mouse horizontal movement speed"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 11017006182403
+     1 string m_Localized = "<color=yellow>{label}</color> - Mouse vertical movement speed"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 11017006182404
+     1 string m_Localized = "<color=yellow>{label}</color> - Gamepad horizontal movement speed"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 11017010376704
+     1 string m_Localized = "<color=yellow>{label}</color> - Gamepad vertical movement speed"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 11017010376705
+     1 string m_Localized = "<color=yellow>{label}</color> - Minimum distance before gamepad registers input"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 11039194050560
+     1 string m_Localized = "<color=yellow>{label}</color> - Max volume"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 11039194050561
+     1 string m_Localized = "<color=yellow>{label}</color> - Max music volume"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 11039198244864
+     1 string m_Localized = "<color=yellow>{label}</color> - Max sound effects volume"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 11039198244865
+     1 string m_Localized = "<color=yellow>{label}</color> - Max number of unique sounds"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 11039198244866
+     1 string m_Localized = "<color=yellow>{label}</color> - Adjust audio equalizer to match environment"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (6 items)
+        0 int size = 6
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [3]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [4]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [5]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170850682499072
+     1 string m_Localized = "<color=yellow>{label}</color> - Adjust enemy spawn rate"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (3 items)
+        0 int size = 3
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170850695081984
+     1 string m_Localized = "<color=yellow>{label}</color> - Adjust enemy starting health"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (3 items)
+        0 int size = 3
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170850695081985
+     1 string m_Localized = "<color=yellow>{label}</color> - Adjust damage enemies can do"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (3 items)
+        0 int size = 3
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170850695081986
+     1 string m_Localized = "<color=yellow>{label}</color> - Adjust enemy armour strength"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (3 items)
+        0 int size = 3
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170850695081987
+     1 string m_Localized = "<color=yellow>{label}</color> - Adjust enemy aggression level"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (3 items)
+        0 int size = 3
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170850695081988
+     1 string m_Localized = "<color=yellow>{label}</color> - Adjust animal spawn rate"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (3 items)
+        0 int size = 3
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170850695081989
+     1 string m_Localized = "<color=yellow>{label}</color> - Set environmental starting season"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (3 items)
+        0 int size = 3
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170850695081990
+     1 string m_Localized = "<color=yellow>{label}</color> - Adjust environmental season length"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (3 items)
+        0 int size = 3
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170850695081991
+     1 string m_Localized = "<color=yellow>{label}</color> - Adjust the day length"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (3 items)
+        0 int size = 3
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170850695081992
+     1 string m_Localized = "<color=yellow>{label}</color> - Adjust the frequency of rain and snow"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (3 items)
+        0 int size = 3
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170850695081993
+     1 string m_Localized = "<color=yellow>{label}</color> - Enable damage effects from each bad or rotten food and drink"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (3 items)
+        0 int size = 3
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [65]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170850695081994
+     1 string m_Localized = "<color=yellow>{label}</color> - Enable damage taken when low hydration and low fullness"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (3 items)
+        0 int size = 3
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [1]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+        [2]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [66]
+    0 TableEntryData data
+     0 SInt64 m_Id = 198492822978560
+     1 string m_Localized = "<color=yellow>{label}</color> - Enable minimum delay between sleeping"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [67]
+    0 TableEntryData data
+     0 SInt64 m_Id = 808435717074944
+     1 string m_Localized = "<color=yellow>{label}</color> - Enable player names and locator world UI"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [68]
+    0 TableEntryData data
+     0 SInt64 m_Id = 808435691909120
+     1 string m_Localized = "<color=yellow>{label}</color> - Enable projectile arc and target UI"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array (1 items)
+    0 int size = 1
+    [0]
+     0 ReferencedObject data
+      0 SInt64 rid = 4115542425863454741
+      0 ReferencedManagedType type
+       1 string class = "SmartFormatTag"
+       1 string ns = "UnityEngine.Localization.Metadata"
+       1 string asm = "Unity.Localization"
+      0 ReferencedObjectData data

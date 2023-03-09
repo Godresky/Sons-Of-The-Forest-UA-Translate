@@ -262,7 +262,7 @@
    [30]
     0 TableEntryData data
      0 SInt64 m_Id = 32663556374130688
-     1 string m_Localized = "Не можна нести більше: "
+     1 string m_Localized = "Не можна нести більше:"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -279,6 +279,22 @@
     0 TableEntryData data
      0 SInt64 m_Id = 36982961325207552
      1 string m_Localized = "Ви втомилися. Використовуйте брезент, щоб збудувати укриття"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44507741146312704
+     1 string m_Localized = "Знайдіть родину Паффтонів"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44508690464108544
+     1 string m_Localized = "Знайдено родину Паффтонів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

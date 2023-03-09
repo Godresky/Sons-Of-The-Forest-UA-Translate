@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (238 items)
-   0 int size = 238
+  0 Array Array (242 items)
+   0 int size = 242
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -1941,6 +1941,38 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
+   [238]
+    0 TableEntryData data
+     0 SInt64 m_Id = 124213841952075776
+     1 string m_Localized = "Survival Damage"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [239]
+    0 TableEntryData data
+     0 SInt64 m_Id = 124245244118319104
+     1 string m_Localized = "Sleeping Delay"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [240]
+    0 TableEntryData data
+     0 SInt64 m_Id = 124850718019252224
+     1 string m_Localized = "Projectile Reticle"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [241]
+    0 TableEntryData data
+     0 SInt64 m_Id = 124850781659426816
+     1 string m_Localized = "Player Name Tags"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
@@ -1953,17 +1985,4 @@
        1 string class = "SmartFormatTag"
        1 string ns = "UnityEngine.Localization.Metadata"
        1 string asm = "Unity.Localization"
-      0 SmartFormatTag Base
-       0 vector m_Entries
-        1 Array Array (5 items)
-         0 int size = 5
-         [0]
-          0 SInt64 data = 106737045502074880
-         [1]
-          0 SInt64 data = 106737105161854976
-         [2]
-          0 SInt64 data = 108100172005154816
-         [3]
-          0 SInt64 data = 108100768057696256
-         [4]
-          0 SInt64 data = 108100771559940096
+      0 ReferencedObjectData data
