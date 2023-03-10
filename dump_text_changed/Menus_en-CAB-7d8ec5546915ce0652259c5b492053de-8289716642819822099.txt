@@ -513,7 +513,7 @@
    [61]
     0 TableEntryData data
      0 SInt64 m_Id = 84715208851660800
-     1 string m_Localized = "Кількість голосів"
+     1 string m_Localized = "Кількість звуків"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1185,7 +1185,7 @@
    [145]
     0 TableEntryData data
      0 SInt64 m_Id = 106737045502074880
-     1 string m_Localized = "Натисніть будь-яка клавіша... {delay}"
+     1 string m_Localized = "Натисніть будь-яку клавішу... {delay}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1196,7 +1196,7 @@
    [146]
     0 TableEntryData data
      0 SInt64 m_Id = 106737105161854976
-     1 string m_Localized = "Натисніть будь-яка клавіша... {delay}"
+     1 string m_Localized = "Натисніть будь-яку кнопку... {delay}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
