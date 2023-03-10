@@ -224,7 +224,7 @@
      0 SInt64 m_Id = 17929238209286144
      1 string m_Localized = "ПОРАДА: НАМАГАЙТЕСЯ НЕ ВМИРАТИ НАДТО ЧАСТО"
      0 MetadataCollection m_Metadata
-      0 IMetadata m_ItemsTableEntryData 
+      0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [26]

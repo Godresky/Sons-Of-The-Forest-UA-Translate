@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (33 items)
-   0 int size = 33
+  0 Array Array (35 items)
+   0 int size = 35
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 38817046528
@@ -278,7 +278,7 @@
    [32]
     0 TableEntryData data
      0 SInt64 m_Id = 36982961325207552
-     1 string m_Localized = "Ви втомилися. Використовуйте брезент, щоб збудувати укриття"
+     1 string m_Localized = "Ви втомилися. Використайте брезент, щоб звести укриття"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

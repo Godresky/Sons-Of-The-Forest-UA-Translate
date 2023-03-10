@@ -358,7 +358,7 @@
    [42]
     0 TableEntryData data
      0 SInt64 m_Id = 14145486135351
-     1 string m_Localized = "Бінокль"
+     1 string m_Localized = "Далековид"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -366,7 +366,7 @@
    [43]
     0 TableEntryData data
      0 SInt64 m_Id = 14145486135352
-     1 string m_Localized = "Біноклі"
+     1 string m_Localized = "Далековиди"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4601,7 +4601,7 @@
    [572]
     0 TableEntryData data
      0 SInt64 m_Id = 29674117830012928
-     1 string m_Localized = "Енергосуміш +"
+     1 string m_Localized = "Оздоровча суміш +"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
