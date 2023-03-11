@@ -358,7 +358,7 @@
    [42]
     0 TableEntryData data
      0 SInt64 m_Id = 14145486135351
-     1 string m_Localized = "Далековид"
+     1 string m_Localized = "Дальновид"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -366,7 +366,7 @@
    [43]
     0 TableEntryData data
      0 SInt64 m_Id = 14145486135352
-     1 string m_Localized = "Далековиди"
+     1 string m_Localized = "Дальновиди"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2950,7 +2950,7 @@
    [366]
     0 TableEntryData data
      0 SInt64 m_Id = 14145519689764
-     1 string m_Localized = "Локшина для рамена"
+     1 string m_Localized = "Локшина"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2958,7 +2958,7 @@
    [367]
     0 TableEntryData data
      0 SInt64 m_Id = 14145519689765
-     1 string m_Localized = "Локшина для рамена"
+     1 string m_Localized = "Локшина"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3254,7 +3254,7 @@
    [404]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884056
-     1 string m_Localized = "Рейка Пікатінні для рушниці"
+     1 string m_Localized = "Рейка Пікатінні для дробовика"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3262,7 +3262,7 @@
    [405]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884057
-     1 string m_Localized = "Рейки Пікатінні для рушниці"
+     1 string m_Localized = "Рейки Пікатінні для дробовика"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
