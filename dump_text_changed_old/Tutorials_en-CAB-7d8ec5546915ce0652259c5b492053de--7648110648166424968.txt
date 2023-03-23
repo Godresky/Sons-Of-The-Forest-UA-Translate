@@ -6,271 +6,295 @@
  0 PPtr<MonoScript> m_Script
   0 int m_FileID = 0
   0 SInt64 m_PathID = -2378050947708348859
- 1 string m_Name = "Hints_en"
+ 1 string m_Name = "Tutorials_en"
  0 LocaleIdentifier m_LocaleId
   1 string m_Code = "en"
  0 PPtr<$SharedTableData> m_SharedData
   0 int m_FileID = 1
-  0 SInt64 m_PathID = -1322069066032036514
+  0 SInt64 m_PathID = 8756602536832208244
  0 MetadataCollection m_Metadata
   0 IMetadata m_Items
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (32 items)
-   0 int size = 32
+  0 Array Array (35 items)
+   0 int size = 35
    [0]
     0 TableEntryData data
-     0 SInt64 m_Id = 159345053696
-     1 string m_Localized = "TAP {BUTTON.Take} TO TAKE ITEMS AND HOLD {BUTTON.Use} TO USE"
+     0 SInt64 m_Id = 38817046528
+     1 string m_Localized = "Щоб відкрити інвентар, натисніть"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [1]
     0 TableEntryData data
-     0 SInt64 m_Id = 409585618944
-     1 string m_Localized = "UNEQUIP ITEMS BY PRESSING {BUTTON.Drop}"
+     0 SInt64 m_Id = 2340810465280
+     1 string m_Localized = "Спочатку ви повинні дістати свій наплечник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [2]
     0 TableEntryData data
-     0 SInt64 m_Id = 478867132416
-     1 string m_Localized = "EQUIP YOUR GPS WITH {BUTTON.Utility}"
+     0 SInt64 m_Id = 700116180992
+     1 string m_Localized = "Увімкніть світло, натиснувши"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [3]
     0 TableEntryData data
-     0 SInt64 m_Id = 524840898560
-     1 string m_Localized = "ZOOM IN THE GPS MAP WITH {BUTTON.GpsZoom}"
+     0 SInt64 m_Id = 743455924224
+     1 string m_Localized = "Новий рецепт виготовлення доступний в інвентарі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [4]
     0 TableEntryData data
-     0 SInt64 m_Id = 578125336576
-     1 string m_Localized = "EQUIP A LIGHT SOURCE WITH {BUTTON.Lighter}"
+     0 SInt64 m_Id = 784555909120
+     1 string m_Localized = "Кілька нових рецептів виготовлення доступні в інвентарі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [5]
     0 TableEntryData data
-     0 SInt64 m_Id = 627739758592
-     1 string m_Localized = "TAP {BUTTON.Inventory} TO OPEN YOUR INVENTORY OR HOLD {BUTTON.Inventory} TO OPEN QUICK SELECT"
+     0 SInt64 m_Id = 857188671488
+     1 string m_Localized = "Перезарядіть, натиснувши"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [6]
     0 TableEntryData data
-     0 SInt64 m_Id = 701228158976
-     1 string m_Localized = "YOU CAN CARRY UP TO TWO LOGS AT A TIME"
+     0 SInt64 m_Id = 891623907328
+     1 string m_Localized = "Використовуйте брезент для будівництва укриттів або розширення споруд"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [7]
     0 TableEntryData data
-     0 SInt64 m_Id = 754525179904
-     1 string m_Localized = "YOUR GPS CAN SHOW YOU IMPORTANT LOCATIONS ON THE MAP"
+     0 SInt64 m_Id = 912201162752
+     1 string m_Localized = "Розпакуйте аварійну сумку, що знаходиться у вашому інвентарі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [8]
     0 TableEntryData data
-     0 SInt64 m_Id = 812570152960
-     1 string m_Localized = "GPS LOCATORS CAN BE PLACED ON SURFACES OR GIVEN TO NPCs"
+     0 SInt64 m_Id = 950369329152
+     1 string m_Localized = "Знайдіть команду В 0/3"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [9]
     0 TableEntryData data
-     0 SInt64 m_Id = 861937111040
-     1 string m_Localized = "CRAFT BONE ARMOR WITH BONES, ROPE AND TAPE"
+     0 SInt64 m_Id = 3637836062720
+     1 string m_Localized = "Пропустити"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [10]
     0 TableEntryData data
-     0 SInt64 m_Id = 911572504576
-     1 string m_Localized = "MAINTAINING YOUR THIRST, HUNGER AND REST WILL KEEP YOUR VITALITY HIGH"
+     0 SInt64 m_Id = 3905499766784
+     1 string m_Localized = "додано до наплечника"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [11]
     0 TableEntryData data
-     0 SInt64 m_Id = 967176392704
-     1 string m_Localized = "YOUR AVAILABLE STAMINA IS ONLY AS HIGH AS YOUR MAX VITALITY"
+     0 SInt64 m_Id = 186628513792
+     1 string m_Localized = "Ви голодні"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [12]
     0 TableEntryData data
-     0 SInt64 m_Id = 1059061010432
-     1 string m_Localized = "BEING COLD WILL LIMIT YOUR VITALITY"
+     0 SInt64 m_Id = 254647541760
+     1 string m_Localized = "Ви помираєте від голоду"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [13]
     0 TableEntryData data
-     0 SInt64 m_Id = 1122722156544
-     1 string m_Localized = "PERFORMING DIFFERENT ACTIONS WILL INCREASE YOUR STRENGTH LEVEL"
+     0 SInt64 m_Id = 288004841472
+     1 string m_Localized = "Ви хочете пити"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [14]
     0 TableEntryData data
-     0 SInt64 m_Id = 1233841852416
-     1 string m_Localized = "YOUR HEALTH WILL INCREASE SLIGHTLY WHEN YOU GAIN A STRENGTH LEVEL"
+     0 SInt64 m_Id = 318270939136
+     1 string m_Localized = "Ви вмираєте від спраги"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [15]
     0 TableEntryData data
-     0 SInt64 m_Id = 3018606284800
-     1 string m_Localized = "SOME CLOTHING ITEMS ARE WARMER THAN OTHERS"
+     0 SInt64 m_Id = 359681302528
+     1 string m_Localized = "Низький рівень енергії. Поїжте, випийте щось або відпочиньте"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [16]
     0 TableEntryData data
-     0 SInt64 m_Id = 3057533620224
-     1 string m_Localized = "EXPLOSIVES AND MOLOTOVS ARE EFFECTIVE AGAINST MOST ENEMIES"
+     0 SInt64 m_Id = 390681403392
+     1 string m_Localized = "Ви втомилися"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [17]
     0 TableEntryData data
-     0 SInt64 m_Id = 3206871814144
-     1 string m_Localized = "CROUCH IN BUSHES TO HIDE FROM ENEMIES"
+     0 SInt64 m_Id = 426433650688
+     1 string m_Localized = "Низький рівень здоров’я. Знайдіть ліки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [18]
     0 TableEntryData data
-     0 SInt64 m_Id = 3296613142528
-     1 string m_Localized = "BURNING BODIES WILL PRODUCE BONES"
+     0 SInt64 m_Id = 457857376256
+     1 string m_Localized = "Поверніть свій наплечник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [19]
     0 TableEntryData data
-     0 SInt64 m_Id = 3351856320512
-     1 string m_Localized = "BUILD TRAPS TO CAPTURE SMALL ANIMALS"
+     0 SInt64 m_Id = 484591869952
+     1 string m_Localized = "Знайдіть ліки, щоб оживити інших гравців. Покваптеся!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [20]
     0 TableEntryData data
-     0 SInt64 m_Id = 3404301897728
-     1 string m_Localized = "CRAFT CLOTH WITH BOOZE TO MAKE A MOLOTOV COCKTAIL"
+     0 SInt64 m_Id = 497782956032
+     1 string m_Localized = "Ви змерзли"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [21]
     0 TableEntryData data
-     0 SInt64 m_Id = 3502658326528
-     1 string m_Localized = "WEARING FLIPPERS WHEN NOT IN WATER WILL SLOW YOU DOWN"
+     0 SInt64 m_Id = 513213800448
+     1 string m_Localized = "Ви помираєте від холоду"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [22]
     0 TableEntryData data
-     0 SInt64 m_Id = 16224405983232
-     1 string m_Localized = "TIP: BEING COLD WILL LIMIT YOUR VITALITY"
+     0 SInt64 m_Id = 532725702656
+     1 string m_Localized = "Ви вркиті кров’ю. Змийте її, щоб уникнути зараження"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [23]
     0 TableEntryData data
-     0 SInt64 m_Id = 16335123025920
-     1 string m_Localized = "TIP: CROUCH IN BUSHES TO HIDE FROM ENEMIES"
+     0 SInt64 m_Id = 567869775872
+     1 string m_Localized = "Сокири можна використовувати для рубання дерев або розчленування ворогів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [24]
     0 TableEntryData data
-     0 SInt64 m_Id = 16475590266880
-     1 string m_Localized = "TIP: YOUR GPS CAN SHOW YOU IMPORTANT MARKERS IN WORLD"
+     0 SInt64 m_Id = 586836418560
+     1 string m_Localized = "Неможливо відкрити інвентар під водою"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [25]
     0 TableEntryData data
-     0 SInt64 m_Id = 17929238209286144
-     1 string m_Localized = "TIP: TRY NOT DYING SO MUCH"
+     0 SInt64 m_Id = 631405092864
+     1 string m_Localized = "Щоб відкрити швидкий вибір, натисніть та утримуйте"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [26]
     0 TableEntryData data
-     0 SInt64 m_Id = 52408611640963072
-     1 string m_Localized = "REMOVE A PLACED STRUCTURE ELEMENT BY HOLDING {BUTTON.DismantleElement}"
+     0 SInt64 m_Id = 669309018112
+     1 string m_Localized = "Візьміть свій GPS-пристрій, натиснувши"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [27]
     0 TableEntryData data
-     0 SInt64 m_Id = 60698744467673088
-     1 string m_Localized = "In Multiplayer, be nice to each other."
+     0 SInt64 m_Id = 24178902344585216
+     1 string m_Localized = "Вивчіть основи будівництва"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [28]
     0 TableEntryData data
-     0 SInt64 m_Id = 60802221867888640
-     1 string m_Localized = "EQUIP YOUR GPS WITH {BUTTON.GpsTracker}"
+     0 SInt64 m_Id = 26554212187250688
+     1 string m_Localized = "Вам холодно. Використовуйте палиці, щоб розпалити багаття"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [29]
     0 TableEntryData data
-     0 SInt64 m_Id = 65178679947575296
-     1 string m_Localized = "Hold {BUTTON.PrimaryAction} to do a heavy attack"
+     0 SInt64 m_Id = 28599111553380352
+     1 string m_Localized = "Видаліть встановлений первень споруди, утримуючи"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [30]
     0 TableEntryData data
-     0 SInt64 m_Id = 65179053324517376
-     1 string m_Localized = "Hotkeys can be assigned in Inventory by pressing {BUTTON.HotKey1} to {BUTTON.HotKey0}"
+     0 SInt64 m_Id = 32663556374130688
+     1 string m_Localized = "Не можна нести більше:"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [31]
     0 TableEntryData data
-     0 SInt64 m_Id = 68692362201133056
-     1 string m_Localized = "HOLD {BUTTON.DismantleElement} TO PICKUP SMALL STRUCTURES BUILT FROM THE BOOK"
+     0 SInt64 m_Id = 33800222986870784
+     1 string m_Localized = "Ви змерзли та змокли"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 36982961325207552
+     1 string m_Localized = "Ви втомилися. Використайте брезент, щоб звести укриття"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44507741146312704
+     1 string m_Localized = "Знайдіть родину Паффтонів"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 44508690464108544
+     1 string m_Localized = "Знайдено родину Паффтонів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
