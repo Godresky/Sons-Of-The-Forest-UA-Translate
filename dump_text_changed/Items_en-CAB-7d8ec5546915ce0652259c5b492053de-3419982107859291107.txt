@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (609 items)
-   0 int size = 609
+  0 Array Array (614 items)
+   0 int size = 614
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -2758,7 +2758,7 @@
    [342]
     0 TableEntryData data
      0 SInt64 m_Id = 14145519689728
-     1 string m_Localized = "Врятована книга"
+     1 string m_Localized = "Книжка «Врятований»"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2766,7 +2766,7 @@
    [343]
     0 TableEntryData data
      0 SInt64 m_Id = 14145519689729
-     1 string m_Localized = "Врятовані книги"
+     1 string m_Localized = "Книжки «Врятований»"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4841,7 +4841,7 @@
    [602]
     0 TableEntryData data
      0 SInt64 m_Id = 37248904182956032
-     1 string m_Localized = "Настінний смолоскип\n"
+     1 string m_Localized = "Настінний смолоскип"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4849,7 +4849,7 @@
    [603]
     0 TableEntryData data
      0 SInt64 m_Id = 37249377283670016
-     1 string m_Localized = "Настельна черепна лямпа\n"
+     1 string m_Localized = "Настельна черепна лямпа"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4890,6 +4890,46 @@
     0 TableEntryData data
      0 SInt64 m_Id = 44168174238236672
      1 string m_Localized = "Дверний замок"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [609]
+    0 TableEntryData data
+     0 SInt64 m_Id = 45150180496371712
+     1 string m_Localized = "Дощозбірник"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [610]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48810472522641408
+     1 string m_Localized = "Книжка «Потойбічне царство»"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [611]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48839665750896640
+     1 string m_Localized = "Пружинна ступиця"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [612]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48864069683769344
+     1 string m_Localized = "Брошура «Культ»"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [613]
+    0 TableEntryData data
+     0 SInt64 m_Id = 48864114642513920
+     1 string m_Localized = "Брошури «Культ»"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

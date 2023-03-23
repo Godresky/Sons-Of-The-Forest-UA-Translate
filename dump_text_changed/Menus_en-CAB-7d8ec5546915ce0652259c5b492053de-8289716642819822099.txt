@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (242 items)
-   0 int size = 242
+  0 Array Array (243 items)
+   0 int size = 243
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -97,7 +97,7 @@
    [9]
     0 TableEntryData data
      0 SInt64 m_Id = 84696165935554560
-     1 string m_Localized = "Ґрафіка"
+     1 string m_Localized = "Графіка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -193,7 +193,7 @@
    [21]
     0 TableEntryData data
      0 SInt64 m_Id = 84711201471012864
-     1 string m_Localized = "Якість ґрафіки"
+     1 string m_Localized = "Якість графіки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -321,7 +321,7 @@
    [37]
     0 TableEntryData data
      0 SInt64 m_Id = 84711201487790090
-     1 string m_Localized = "Длсс"
+     1 string m_Localized = "DLSS"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -329,7 +329,7 @@
    [38]
     0 TableEntryData data
      0 SInt64 m_Id = 84713984655958016
-     1 string m_Localized = "Усі ҐІК"
+     1 string m_Localized = "Усі ГІК"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -401,7 +401,7 @@
    [47]
     0 TableEntryData data
      0 SInt64 m_Id = 84714353196867584
-     1 string m_Localized = "ҐІК"
+     1 string m_Localized = "ГІК"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1065,7 +1065,7 @@
    [130]
     0 TableEntryData data
      0 SInt64 m_Id = 106114005966180352
-     1 string m_Localized = "繁体中文"
+     1 string m_Localized = "繁體中文"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1089,7 +1089,7 @@
    [133]
     0 TableEntryData data
      0 SInt64 m_Id = 106126531219083264
-     1 string m_Localized = "SUOMALAINEN"
+     1 string m_Localized = "suomi"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1848,7 +1848,7 @@
    [226]
     0 TableEntryData data
      0 SInt64 m_Id = 118715274899222528
-     1 string m_Localized = "Шкода від голоду/зневоднення\n"
+     1 string m_Localized = "Шкода від голоду/зневоднення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1969,6 +1969,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 124850781659426816
      1 string m_Localized = "Відображення імен гравців"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [242]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127469074982912000
+     1 string m_Localized = "Гучність голосу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

@@ -137,7 +137,7 @@
    [14]
     0 TableEntryData data
      0 SInt64 m_Id = 493951033344
-     1 string m_Localized = "Книга"
+     1 string m_Localized = "Посібник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -289,7 +289,7 @@
    [33]
     0 TableEntryData data
      0 SInt64 m_Id = 1743924928512
-     1 string m_Localized = "Перемикання режиму книжки"
+     1 string m_Localized = "Перемикання режиму посібника"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

@@ -21,7 +21,7 @@
       0 SInt64 rid = 4115542425863454741
  0 TableEntryData m_TableData
   0 Array Array (69 items)
-   0 int size = 69
+   0 int size = 70
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 10714634612736
@@ -129,7 +129,7 @@
    [4]
     0 TableEntryData data
      0 SInt64 m_Id = 10979400052736
-     1 string m_Localized = "<color=yellow>{label}</color> - Змінює декілька налаштувань для досягнення загального рівня ґрафіки"
+     1 string m_Localized = "<color=yellow>{label}</color> - Змінює декілька налаштувань для досягнення загального рівня графіки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1656,6 +1656,17 @@
     0 TableEntryData data
      0 SInt64 m_Id = 808435691909120
      1 string m_Localized = "<color=yellow>{label}</color> - Вмикає траєкторію снаряда та визірні лінії"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [69]
+    0 TableEntryData data
+     0 SInt64 m_Id = 3425136316530688
+     1 string m_Localized = "<color=yellow>{label}</color> - Гучність рації для багатокористувацького голосового зв`язку​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)

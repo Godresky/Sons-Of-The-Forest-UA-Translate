@@ -94,7 +94,7 @@
    [9]
     0 TableEntryData data
      0 SInt64 m_Id = 671519416320
-     1 string m_Localized = "Розмістити\nЗапалити"
+     1 string m_Localized = "Розмістити\nВогнище"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -102,7 +102,7 @@
    [10]
     0 TableEntryData data
      0 SInt64 m_Id = 718776639488
-     1 string m_Localized = "Розмістити\nBeam"
+     1 string m_Localized = "Розмістити\nБалку"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -174,7 +174,7 @@
    [19]
     0 TableEntryData data
      0 SInt64 m_Id = 1211942903808
-     1 string m_Localized = "Розмістити\nApex"
+     1 string m_Localized = "Розмістити\nВершину"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
