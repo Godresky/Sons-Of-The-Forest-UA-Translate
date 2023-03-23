@@ -1446,7 +1446,7 @@
    [55]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081984
-     1 string m_Localized = "<color=yellow>{label}</color> - Adjust enemy starting health"
+     1 string m_Localized = "<color=yellow>{label}</color> - Регулює рівень здоров’я ворогів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1463,7 +1463,7 @@
    [56]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081985
-     1 string m_Localized = "<color=yellow>{label}</color> - Adjust damage enemies can do"
+     1 string m_Localized = "<color=yellow>{label}</color> - Регулює пошкодження, яку можуть завдати вороги"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1480,7 +1480,7 @@
    [57]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081986
-     1 string m_Localized = "<color=yellow>{label}</color> - Adjust enemy armour strength"
+     1 string m_Localized = "<color=yellow>{label}</color> - Регулює міцність броні ворога"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1497,7 +1497,7 @@
    [58]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081987
-     1 string m_Localized = "<color=yellow>{label}</color> - Adjust enemy aggression level"
+     1 string m_Localized = "<color=yellow>{label}</color> - Регулює рівень лютости"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1514,7 +1514,7 @@
    [59]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081988
-     1 string m_Localized = "<color=yellow>{label}</color> - Adjust animal spawn rate"
+     1 string m_Localized = "<color=yellow>{label}</color> - Регулює частоту кресу тварин"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1531,7 +1531,7 @@
    [60]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081989
-     1 string m_Localized = "<color=yellow>{label}</color> - Set environmental starting season"
+     1 string m_Localized = "<color=yellow>{label}</color> - Встановлює початкову пору року"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1548,7 +1548,7 @@
    [61]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081990
-     1 string m_Localized = "<color=yellow>{label}</color> - Adjust environmental season length"
+     1 string m_Localized = "<color=yellow>{label}</color> - Регулює тривалість пори року"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1565,7 +1565,7 @@
    [62]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081991
-     1 string m_Localized = "<color=yellow>{label}</color> - Adjust the day length"
+     1 string m_Localized = "<color=yellow>{label}</color> - Регулює тривалість дня"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1582,7 +1582,7 @@
    [63]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081992
-     1 string m_Localized = "<color=yellow>{label}</color> - Adjust the frequency of rain and snow"
+     1 string m_Localized = "<color=yellow>{label}</color> - Регулює частоту опадів та снігу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1599,7 +1599,7 @@
    [64]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081993
-     1 string m_Localized = "<color=yellow>{label}</color> - Enable damage effects from each bad or rotten food and drink"
+     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає пошкодження від поганої або гнилої їжі та напоїів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1616,7 +1616,7 @@
    [65]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081994
-     1 string m_Localized = "<color=yellow>{label}</color> - Enable damage taken when low hydration and low fullness"
+     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає пошкодження від спраги та голоду"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1633,7 +1633,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 198492822978560
-     1 string m_Localized = "<color=yellow>{label}</color> - Enable minimum delay between sleeping"
+     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає мінімальну затримку між засинанням"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1644,7 +1644,7 @@
    [67]
     0 TableEntryData data
      0 SInt64 m_Id = 808435717074944
-     1 string m_Localized = "<color=yellow>{label}</color> - Enable player names and locator world UI"
+     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає відображення імен гравців та їнього місця знаходження"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1655,7 +1655,7 @@
    [68]
     0 TableEntryData data
      0 SInt64 m_Id = 808435691909120
-     1 string m_Localized = "<color=yellow>{label}</color> - Enable projectile arc and target UI"
+     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає траєкторію снаряда та визірні лінії"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1816,4 +1816,4 @@
          [67]
           0 SInt64 data = 808435717074944
          [68]
-          0 SInt64 data = 808435691909120
+          0 SInt64 data = 808435691909120
