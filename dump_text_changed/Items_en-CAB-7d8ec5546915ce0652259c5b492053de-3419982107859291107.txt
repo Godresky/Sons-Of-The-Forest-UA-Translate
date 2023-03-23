@@ -614,7 +614,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 14145490329639
-     1 string m_Localized = "Стілець з палиць"
+     1 string m_Localized = "Стільці з палиць"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1382,7 +1382,7 @@
    [170]
     0 TableEntryData data
      0 SInt64 m_Id = 14145502912512
-     1 string m_Localized = "Клейка стрічка"
+     1 string m_Localized = "Клейкі стрічки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2246,7 +2246,7 @@
    [278]
     0 TableEntryData data
      0 SInt64 m_Id = 14145511301165
-     1 string m_Localized = "Оздоровча суміш"
+     1 string m_Localized = "Оздоровчі суміші"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2374,7 +2374,7 @@
    [294]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495424
-     1 string m_Localized = "Їжовець жовтий"
+     1 string m_Localized = "Їжовці жовті"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2518,7 +2518,7 @@
    [312]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495451
-     1 string m_Localized = "Листяний костюм"
+     1 string m_Localized = "Листяні костюми"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3286,7 +3286,7 @@
    [408]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884062
-     1 string m_Localized = "Піжама"
+     1 string m_Localized = "Піжами"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3942,7 +3942,7 @@
    [490]
     0 TableEntryData data
      0 SInt64 m_Id = 14145532272660
-     1 string m_Localized = "Дріт"
+     1 string m_Localized = "Дроти"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4505,7 +4505,7 @@
    [560]
     0 TableEntryData data
      0 SInt64 m_Id = 22068158127403008
-     1 string m_Localized = "Надруковані стріли"
+     1 string m_Localized = "3d Printed Arrows"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4907,4 +4907,4 @@
        1 string ns = "UnityEngine.Localization.Metadata"
        1 string asm = "Unity.Localization"
       0 Comment Base
-       1 string m_CommentText = "Arrows that are 3d printed"
+       1 string m_CommentText = "Arrows that are 3d printed"

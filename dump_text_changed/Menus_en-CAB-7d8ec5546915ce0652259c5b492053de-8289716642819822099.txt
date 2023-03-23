@@ -513,7 +513,7 @@
    [61]
     0 TableEntryData data
      0 SInt64 m_Id = 84715208851660800
-     1 string m_Localized = "Кількість звуків"
+     1 string m_Localized = "Кількість голосів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1185,7 +1185,7 @@
    [145]
     0 TableEntryData data
      0 SInt64 m_Id = 106737045502074880
-     1 string m_Localized = "Натисніть будь-яку клавішу... {delay}"
+     1 string m_Localized = "Натисніть будь-яка клавіша... {delay}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1196,7 +1196,7 @@
    [146]
     0 TableEntryData data
      0 SInt64 m_Id = 106737105161854976
-     1 string m_Localized = "Натисніть будь-яку кнопку... {delay}"
+     1 string m_Localized = "Press any button... {delay}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1207,7 +1207,7 @@
    [147]
     0 TableEntryData data
      0 SInt64 m_Id = 107193896765136896
-     1 string m_Localized = "Мертва зона ґеймпада"
+     1 string m_Localized = "GamePad Deadzone"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1234,7 +1234,7 @@
    [150]
     0 TableEntryData data
      0 SInt64 m_Id = 108100768057696256
-     1 string m_Localized = "{0} ГЦ"
+     1 string m_Localized = "{0} hz"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1245,7 +1245,7 @@
    [151]
     0 TableEntryData data
      0 SInt64 m_Id = 108100771559940096
-     1 string m_Localized = "{0} ГЦ"
+     1 string m_Localized = "{0} hz"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1256,7 +1256,7 @@
    [152]
     0 TableEntryData data
      0 SInt64 m_Id = 108149175698759680
-     1 string m_Localized = "Повноекранний"
+     1 string m_Localized = "Exclusive Fullscreen"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1998,4 +1998,4 @@
          [3]
           0 SInt64 data = 108100768057696256
          [4]
-          0 SInt64 data = 108100771559940096
+          0 SInt64 data = 108100771559940096
