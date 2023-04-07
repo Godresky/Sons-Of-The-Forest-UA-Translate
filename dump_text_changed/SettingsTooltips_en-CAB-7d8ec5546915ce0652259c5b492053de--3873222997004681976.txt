@@ -1688,8 +1688,8 @@
        1 string asm = "Unity.Localization"
       0 SmartFormatTag Base
        0 vector m_Entries
-        1 Array Array (69 items)
-         0 int size = 69
+        1 Array Array (70 items)
+         0 int size = 70
          [0]
           0 SInt64 data = 10714634612736
          [1]
@@ -1828,3 +1828,5 @@
           0 SInt64 data = 808435717074944
          [68]
           0 SInt64 data = 808435691909120
+         [69]
+          0 SInt64 data = 3425136316530688

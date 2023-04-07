@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (32 items)
-   0 int size = 32
+  0 Array Array (33 items)
+   0 int size = 33
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 159345053696
@@ -271,6 +271,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 68692362201133056
      1 string m_Localized = "HOLD {BUTTON.DismantleElement} TO PICKUP SMALL STRUCTURES BUILT FROM THE BOOK"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 78108771427545088
+     1 string m_Localized = "JUMP TWICE TO DISMOUNT FROM THE KNIGHT V"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

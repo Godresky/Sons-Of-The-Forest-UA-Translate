@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (243 items)
-   0 int size = 243
+  0 Array Array (244 items)
+   0 int size = 244
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -1977,6 +1977,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 127469074982912000
      1 string m_Localized = "Гучність голосу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [243]
+    0 TableEntryData data
+     0 SInt64 m_Id = 136478664463052800
+     1 string m_Localized = "Видалити наявне збереження?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
