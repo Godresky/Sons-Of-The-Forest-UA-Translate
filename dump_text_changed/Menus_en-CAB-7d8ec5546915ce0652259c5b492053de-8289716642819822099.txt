@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (244 items)
-   0 int size = 244
+  0 Array Array (247 items)
+   0 int size = 247
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -1985,6 +1985,30 @@
     0 TableEntryData data
      0 SInt64 m_Id = 136478664463052800
      1 string m_Localized = "Видалити наявне збереження?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [244]
+    0 TableEntryData data
+     0 SInt64 m_Id = 139996237745975296
+     1 string m_Localized = "Скинути прив’язки​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [245]
+    0 TableEntryData data
+     0 SInt64 m_Id = 141482444728397824
+     1 string m_Localized = "Назва збереження гри"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [246]
+    0 TableEntryData data
+     0 SInt64 m_Id = 141496667688759296
+     1 string m_Localized = "Створити нове збереження?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

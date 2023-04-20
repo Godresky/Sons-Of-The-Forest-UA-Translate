@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (36 items)
-   0 int size = 36
+  0 Array Array (39 items)
+   0 int size = 39
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 38817046528
@@ -303,6 +303,30 @@
     0 TableEntryData data
      0 SInt64 m_Id = 54307069167661056
      1 string m_Localized = "Jump twice to dismount from the Knight V"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 57624729137704960
+     1 string m_Localized = "New video recording found"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 57935524102926336
+     1 string m_Localized = "New location discovered"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 57935636099231744
+     1 string m_Localized = "Location already discovered"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

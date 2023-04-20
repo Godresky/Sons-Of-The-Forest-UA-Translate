@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (621 items)
-   0 int size = 621
+  0 Array Array (623 items)
+   0 int size = 623
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -4986,6 +4986,22 @@
     0 TableEntryData data
      0 SInt64 m_Id = 54617029076320256
      1 string m_Localized = "Базова електроенергія"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [621]
+    0 TableEntryData data
+     0 SInt64 m_Id = 57112769946185728
+     1 string m_Localized = "Екшн-знімач"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [622]
+    0 TableEntryData data
+     0 SInt64 m_Id = 57112802779197440
+     1 string m_Localized = "Екшн-знімачі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
