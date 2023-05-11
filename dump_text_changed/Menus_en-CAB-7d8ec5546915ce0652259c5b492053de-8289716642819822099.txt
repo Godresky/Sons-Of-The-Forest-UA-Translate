@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (247 items)
-   0 int size = 247
+  0 Array Array (248 items)
+   0 int size = 248
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -2009,6 +2009,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 141496667688759296
      1 string m_Localized = "Створити нове збереження?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [247]
+    0 TableEntryData data
+     0 SInt64 m_Id = 149525938369216512
+     1 string m_Localized = "Відростання дерев"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

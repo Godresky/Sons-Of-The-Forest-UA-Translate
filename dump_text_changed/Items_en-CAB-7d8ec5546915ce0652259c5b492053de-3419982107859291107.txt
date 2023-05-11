@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (623 items)
-   0 int size = 623
+  0 Array Array (628 items)
+   0 int size = 628
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -5002,6 +5002,46 @@
     0 TableEntryData data
      0 SInt64 m_Id = 57112802779197440
      1 string m_Localized = "Екшн-знімачі"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [623]
+    0 TableEntryData data
+     0 SInt64 m_Id = 60065370446753792
+     1 string m_Localized = "Дерев’яні сани"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [624]
+    0 TableEntryData data
+     0 SInt64 m_Id = 62622831611473920
+     1 string m_Localized = "Необхідна вода"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [625]
+    0 TableEntryData data
+     0 SInt64 m_Id = 64759137279930368
+     1 string m_Localized = "Прості дерев’яні сани"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [626]
+    0 TableEntryData data
+     0 SInt64 m_Id = 66524803896963072
+     1 string m_Localized = "Скафандер"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [627]
+    0 TableEntryData data
+     0 SInt64 m_Id = 66524852911599616
+     1 string m_Localized = "Скафандери"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

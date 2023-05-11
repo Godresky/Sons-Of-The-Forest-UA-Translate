@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (49 items)
-   0 int size = 49
+  0 Array Array (50 items)
+   0 int size = 50
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 101228290048
@@ -407,6 +407,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 43885917047877632
      1 string m_Localized = "Zoom"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 63054613414670336
+     1 string m_Localized = "Reset Cooking Pot"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

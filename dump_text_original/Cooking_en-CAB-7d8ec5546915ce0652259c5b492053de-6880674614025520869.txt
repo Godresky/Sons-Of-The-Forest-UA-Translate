@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (10 items)
-   0 int size = 10
+  0 Array Array (17 items)
+   0 int size = 17
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 1773254025216
@@ -70,7 +70,7 @@
    [6]
     0 TableEntryData data
      0 SInt64 m_Id = 2017396072448
-     1 string m_Localized = "Meat Surprise"
+     1 string m_Localized = "Kitchen Sink"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -78,7 +78,7 @@
    [7]
     0 TableEntryData data
      0 SInt64 m_Id = 2043434311680
-     1 string m_Localized = "Meat Stew"
+     1 string m_Localized = "Cream of Mushroom"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -95,6 +95,62 @@
     0 TableEntryData data
      0 SInt64 m_Id = 2758403760128
      1 string m_Localized = "EMPTY"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [10]
+    0 TableEntryData data
+     0 SInt64 m_Id = 67417385367760896
+     1 string m_Localized = "Chicken Noodle Soup"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [11]
+    0 TableEntryData data
+     0 SInt64 m_Id = 67419021209235456
+     1 string m_Localized = "Liquid Battery"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [12]
+    0 TableEntryData data
+     0 SInt64 m_Id = 67420777544675328
+     1 string m_Localized = "Egg Nog"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [13]
+    0 TableEntryData data
+     0 SInt64 m_Id = 67422719121551360
+     1 string m_Localized = "Protien Shake"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [14]
+    0 TableEntryData data
+     0 SInt64 m_Id = 67424098405838848
+     1 string m_Localized = "Lumberjack Juice"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [15]
+    0 TableEntryData data
+     0 SInt64 m_Id = 67425713380651008
+     1 string m_Localized = "Greg"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [16]
+    0 TableEntryData data
+     0 SInt64 m_Id = 67583717019217920
+     1 string m_Localized = "Kelvin Special"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
