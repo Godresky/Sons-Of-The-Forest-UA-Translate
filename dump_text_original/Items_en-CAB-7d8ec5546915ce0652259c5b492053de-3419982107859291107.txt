@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (628 items)
-   0 int size = 628
+  0 Array Array (632 items)
+   0 int size = 632
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -5042,6 +5042,38 @@
     0 TableEntryData data
      0 SInt64 m_Id = 66524852911599616
      1 string m_Localized = "Space Suits"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [628]
+    0 TableEntryData data
+     0 SInt64 m_Id = 69470011005595648
+     1 string m_Localized = "Stone"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [629]
+    0 TableEntryData data
+     0 SInt64 m_Id = 69470032673370112
+     1 string m_Localized = "Stones"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [630]
+    0 TableEntryData data
+     0 SInt64 m_Id = 69794403069718528
+     1 string m_Localized = "Advanced Cooking"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [631]
+    0 TableEntryData data
+     0 SInt64 m_Id = 72371070195036160
+     1 string m_Localized = "Stone fireplace"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

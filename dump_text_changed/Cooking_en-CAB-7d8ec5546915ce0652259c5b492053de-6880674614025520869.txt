@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (17 items)
-   0 int size = 17
+  0 Array Array (18 items)
+   0 int size = 18
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 1773254025216
@@ -151,6 +151,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 67583717019217920
      1 string m_Localized = "Особливий від Кельвіна"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [17]
+    0 TableEntryData data
+     0 SInt64 m_Id = 69067103009239040
+     1 string m_Localized = "Чиста вода"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

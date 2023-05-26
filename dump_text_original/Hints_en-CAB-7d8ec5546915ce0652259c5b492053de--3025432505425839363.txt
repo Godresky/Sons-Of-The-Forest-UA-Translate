@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (33 items)
-   0 int size = 33
+  0 Array Array (36 items)
+   0 int size = 36
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 159345053696
@@ -279,6 +279,30 @@
     0 TableEntryData data
      0 SInt64 m_Id = 78108771427545088
      1 string m_Localized = "JUMP TWICE TO DISMOUNT FROM THE KNIGHT V"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 95864345908998144
+     1 string m_Localized = "SLEEPING INDOORS IS MORE RESTFUL THAN SLEEPING OUTSIDE"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [34]
+    0 TableEntryData data
+     0 SInt64 m_Id = 95864906117017600
+     1 string m_Localized = "SOME COOKING RECIPES CAN GRANT USEFUL BONUSES"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [35]
+    0 TableEntryData data
+     0 SInt64 m_Id = 95950742783258624
+     1 string m_Localized = "A HIGHER COMFORT RATING WILL REGENERATE MORE REST WHEN SLEEPING"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

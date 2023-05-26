@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (50 items)
-   0 int size = 50
+  0 Array Array (51 items)
+   0 int size = 51
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 101228290048
@@ -415,6 +415,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 63054613414670336
      1 string m_Localized = "Знову заповнити каструлю"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 72379743550828544
+     1 string m_Localized = "Готувати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

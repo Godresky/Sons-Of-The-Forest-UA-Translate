@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (29 items)
-   0 int size = 29
+  0 Array Array (30 items)
+   0 int size = 30
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 58675089408
@@ -247,6 +247,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 61586828027228160
      1 string m_Localized = "ПЕРЕЗАРЯДИТИ ПАСТКИ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 68423776972828672
+     1 string m_Localized = "КРУГЛЯКИ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

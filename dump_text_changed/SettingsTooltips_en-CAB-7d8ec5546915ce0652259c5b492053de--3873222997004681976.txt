@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 4115542425863454741
  0 TableEntryData m_TableData
-  0 Array Array (71 items)
-   0 int size = 71
+  0 Array Array (74 items)
+   0 int size = 74
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 10714634612736
@@ -1685,6 +1685,39 @@
         [0]
          0 managedRefArrayItem data
           0 SInt64 rid = 4115542425863454741
+   [71]
+    0 TableEntryData data
+     0 SInt64 m_Id = 27347938259234816
+     1 string m_Localized = "<color=yellow>{label}</color> - Змінює ступінь впливу холоду на здоров’я та відновлення витривалости"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [72]
+    0 TableEntryData data
+     0 SInt64 m_Id = 27347938284400640
+     1 string m_Localized = "<color=yellow>{label}</color> - Зменшує кількість їжі в контейнерах"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [73]
+    0 TableEntryData data
+     0 SInt64 m_Id = 27347938284400641
+     1 string m_Localized = "<color=yellow>{label}</color> - Чи можна розпакувати контейнери лише один раз"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
@@ -1699,8 +1732,8 @@
        1 string asm = "Unity.Localization"
       0 SmartFormatTag Base
        0 vector m_Entries
-        1 Array Array (71 items)
-         0 int size = 71
+        1 Array Array (75 items)
+         0 int size = 75
          [0]
           0 SInt64 data = 10714634612736
          [1]
@@ -1843,3 +1876,11 @@
           0 SInt64 data = 3425136316530688
          [70]
           0 SInt64 data = 25482316175654912
+         [71]
+          0 SInt64 data = 27347938259234816
+         [72]
+          0 SInt64 data = 27347938284400640
+         [73]
+          0 SInt64 data = 27347938284400641
+         [74]
+          0 SInt64 data = 27347938284400642
