@@ -86,7 +86,7 @@
    [8]
     0 TableEntryData data
      0 SInt64 m_Id = 2064581992448
-     1 string m_Localized = "Water"
+     1 string m_Localized = "Dirty Water"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

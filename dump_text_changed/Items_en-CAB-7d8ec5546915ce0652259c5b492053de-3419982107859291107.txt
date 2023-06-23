@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (632 items)
-   0 int size = 632
+  0 Array Array (656 items)
+   0 int size = 656
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -5073,7 +5073,199 @@
    [631]
     0 TableEntryData data
      0 SInt64 m_Id = 72371070195036160
-     1 string m_Localized = "Кам’яний коминок"
+     1 string m_Localized = "Кам’яний комин"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [632]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74850729659461632
+     1 string m_Localized = "Голова качки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [633]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74850766498033664
+     1 string m_Localized = "Голови качок"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [634]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74850797116452864
+     1 string m_Localized = "Голова орла"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [635]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74850821967704064
+     1 string m_Localized = "Голови орлів"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [636]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74850854846853120
+     1 string m_Localized = "Голова черепашки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [637]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74850895640653824
+     1 string m_Localized = "Голови черепашок"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [638]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74859788064256000
+     1 string m_Localized = "Кріплення трофею-голови"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [639]
+    0 TableEntryData data
+     0 SInt64 m_Id = 75200593119408128
+     1 string m_Localized = "Голова білочки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [640]
+    0 TableEntryData data
+     0 SInt64 m_Id = 75200601528987648
+     1 string m_Localized = "Голови білочок"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [641]
+    0 TableEntryData data
+     0 SInt64 m_Id = 75200604209147904
+     1 string m_Localized = "Голова мартина"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [642]
+    0 TableEntryData data
+     0 SInt64 m_Id = 75200606461489152
+     1 string m_Localized = "Голови мартинів"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [643]
+    0 TableEntryData data
+     0 SInt64 m_Id = 75200608889991168
+     1 string m_Localized = "Голова кролика"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [644]
+    0 TableEntryData data
+     0 SInt64 m_Id = 75200611976998912
+     1 string m_Localized = "Голови кроликів"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [645]
+    0 TableEntryData data
+     0 SInt64 m_Id = 75303742240976896
+     1 string m_Localized = "Сховище кругляку"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [646]
+    0 TableEntryData data
+     0 SInt64 m_Id = 77051391356956672
+     1 string m_Localized = "Голова оленя"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [647]
+    0 TableEntryData data
+     0 SInt64 m_Id = 77051394817257472
+     1 string m_Localized = "Голови оленів"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [648]
+    0 TableEntryData data
+     0 SInt64 m_Id = 77051397212205056
+     1 string m_Localized = "Голова лося"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [649]
+    0 TableEntryData data
+     0 SInt64 m_Id = 77051399489712128
+     1 string m_Localized = "Голови лосів"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [650]
+    0 TableEntryData data
+     0 SInt64 m_Id = 77051401716887552
+     1 string m_Localized = "Голова черепахи"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [651]
+    0 TableEntryData data
+     0 SInt64 m_Id = 77051404451573760
+     1 string m_Localized = "Голови черепах"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [652]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80697207288233984
+     1 string m_Localized = "Кам’яна стіна"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [653]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80697248543408128
+     1 string m_Localized = "Кам’яні двері"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [654]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80697252603494400
+     1 string m_Localized = "Кам’яне вікно"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [655]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80697257175285760
+     1 string m_Localized = "Віконниця"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (632 items)
-   0 int size = 632
+  0 Array Array (656 items)
+   0 int size = 656
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -5074,6 +5074,198 @@
     0 TableEntryData data
      0 SInt64 m_Id = 72371070195036160
      1 string m_Localized = "Stone fireplace"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [632]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74850729659461632
+     1 string m_Localized = "Duck Head"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [633]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74850766498033664
+     1 string m_Localized = "Duck Heads"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [634]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74850797116452864
+     1 string m_Localized = "Eagle Head"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [635]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74850821967704064
+     1 string m_Localized = "Eagle Heads"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [636]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74850854846853120
+     1 string m_Localized = "Small Turtle Head"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [637]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74850895640653824
+     1 string m_Localized = "Small Turtle Heads"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [638]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74859788064256000
+     1 string m_Localized = "Head Trophy Mount"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [639]
+    0 TableEntryData data
+     0 SInt64 m_Id = 75200593119408128
+     1 string m_Localized = "Squirrel Head"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [640]
+    0 TableEntryData data
+     0 SInt64 m_Id = 75200601528987648
+     1 string m_Localized = "Squirrel Heads"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [641]
+    0 TableEntryData data
+     0 SInt64 m_Id = 75200604209147904
+     1 string m_Localized = "Seagull Head"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [642]
+    0 TableEntryData data
+     0 SInt64 m_Id = 75200606461489152
+     1 string m_Localized = "Seagull Heads"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [643]
+    0 TableEntryData data
+     0 SInt64 m_Id = 75200608889991168
+     1 string m_Localized = "Rabbit Head"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [644]
+    0 TableEntryData data
+     0 SInt64 m_Id = 75200611976998912
+     1 string m_Localized = "Rabbit Heads"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [645]
+    0 TableEntryData data
+     0 SInt64 m_Id = 75303742240976896
+     1 string m_Localized = "Stone Storage"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [646]
+    0 TableEntryData data
+     0 SInt64 m_Id = 77051391356956672
+     1 string m_Localized = "Deer Head"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [647]
+    0 TableEntryData data
+     0 SInt64 m_Id = 77051394817257472
+     1 string m_Localized = "Deer Heads"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [648]
+    0 TableEntryData data
+     0 SInt64 m_Id = 77051397212205056
+     1 string m_Localized = "Moose Head​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [649]
+    0 TableEntryData data
+     0 SInt64 m_Id = 77051399489712128
+     1 string m_Localized = "Moose Heads​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [650]
+    0 TableEntryData data
+     0 SInt64 m_Id = 77051401716887552
+     1 string m_Localized = "Turtle Head"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [651]
+    0 TableEntryData data
+     0 SInt64 m_Id = 77051404451573760
+     1 string m_Localized = "Turtle Heads"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [652]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80697207288233984
+     1 string m_Localized = "Stone Wall"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [653]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80697248543408128
+     1 string m_Localized = "Stone Door"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [654]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80697252603494400
+     1 string m_Localized = "Stone Window"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [655]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80697257175285760
+     1 string m_Localized = "Window Shutters"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

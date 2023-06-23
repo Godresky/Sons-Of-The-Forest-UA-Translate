@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (51 items)
-   0 int size = 51
+  0 Array Array (53 items)
+   0 int size = 53
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 101228290048
@@ -423,6 +423,22 @@
     0 TableEntryData data
      0 SInt64 m_Id = 72379743550828544
      1 string m_Localized = "Готувати"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74241540088131584
+     1 string m_Localized = "зібрано"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 74241593435484160
+     1 string m_Localized = "додано у наплечник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

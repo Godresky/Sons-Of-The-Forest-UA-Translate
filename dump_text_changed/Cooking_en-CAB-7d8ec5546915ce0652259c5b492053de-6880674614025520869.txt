@@ -158,7 +158,7 @@
    [17]
     0 TableEntryData data
      0 SInt64 m_Id = 69067103009239040
-     1 string m_Localized = "Чиста вода"
+     1 string m_Localized = "Брудна вода"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

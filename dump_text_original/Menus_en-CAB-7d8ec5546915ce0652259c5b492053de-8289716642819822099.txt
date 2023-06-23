@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (255 items)
-   0 int size = 255
+  0 Array Array (271 items)
+   0 int size = 271
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -2073,6 +2073,134 @@
     0 TableEntryData data
      0 SInt64 m_Id = 152763078680244224
      1 string m_Localized = "Cold Penalties"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [255]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156360367536959488
+     1 string m_Localized = "Source"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [256]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156360503805702144
+     1 string m_Localized = "Peer-To-Peer"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [257]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156360544524005376
+     1 string m_Localized = "Dedicated​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [258]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156360562165248000
+     1 string m_Localized = "LAN​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [259]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156706648000131072
+     1 string m_Localized = "Server Count:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [260]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156765780858892288
+     1 string m_Localized = "World Paused In Inventory"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [261]
+    0 TableEntryData data
+     0 SInt64 m_Id = 158869892747849728
+     1 string m_Localized = "You've been invited to a LAN game. Please join via the Multiplayer menus."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [262]
+    0 TableEntryData data
+     0 SInt64 m_Id = 158869989250396160
+     1 string m_Localized = "Joining game server"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [263]
+    0 TableEntryData data
+     0 SInt64 m_Id = 158871398763032576
+     1 string m_Localized = "The game server is full (max players: {0})"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [264]
+    0 TableEntryData data
+     0 SInt64 m_Id = 158871702367727616
+     1 string m_Localized = "You've been invited to a server {0}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [265]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160230431285669888
+     1 string m_Localized = "This game server is password protected.​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [266]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160231675832135680
+     1 string m_Localized = "Connect​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [267]
+    0 TableEntryData data
+     0 SInt64 m_Id = 161429978678652928
+     1 string m_Localized = "Owner"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [268]
+    0 TableEntryData data
+     0 SInt64 m_Id = 162138894232285184
+     1 string m_Localized = "The password you entered is incorrect.​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [269]
+    0 TableEntryData data
+     0 SInt64 m_Id = 162191050686328832
+     1 string m_Localized = "Virtual Players"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [270]
+    0 TableEntryData data
+     0 SInt64 m_Id = 164011790961569792
+     1 string m_Localized = "Weather Occlusion Quality"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

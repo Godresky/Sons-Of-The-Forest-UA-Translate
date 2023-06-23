@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 4339743358442274822
  0 TableEntryData m_TableData
-  0 Array Array (40 items)
-   0 int size = 40
+  0 Array Array (46 items)
+   0 int size = 46
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 77557309440
@@ -345,6 +345,54 @@
         [0]
          0 managedRefArrayItem data
           0 SInt64 rid = 4339743358442274822
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53378051513085952
+     1 string m_Localized = "Дросель"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53378589566791680
+     1 string m_Localized = "Задній хід"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53378622945062912
+     1 string m_Localized = "Поверт праворуч"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [43]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53378653798363136
+     1 string m_Localized = "Поверт ліворуч"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [44]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53378679354257408
+     1 string m_Localized = "Пришвидшити"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [45]
+    0 TableEntryData data
+     0 SInt64 m_Id = 53378706415906816
+     1 string m_Localized = "Ручне гальмо"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds

@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (255 items)
-   0 int size = 255
+  0 Array Array (271 items)
+   0 int size = 271
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -2073,6 +2073,134 @@
     0 TableEntryData data
      0 SInt64 m_Id = 152763078680244224
      1 string m_Localized = "Послаблення від холоду"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [255]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156360367536959488
+     1 string m_Localized = "Джерело"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [256]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156360503805702144
+     1 string m_Localized = "Точка-точка"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [257]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156360544524005376
+     1 string m_Localized = "Виділений сервер"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [258]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156360562165248000
+     1 string m_Localized = "Локальна мережа"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [259]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156706648000131072
+     1 string m_Localized = "Кількість серверів:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [260]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156765780858892288
+     1 string m_Localized = "Світ зупиняється в інвентарі"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [261]
+    0 TableEntryData data
+     0 SInt64 m_Id = 158869892747849728
+     1 string m_Localized = "Ви були запрошені до локально-мережевої гри. Будь ласка, приєднається через меню багатоосібної гри."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [262]
+    0 TableEntryData data
+     0 SInt64 m_Id = 158869989250396160
+     1 string m_Localized = "Приєднання до серверу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [263]
+    0 TableEntryData data
+     0 SInt64 m_Id = 158871398763032576
+     1 string m_Localized = "Сервер повний (максимум гравців: {0})"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [264]
+    0 TableEntryData data
+     0 SInt64 m_Id = 158871702367727616
+     1 string m_Localized = "Ви були запрошені до серверу «{0}»"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [265]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160230431285669888
+     1 string m_Localized = "Сервер захищений паролем.​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [266]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160231675832135680
+     1 string m_Localized = "Приєднатися"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [267]
+    0 TableEntryData data
+     0 SInt64 m_Id = 161429978678652928
+     1 string m_Localized = "Власник"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [268]
+    0 TableEntryData data
+     0 SInt64 m_Id = 162138894232285184
+     1 string m_Localized = "Введений вами пароль не правильний.​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [269]
+    0 TableEntryData data
+     0 SInt64 m_Id = 162191050686328832
+     1 string m_Localized = "Віртуальні гравці"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [270]
+    0 TableEntryData data
+     0 SInt64 m_Id = 164011790961569792
+     1 string m_Localized = "Погодне затінення оточення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
