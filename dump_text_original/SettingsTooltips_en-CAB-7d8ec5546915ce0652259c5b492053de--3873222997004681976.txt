@@ -1763,8 +1763,8 @@
        1 string class = "SmartFormatTag"
        1 string ns = "UnityEngine.Localization.Metadata"
        1 string asm = "Unity.Localization"
-      0 SmartFormatTag Base
-       0 vector m_Entries
+      0 ReferencedObjectData data
+ 0 vector m_Entries
         1 Array Array (78 items)
          0 int size = 78
          [0]
