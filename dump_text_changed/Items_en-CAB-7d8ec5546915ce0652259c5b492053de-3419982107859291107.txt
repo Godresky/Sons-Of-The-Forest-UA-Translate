@@ -1206,7 +1206,7 @@
    [148]
     0 TableEntryData data
      0 SInt64 m_Id = 14145498718231
-     1 string m_Localized = "Саморобне ратище"
+     1 string m_Localized = "Саморобний спис"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1214,7 +1214,7 @@
    [149]
     0 TableEntryData data
      0 SInt64 m_Id = 14145498718232
-     1 string m_Localized = "Саморобні ратища"
+     1 string m_Localized = "Саморобні списи"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

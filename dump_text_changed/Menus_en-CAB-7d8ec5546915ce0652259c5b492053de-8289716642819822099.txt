@@ -137,7 +137,7 @@
    [14]
     0 TableEntryData data
      0 SInt64 m_Id = 84707401918128128
-     1 string m_Localized = "Розширення"
+     1 string m_Localized = "Роздільність"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -153,7 +153,7 @@
    [16]
     0 TableEntryData data
      0 SInt64 m_Id = 84707508004659200
-     1 string m_Localized = "Повноекранність"
+     1 string m_Localized = "Режим показу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -377,7 +377,7 @@
    [44]
     0 TableEntryData data
      0 SInt64 m_Id = 84713984672735234
-     1 string m_Localized = "Поле зору"
+     1 string m_Localized = "Кут огляду"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1256,7 +1256,7 @@
    [152]
     0 TableEntryData data
      0 SInt64 m_Id = 108149175698759680
-     1 string m_Localized = "Повноекранний"
+     1 string m_Localized = "На весь екран"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1264,7 +1264,7 @@
    [153]
     0 TableEntryData data
      0 SInt64 m_Id = 108149268694867968
-     1 string m_Localized = "Віконний"
+     1 string m_Localized = "У вікні"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1272,7 +1272,7 @@
    [154]
     0 TableEntryData data
      0 SInt64 m_Id = 108149261023485952
-     1 string m_Localized = "Повноекранний без меж"
+     1 string m_Localized = "У безрамковому вікні"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1304,7 +1304,7 @@
    [158]
     0 TableEntryData data
      0 SInt64 m_Id = 111154061660786688
-     1 string m_Localized = "Скинути прив’язки клавіш за замовчуванням?"
+     1 string m_Localized = "Скинути прив’язки клавіш як було?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1320,7 +1320,7 @@
    [160]
     0 TableEntryData data
      0 SInt64 m_Id = 111153555144052736
-     1 string m_Localized = "Скинути усі налаштування за замовчуванням?"
+     1 string m_Localized = "Скинути усі налаштування як було?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1344,7 +1344,7 @@
    [163]
     0 TableEntryData data
      0 SInt64 m_Id = 111154184012828672
-     1 string m_Localized = "Скинути прив’язки ґеймпаду за замовчуванням?"
+     1 string m_Localized = "Скинути прив’язки ґеймпаду як було?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1448,7 +1448,7 @@
    [176]
     0 TableEntryData data
      0 SInt64 m_Id = 111158312214597632
-     1 string m_Localized = "Скинути прив’язки за замовчуванням?"
+     1 string m_Localized = "Скинути прив’язки як було?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

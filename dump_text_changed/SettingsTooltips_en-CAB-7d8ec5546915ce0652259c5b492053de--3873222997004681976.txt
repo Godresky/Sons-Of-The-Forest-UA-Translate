@@ -987,7 +987,7 @@
    [37]
     0 TableEntryData data
      0 SInt64 m_Id = 10997280370690
-     1 string m_Localized = "<color=yellow>{label}</color> - Поле зору знімача, що регулуює загальну ширину огляду"
+     1 string m_Localized = "<color=yellow>{label}</color> - Кут огляду знімача, що регулуює загальну ширину огляду"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
