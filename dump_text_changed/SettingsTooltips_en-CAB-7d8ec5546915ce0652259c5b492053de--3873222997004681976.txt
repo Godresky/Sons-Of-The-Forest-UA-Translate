@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 4115542425863454741
  0 TableEntryData m_TableData
-  0 Array Array (77 items)
-   0 int size = 77
+  0 Array Array (78 items)
+   0 int size = 78
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 10714634612736
@@ -1744,6 +1744,17 @@
     0 TableEntryData data
      0 SInt64 m_Id = 39968213256990720
      1 string m_Localized = "<color=yellow>{label}</color> - Контролює, який обсяг снігу та мокріню сторюватиме система затінення"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 42894416276877312
+     1 string m_Localized = "<color=yellow>{label}</color> - Обмежує кількість набоїв, яку можна знайти у контейнерах​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)

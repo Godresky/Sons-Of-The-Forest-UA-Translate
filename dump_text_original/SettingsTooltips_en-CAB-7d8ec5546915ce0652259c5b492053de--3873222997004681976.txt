@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 4115542425863454741
  0 TableEntryData m_TableData
-  0 Array Array (77 items)
-   0 int size = 77
+  0 Array Array (78 items)
+   0 int size = 78
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 10714634612736
@@ -1751,6 +1751,17 @@
         [0]
          0 managedRefArrayItem data
           0 SInt64 rid = 4115542425863454741
+   [77]
+    0 TableEntryData data
+     0 SInt64 m_Id = 42894416276877312
+     1 string m_Localized = "<color=yellow>{label}</color> - Reduces the amount of ammo found in containers​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
@@ -1764,21 +1775,7 @@
        1 string ns = "UnityEngine.Localization.Metadata"
        1 string asm = "Unity.Localization"
       0 ReferencedObjectData data
- 0 vector m_Entries
-        1 Array Array (78 items)
-         0 int size = 78
-         [0]
-          0 SInt64 data = 10714634612736
-         [1]
-          0 SInt64 data = 10714663972864
-         [2]
-          0 SInt64 data = 10714663972865
-         [3]
-          0 SInt64 data = 10714663972866
-         [4]
-          0 SInt64 data = 10714668167168
-         [5]
-          0 SInt64 data = 10714668167169
+668167169
          [6]
           0 SInt64 data = 10979400052736
          [7]

@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (271 items)
-   0 int size = 271
+  0 Array Array (275 items)
+   0 int size = 275
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -369,7 +369,7 @@
    [43]
     0 TableEntryData data
      0 SInt64 m_Id = 84713984672735233
-     1 string m_Localized = "Піктограми будівель"
+     1 string m_Localized = "Значки будівель"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -761,7 +761,7 @@
    [92]
     0 TableEntryData data
      0 SInt64 m_Id = 84879169405972480
-     1 string m_Localized = "Гост"
+     1 string m_Localized = "Створити"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -769,7 +769,7 @@
    [93]
     0 TableEntryData data
      0 SInt64 m_Id = 84879475015544832
-     1 string m_Localized = "Багатоосібна гра - гост"
+     1 string m_Localized = "Багатоосібна гра - власник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1624,7 +1624,7 @@
    [198]
     0 TableEntryData data
      0 SInt64 m_Id = 115685026393059328
-     1 string m_Localized = "Чекаємо, поки гост почне гру"
+     1 string m_Localized = "Чекаємо, поки власник почне гру"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1728,7 +1728,7 @@
    [211]
     0 TableEntryData data
      0 SInt64 m_Id = 115690535540060160
-     1 string m_Localized = "Запуск госта"
+     1 string m_Localized = "Запуск власника"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1752,7 +1752,7 @@
    [214]
     0 TableEntryData data
      0 SInt64 m_Id = 117584466687127552
-     1 string m_Localized = "Гост вийшов з лобі"
+     1 string m_Localized = "Власник вийшов з лобі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1776,7 +1776,7 @@
    [217]
     0 TableEntryData data
      0 SInt64 m_Id = 117595120483528704
-     1 string m_Localized = "Гост"
+     1 string m_Localized = "Власник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2205,6 +2205,38 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
+   [271]
+    0 TableEntryData data
+     0 SInt64 m_Id = 166940360181280768
+     1 string m_Localized = "Обмеження набоїв у контейнерах​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [272]
+    0 TableEntryData data
+     0 SInt64 m_Id = 169046045546606592
+     1 string m_Localized = "Лише загальнодоступні"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [273]
+    0 TableEntryData data
+     0 SInt64 m_Id = 169047809914138624
+     1 string m_Localized = "Не пусті​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [274]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170045750938267648
+     1 string m_Localized = "Сервер було вимкнено.​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0  
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds

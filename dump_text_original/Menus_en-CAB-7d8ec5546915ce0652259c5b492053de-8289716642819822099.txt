@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (271 items)
-   0 int size = 271
+  0 Array Array (275 items)
+   0 int size = 275
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -2205,6 +2205,38 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
+   [271]
+    0 TableEntryData data
+     0 SInt64 m_Id = 166940360181280768
+     1 string m_Localized = "Reduced Ammo In Containers​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [272]
+    0 TableEntryData data
+     0 SInt64 m_Id = 169046045546606592
+     1 string m_Localized = "Public Only​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [273]
+    0 TableEntryData data
+     0 SInt64 m_Id = 169047809914138624
+     1 string m_Localized = "Not Empty​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [274]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170045750938267648
+     1 string m_Localized = "Server has been shutdown.​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
@@ -2218,16 +2250,3 @@
        1 string ns = "UnityEngine.Localization.Metadata"
        1 string asm = "Unity.Localization"
       0 ReferencedObjectData data
- 0 vector m_Entries
-        1 Array Array (5 items)
-         0 int size = 5
-         [0]
-          0 SInt64 data = 106737045502074880
-         [1]
-          0 SInt64 data = 106737105161854976
-         [2]
-          0 SInt64 data = 108100172005154816
-         [3]
-          0 SInt64 data = 108100768057696256
-         [4]
-          0 SInt64 data = 108100771559940096

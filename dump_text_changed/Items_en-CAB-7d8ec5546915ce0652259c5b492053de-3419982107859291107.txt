@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (656 items)
-   0 int size = 656
+  0 Array Array (660 items)
+   0 int size = 660
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -2070,7 +2070,7 @@
    [256]
     0 TableEntryData data
      0 SInt64 m_Id = 14145511301132
-     1 string m_Localized = "GPS-локатор"
+     1 string m_Localized = "GPS-маячок"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2078,7 +2078,7 @@
    [257]
     0 TableEntryData data
      0 SInt64 m_Id = 14145511301133
-     1 string m_Localized = "GPS-локатори"
+     1 string m_Localized = "GPS-маячки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2086,7 +2086,7 @@
    [258]
     0 TableEntryData data
      0 SInt64 m_Id = 14145511301135
-     1 string m_Localized = "GPS-трекер"
+     1 string m_Localized = "GPS-відстежувач"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2094,7 +2094,7 @@
    [259]
     0 TableEntryData data
      0 SInt64 m_Id = 14145511301136
-     1 string m_Localized = "GPS-трекери"
+     1 string m_Localized = "GPS-відстежувачі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5266,6 +5266,38 @@
     0 TableEntryData data
      0 SInt64 m_Id = 80697257175285760
      1 string m_Localized = "Віконниця"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [656]
+    0 TableEntryData data
+     0 SInt64 m_Id = 85798316377894912
+     1 string m_Localized = "Пастка «Булава»​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [657]
+    0 TableEntryData data
+     0 SInt64 m_Id = 90160160819376128
+     1 string m_Localized = "Корпус маячка​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [658]
+    0 TableEntryData data
+     0 SInt64 m_Id = 90165499333701632
+     1 string m_Localized = "Надрукований корпус маячка​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [659]
+    0 TableEntryData data
+     0 SInt64 m_Id = 90165515561463808
+     1 string m_Localized = "Надруковані корпуси маячків​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

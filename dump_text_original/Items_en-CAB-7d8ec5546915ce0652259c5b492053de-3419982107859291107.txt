@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (656 items)
-   0 int size = 656
+  0 Array Array (660 items)
+   0 int size = 660
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -5270,6 +5270,38 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
+   [656]
+    0 TableEntryData data
+     0 SInt64 m_Id = 85798316377894912
+     1 string m_Localized = "Hokey Pokey Trap​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [657]
+    0 TableEntryData data
+     0 SInt64 m_Id = 90160160819376128
+     1 string m_Localized = "GPS Case​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [658]
+    0 TableEntryData data
+     0 SInt64 m_Id = 90165499333701632
+     1 string m_Localized = "3D Printed GPS Case​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [659]
+    0 TableEntryData data
+     0 SInt64 m_Id = 90165515561463808
+     1 string m_Localized = "3D Printed GPS Cases​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
@@ -5283,4 +5315,3 @@
        1 string ns = "UnityEngine.Localization.Metadata"
        1 string asm = "Unity.Localization"
       0 ReferencedObjectData data
-ng m_CommentText = "Arrows that are 3d printed"
