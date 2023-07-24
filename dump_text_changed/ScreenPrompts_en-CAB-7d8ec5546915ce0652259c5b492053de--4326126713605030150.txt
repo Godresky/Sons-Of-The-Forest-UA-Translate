@@ -150,7 +150,7 @@
    [16]
     0 TableEntryData data
      0 SInt64 m_Id = 1071416942592
-     1 string m_Localized = "Розмістити\nПандус"
+     1 string m_Localized = "Розмістити\nРампу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -190,7 +190,7 @@
    [21]
     0 TableEntryData data
      0 SInt64 m_Id = 1292570009600
-     1 string m_Localized = "Розмістити\nКолона"
+     1 string m_Localized = "Розмістити\nКолону"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -262,7 +262,7 @@
    [30]
     0 TableEntryData data
      0 SInt64 m_Id = 1784566063104
-     1 string m_Localized = "Розмістити\nМіст-поверх"
+     1 string m_Localized = "Розмістити\nМостовий майданчик"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -406,7 +406,7 @@
    [48]
     0 TableEntryData data
      0 SInt64 m_Id = 43885917047877632
-     1 string m_Localized = "Приблизити"
+     1 string m_Localized = "Наблизити"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
