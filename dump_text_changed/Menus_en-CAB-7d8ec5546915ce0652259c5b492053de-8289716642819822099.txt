@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (275 items)
-   0 int size = 275
+  0 Array Array (286 items)
+   0 int size = 286
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -2128,7 +2128,7 @@
    [261]
     0 TableEntryData data
      0 SInt64 m_Id = 158869892747849728
-     1 string m_Localized = "Ви були запрошені до локально-мережевої гри. Будь ласка, приєднається через меню багатоосібної гри."
+     1 string m_Localized = "Ви були запрошені до локально-мережевої гри. Будь ласка, приєднайтеся через меню багатоосібної гри."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2136,7 +2136,7 @@
    [262]
     0 TableEntryData data
      0 SInt64 m_Id = 158869989250396160
-     1 string m_Localized = "Приєднання до серверу"
+     1 string m_Localized = "Приєднання до сервера"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2152,7 +2152,7 @@
    [264]
     0 TableEntryData data
      0 SInt64 m_Id = 158871702367727616
-     1 string m_Localized = "Ви були запрошені до серверу «{0}»"
+     1 string m_Localized = "Ви були запрошені до сервера «{0}»"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2237,6 +2237,94 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0  
+   [275]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175480612658704384
+     1 string m_Localized = "Ви збираєтеся приєднатися до сервера {0}​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [276]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175548803766382592
+     1 string m_Localized = "Пряме"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [277]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175564294253801472
+     1 string m_Localized = "Ігровий сервер не знайдено"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [278]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175564627164098560
+     1 string m_Localized = "Хибна адреса сервера"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [279]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175564792641974272
+     1 string m_Localized = "Введіть IP-адресу та ігровий порт сервера, до якого ви хочете приєднатися."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [280]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175565007851712512
+     1 string m_Localized = "IP/Порт"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [281]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175629416426991616
+     1 string m_Localized = "Отримання відомостей про ігровий сервер"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [282]
+    0 TableEntryData data
+     0 SInt64 m_Id = 178141118922747904
+     1 string m_Localized = "Пастки спрацьовують на гравцях"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [283]
+    0 TableEntryData data
+     0 SInt64 m_Id = 178175326395297792
+     1 string m_Localized = "Чутливість камери інвентаря"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [284]
+    0 TableEntryData data
+     0 SInt64 m_Id = 184263753449529344
+     1 string m_Localized = "Ще раз"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [285]
+    0 TableEntryData data
+     0 SInt64 m_Id = 184263963366055936
+     1 string m_Localized = "До головного меню​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds

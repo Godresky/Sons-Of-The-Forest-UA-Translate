@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (275 items)
-   0 int size = 275
+  0 Array Array (286 items)
+   0 int size = 286
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -2233,6 +2233,94 @@
     0 TableEntryData data
      0 SInt64 m_Id = 170045750938267648
      1 string m_Localized = "Server has been shutdown.​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [275]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175480612658704384
+     1 string m_Localized = "You are about to join server {0}​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [276]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175548803766382592
+     1 string m_Localized = "Direct​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [277]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175564294253801472
+     1 string m_Localized = "Game server not found"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [278]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175564627164098560
+     1 string m_Localized = "Malformed server address"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [279]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175564792641974272
+     1 string m_Localized = "Enter the ip address and game port of the server you want to connect to."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [280]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175565007851712512
+     1 string m_Localized = "Ip/Port"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [281]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175629416426991616
+     1 string m_Localized = "Fetching game server details"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [282]
+    0 TableEntryData data
+     0 SInt64 m_Id = 178141118922747904
+     1 string m_Localized = "Players Trigger Traps"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [283]
+    0 TableEntryData data
+     0 SInt64 m_Id = 178175326395297792
+     1 string m_Localized = "Inventory Speed Sensitivity"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [284]
+    0 TableEntryData data
+     0 SInt64 m_Id = 184263753449529344
+     1 string m_Localized = "Restart"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [285]
+    0 TableEntryData data
+     0 SInt64 m_Id = 184263963366055936
+     1 string m_Localized = "Exit to Title​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (53 items)
-   0 int size = 53
+  0 Array Array (58 items)
+   0 int size = 58
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 101228290048
@@ -414,7 +414,7 @@
    [49]
     0 TableEntryData data
      0 SInt64 m_Id = 63054613414670336
-     1 string m_Localized = "Reset Cooking Pot"
+     1 string m_Localized = "Reset Pot"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -439,6 +439,46 @@
     0 TableEntryData data
      0 SInt64 m_Id = 74241593435484160
      1 string m_Localized = "added to backpack"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 94554026611830784
+     1 string m_Localized = "Next Track"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 94554532876906496
+     1 string m_Localized = "On/Off"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 94555420857200640
+     1 string m_Localized = "Place"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 102716034988732416
+     1 string m_Localized = "Hold​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 102716336156536832
+     1 string m_Localized = "To respawn​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 4339743358442274822
  0 TableEntryData m_TableData
-  0 Array Array (46 items)
-   0 int size = 46
+  0 Array Array (47 items)
+   0 int size = 47
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 77557309440
@@ -389,6 +389,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 53378706415906816
      1 string m_Localized = "Ручне гальмо"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [46]
+    0 TableEntryData data
+     0 SInt64 m_Id = 70986947522031616
+     1 string m_Localized = "Розмістити декілька"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

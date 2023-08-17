@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 4115542425863454741
  0 TableEntryData m_TableData
-  0 Array Array (78 items)
-   0 int size = 78
+  0 Array Array (80 items)
+   0 int size = 80
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 10714634612736
@@ -623,7 +623,7 @@
    [23]
     0 TableEntryData data
      0 SInt64 m_Id = 10979412635648
-     1 string m_Localized = "<color=yellow>{label}</color> - Якість текстури для поверхонь, паралельних камері"
+     1 string m_Localized = "<color=yellow>{label}</color> - Якість текстури для поверхонь, паралельних знімачу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1755,6 +1755,28 @@
     0 TableEntryData data
      0 SInt64 m_Id = 42894416276877312
      1 string m_Localized = "<color=yellow>{label}</color> - Обмежує кількість набоїв, яку можна знайти у контейнерах​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [78]
+    0 TableEntryData data
+     0 SInt64 m_Id = 54097150455836672
+     1 string m_Localized = "<color=yellow>{label}</color> - Якщо увімкнено, то пастки гравця спрацьовуватимуть на них же (Пружина спрацьовуватиме завжди)"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [79]
+    0 TableEntryData data
+     0 SInt64 m_Id = 54131990140022784
+     1 string m_Localized = "<color=yellow>{label}</color> - Керує швидкістю панорамування, нахилу та обертання знімача в інвентарі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)

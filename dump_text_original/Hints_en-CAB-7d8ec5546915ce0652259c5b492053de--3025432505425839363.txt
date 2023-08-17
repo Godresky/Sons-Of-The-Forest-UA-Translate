@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (36 items)
-   0 int size = 36
+  0 Array Array (37 items)
+   0 int size = 37
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 159345053696
@@ -254,7 +254,7 @@
    [29]
     0 TableEntryData data
      0 SInt64 m_Id = 65178679947575296
-     1 string m_Localized = "Hold {BUTTON.PrimaryAction} to do a heavy attack"
+     1 string m_Localized = "Hold {BUTTON.PrimaryAction} to do a heavy attack​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -262,7 +262,7 @@
    [30]
     0 TableEntryData data
      0 SInt64 m_Id = 65179053324517376
-     1 string m_Localized = "Hotkeys can be assigned in Inventory by pressing {BUTTON.HotKey1} to {BUTTON.HotKey0}"
+     1 string m_Localized = "Hotkeys can be assigned in Inventory by pressing {BUTTON.HotKey1} to {BUTTON.HotKey0}​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -270,7 +270,7 @@
    [31]
     0 TableEntryData data
      0 SInt64 m_Id = 68692362201133056
-     1 string m_Localized = "HOLD {BUTTON.DismantleElement} TO PICKUP SMALL STRUCTURES BUILT FROM THE BOOK"
+     1 string m_Localized = "HOLD {BUTTON.DismantleElement} TO PICKUP SMALL STRUCTURES BUILT FROM THE BOOK​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -303,6 +303,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 95950742783258624
      1 string m_Localized = "A HIGHER COMFORT RATING WILL REGENERATE MORE REST WHEN SLEEPING"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 126983568592728064
+     1 string m_Localized = "WHEN PLACING A STRUCTURE, HOLD {BUTTON.BatchPlace} TO PLACE MULTIPLE​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
