@@ -110,7 +110,7 @@
    [11]
     0 TableEntryData data
      0 SInt64 m_Id = 130586559475712
-     1 string m_Localized = "Built by visionnary billionnaire Eward Puffton."
+     1 string m_Localized = "Built by visionary billionaire Edward Puffton."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -208,3 +208,4 @@
   0 vector RefIds
    1 Array Array (0 items)
     0 int size = 0
+
