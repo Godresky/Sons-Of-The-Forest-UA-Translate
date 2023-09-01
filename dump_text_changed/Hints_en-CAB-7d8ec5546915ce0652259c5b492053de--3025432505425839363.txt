@@ -62,7 +62,7 @@
    [5]
     0 TableEntryData data
      0 SInt64 m_Id = 627739758592
-     1 string m_Localized = "НАТИСНІТЬ {BUTTON.Inventory}, ЩОБ ВІДКРИТИ ІНВЕНТАР, АБО УТРИМУЙТЕ {BUTTON.Inventory}, ЩОБ ВІДКРИТИ ШВИДКИЙ ДОСТУП"
+     1 string m_Localized = "НАТИСНІТЬ {BUTTON.Inventory}, ЩОБ ОГЛЯНУТИ СПОРЯДЖЕННЯ АБО УТРИМУЙТЕ {BUTTON.Inventory}, ЩОБ ВІДКРИТИ ШВИДКИЙ ДОСТУП"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -262,7 +262,7 @@
    [30]
     0 TableEntryData data
      0 SInt64 m_Id = 65179053324517376
-     1 string m_Localized = "Гарячі клавіші можна призначити в інвентарі, натиснувши клавіші від {BUTTON.HotKey1} до {BUTTON.HotKey0}​"
+     1 string m_Localized = "Гарячі клавіші можна призначити при огляді спорядження, натиснувши клавіші від {BUTTON.HotKey1} до {BUTTON.HotKey0}​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

@@ -22,7 +22,7 @@
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 38817046528
-     1 string m_Localized = "Щоб відкрити інвентар, натисніть"
+     1 string m_Localized = "Щоб оглянути спорядження, натисніть"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -46,7 +46,7 @@
    [3]
     0 TableEntryData data
      0 SInt64 m_Id = 743455924224
-     1 string m_Localized = "Новий рецепт виготовлення доступний в інвентарі"
+     1 string m_Localized = "Доступно новий рецепт виготовлення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -54,7 +54,7 @@
    [4]
     0 TableEntryData data
      0 SInt64 m_Id = 784555909120
-     1 string m_Localized = "Кілька нових рецептів виготовлення доступні в інвентарі"
+     1 string m_Localized = "Доступно кілька нових рецептів виготовлення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -78,7 +78,7 @@
    [7]
     0 TableEntryData data
      0 SInt64 m_Id = 912201162752
-     1 string m_Localized = "Розпакуйте аварійну сумку, що знаходиться у вашому інвентарі"
+     1 string m_Localized = "Розпакуйте аварійну сумку, що лежить у вашому спорядженні"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -198,7 +198,7 @@
    [22]
     0 TableEntryData data
      0 SInt64 m_Id = 532725702656
-     1 string m_Localized = "Ви вркиті кров’ю. Змийте її, щоб уникнути зараження"
+     1 string m_Localized = "Ви вкриті кров’ю. Змийте її, щоб уникнути зараження"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -214,7 +214,7 @@
    [24]
     0 TableEntryData data
      0 SInt64 m_Id = 586836418560
-     1 string m_Localized = "Неможливо відкрити інвентар під водою"
+     1 string m_Localized = "Неможливо оглянути спорядження під водою"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

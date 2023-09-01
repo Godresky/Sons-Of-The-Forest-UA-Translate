@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (661 items)
-   0 int size = 661
+  0 Array Array (666 items)
+   0 int size = 666
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -3670,7 +3670,7 @@
    [456]
     0 TableEntryData data
      0 SInt64 m_Id = 14145528078372
-     1 string m_Localized = "Time Bomb"
+     1 string m_Localized = "Sticky Bomb"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3678,7 +3678,7 @@
    [457]
     0 TableEntryData data
      0 SInt64 m_Id = 14145528078373
-     1 string m_Localized = "Time Bombs"
+     1 string m_Localized = "Sticky Bombs"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5306,6 +5306,46 @@
     0 TableEntryData data
      0 SInt64 m_Id = 93339603247296512
      1 string m_Localized = "Silent Alarm"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [661]
+    0 TableEntryData data
+     0 SInt64 m_Id = 103472082054541312
+     1 string m_Localized = "Large Log Storage​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [662]
+    0 TableEntryData data
+     0 SInt64 m_Id = 107111644882530304
+     1 string m_Localized = "Deer Hide Rug"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [663]
+    0 TableEntryData data
+     0 SInt64 m_Id = 107911575654367232
+     1 string m_Localized = "Corner Ramp"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [664]
+    0 TableEntryData data
+     0 SInt64 m_Id = 107911577881542656
+     1 string m_Localized = "Railing​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [665]
+    0 TableEntryData data
+     0 SInt64 m_Id = 107911579827699712
+     1 string m_Localized = "Stone Floor"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

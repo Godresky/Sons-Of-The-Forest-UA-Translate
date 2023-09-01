@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 4115542425863454741
  0 TableEntryData m_TableData
-  0 Array Array (80 items)
-   0 int size = 80
+  0 Array Array (83 items)
+   0 int size = 83
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 10714634612736
@@ -1721,7 +1721,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 32721783019270144
-     1 string m_Localized = "<color=yellow>{label}</color> - Симуляція світу призупиняється при відкритті інвентаря"
+     1 string m_Localized = "<color=yellow>{label}</color> - Симуляція світу призупиняється при огляді спорядження"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1776,7 +1776,40 @@
    [79]
     0 TableEntryData data
      0 SInt64 m_Id = 54131990140022784
-     1 string m_Localized = "<color=yellow>{label}</color> - Керує швидкістю панорамування, нахилу та обертання знімача в інвентарі"
+     1 string m_Localized = "<color=yellow>{label}</color> - Керує швидкістю панорамування, нахилу та обертання знімача при огляді спорядження"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 62880716753920000
+     1 string m_Localized = "<color=yellow>{label}</color> - Дозволяє або забороняє можливість використання читів, лише для багатоосібної гри​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 65206662645772288
+     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає субтитри"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 65838876380815360
+     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає ефект зміщення на проточній воді"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)

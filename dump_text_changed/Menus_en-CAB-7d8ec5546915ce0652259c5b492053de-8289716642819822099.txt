@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (286 items)
-   0 int size = 286
+  0 Array Array (289 items)
+   0 int size = 289
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -2120,7 +2120,7 @@
    [260]
     0 TableEntryData data
      0 SInt64 m_Id = 156765780858892288
-     1 string m_Localized = "Світ зупиняється в інвентарі"
+     1 string m_Localized = "Світ зупиняється при огляді спорядження"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2304,7 +2304,7 @@
    [283]
     0 TableEntryData data
      0 SInt64 m_Id = 178175326395297792
-     1 string m_Localized = "Чутливість камери інвентаря"
+     1 string m_Localized = "Чутливість камери при огляді спорядження"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2321,6 +2321,30 @@
     0 TableEntryData data
      0 SInt64 m_Id = 184263963366055936
      1 string m_Localized = "До головного меню​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [286]
+    0 TableEntryData data
+     0 SInt64 m_Id = 186924131170050048
+     1 string m_Localized = "Дозволити чити"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [287]
+    0 TableEntryData data
+     0 SInt64 m_Id = 189249555026243584
+     1 string m_Localized = "Субтитри"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [288]
+    0 TableEntryData data
+     0 SInt64 m_Id = 189882100249714688
+     1 string m_Localized = "Водне зміщення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

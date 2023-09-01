@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 4115542425863454741
  0 TableEntryData m_TableData
-  0 Array Array (80 items)
-   0 int size = 80
+  0 Array Array (83 items)
+   0 int size = 83
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 10714634612736
@@ -1784,6 +1784,39 @@
         [0]
          0 managedRefArrayItem data
           0 SInt64 rid = 4115542425863454741
+   [80]
+    0 TableEntryData data
+     0 SInt64 m_Id = 62880716753920000
+     1 string m_Localized = "<color=yellow>{label}</color> - Multiplayer only option to allow or block cheats​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [81]
+    0 TableEntryData data
+     0 SInt64 m_Id = 65206662645772288
+     1 string m_Localized = "<color=yellow>{label}</color> - Enable subtitles"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [82]
+    0 TableEntryData data
+     0 SInt64 m_Id = 65838876380815360
+     1 string m_Localized = "<color=yellow>{label}</color> - Enable displacement effect on flowing water"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
@@ -1797,49 +1830,7 @@
        1 string ns = "UnityEngine.Localization.Metadata"
        1 string asm = "Unity.Localization"
       0 ReferencedObjectData data
-41351
-         [21]
-          0 SInt64 data = 10979408441352
-         [22]
-          0 SInt64 data = 10979408441353
-         [23]
-          0 SInt64 data = 10979412635648
-         [24]
-          0 SInt64 data = 10979412635649
-         [25]
-          0 SInt64 data = 10979412635650
-         [26]
-          0 SInt64 data = 10979416829952
-         [27]
-          0 SInt64 data = 10979416829953
-         [28]
-          0 SInt64 data = 10979416829954
-         [29]
-          0 SInt64 data = 10979416829955
-         [30]
-          0 SInt64 data = 10997271982080
-         [31]
-          0 SInt64 data = 10997276176384
-         [32]
-          0 SInt64 data = 10997276176385
-         [33]
-          0 SInt64 data = 10997276176386
-         [34]
-          0 SInt64 data = 10997276176387
-         [35]
-          0 SInt64 data = 10997280370688
-         [36]
-          0 SInt64 data = 10997280370689
-         [37]
-          0 SInt64 data = 10997280370690
-         [38]
-          0 SInt64 data = 10997280370691
-         [39]
-          0 SInt64 data = 10997280370692
-         [40]
-          0 SInt64 data = 11017001988096
-         [41]
-          0 SInt64 data = 11017001988097
+data = 11017001988097
          [42]
           0 SInt64 data = 11017006182400
          [43]
