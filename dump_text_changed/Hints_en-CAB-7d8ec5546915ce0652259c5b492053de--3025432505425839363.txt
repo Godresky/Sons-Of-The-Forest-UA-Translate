@@ -38,7 +38,7 @@
    [2]
     0 TableEntryData data
      0 SInt64 m_Id = 478867132416
-     1 string m_Localized = "МОЖНА СПОРЯДИТИ GPS-ПРИСТРІЙ ЗА ДОПОМОГОЮ {BUTTON.Utility}"
+     1 string m_Localized = "МОЖНА СПОРЯДИТИ GPS-ПРИСТРІЙ, НАТИСНУВШИ {BUTTON.Utility}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -46,7 +46,7 @@
    [3]
     0 TableEntryData data
      0 SInt64 m_Id = 524840898560
-     1 string m_Localized = "МОЖНА ЗБІЛЬШИТИ МАСШТАБ МАПИ НА GPS-ПРИСТРОЇ ЗА ДОПОМОГОЮ {BUTTON.GpsZoom}"
+     1 string m_Localized = "МОЖНА ЗБІЛЬШИТИ МАСШТАБ МАПИ НА GPS-ПРИСТРОЇ, НАТИСНУВШИ {BUTTON.GpsZoom}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -54,7 +54,7 @@
    [4]
     0 TableEntryData data
      0 SInt64 m_Id = 578125336576
-     1 string m_Localized = "МОЖНА СПОРЯДИТИ ДЖЕРЕЛО СВІТЛА ЗА ДОПОМОГОЮ {BUTTON.Lighter}"
+     1 string m_Localized = "МОЖНА СПОРЯДИТИ ДЖЕРЕЛО СВІТЛА, НАТИСНУВШИ {BUTTON.Lighter}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -78,7 +78,7 @@
    [7]
     0 TableEntryData data
      0 SInt64 m_Id = 754525179904
-     1 string m_Localized = "ВАШ GPS-ЛОКАТОР МОЖЕ ПОКАЗУВАТИ ВАЖЛИВІ МІСЦЯ НА ОСТРОВІ"
+     1 string m_Localized = "ВАШ GPS-ПРИСТРІЙ МОЖЕ ПОКАЗУВАТИ ВАЖЛИВІ МІСЦЯ НА ОСТРОВІ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -86,7 +86,7 @@
    [8]
     0 TableEntryData data
      0 SInt64 m_Id = 812570152960
-     1 string m_Localized = "GPS-ЛОКАТОР МОЖНА РОЗТАШОВУВАТИ НА ПОВЕРХНІ АБО ДАВАТИ НІП"
+     1 string m_Localized = "GPS-МАЯЧОК МОЖНА РОЗТАШОВУВАТИ НА ПОВЕРХНІ АБО ДАВАТИ НІПам"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -246,7 +246,7 @@
    [28]
     0 TableEntryData data
      0 SInt64 m_Id = 60802221867888640
-     1 string m_Localized = "МОЖНА СПОРЯДИТИ GPS-ПРИСТРІЙ ЗА ДОПОМОГОЮ {BUTTON.GpsTracker}"
+     1 string m_Localized = "МОЖНА СПОРЯДИТИ GPS-ПРИСТРІЙ, НАТИСНУВШИ {BUTTON.GpsTracker}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -254,7 +254,7 @@
    [29]
     0 TableEntryData data
      0 SInt64 m_Id = 65178679947575296
-     1 string m_Localized = "Утримуйте {BUTTON.PrimaryAction}, щоб завдати сильний удар​"
+     1 string m_Localized = "Утримуйте {BUTTON.PrimaryAction}, щоб завдати сильного удару​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

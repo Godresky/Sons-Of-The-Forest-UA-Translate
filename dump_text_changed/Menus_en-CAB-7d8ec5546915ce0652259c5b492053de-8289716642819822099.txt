@@ -297,7 +297,7 @@
    [34]
     0 TableEntryData data
      0 SInt64 m_Id = 84711201487790087
-     1 string m_Localized = "Кольоровиправлення"
+     1 string m_Localized = "Кольорозміна"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1215,7 +1215,7 @@
    [148]
     0 TableEntryData data
      0 SInt64 m_Id = 108100087699644416
-     1 string m_Localized = "Вимкнут."
+     1 string m_Localized = "Вимкнуто"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2320,7 +2320,7 @@
    [285]
     0 TableEntryData data
      0 SInt64 m_Id = 184263963366055936
-     1 string m_Localized = "До головного меню​"
+     1 string m_Localized = "У головне меню​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

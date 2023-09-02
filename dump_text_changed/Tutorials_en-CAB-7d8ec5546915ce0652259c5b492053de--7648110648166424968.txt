@@ -230,7 +230,7 @@
    [26]
     0 TableEntryData data
      0 SInt64 m_Id = 669309018112
-     1 string m_Localized = "Візьміть свій GPS-пристрій, натиснувши"
+     1 string m_Localized = "Візьміть свій GPS-відстежувач, натиснувши"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

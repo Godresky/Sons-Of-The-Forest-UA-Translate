@@ -5073,7 +5073,7 @@
    [631]
     0 TableEntryData data
      0 SInt64 m_Id = 72371070195036160
-     1 string m_Localized = "Кам’яний комин"
+     1 string m_Localized = "Комин з кругляку"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5241,7 +5241,7 @@
    [652]
     0 TableEntryData data
      0 SInt64 m_Id = 80697207288233984
-     1 string m_Localized = "Кам’яна стіна"
+     1 string m_Localized = "Стіна з кругляку"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5249,7 +5249,7 @@
    [653]
     0 TableEntryData data
      0 SInt64 m_Id = 80697248543408128
-     1 string m_Localized = "Кам’яні двері"
+     1 string m_Localized = "Двері з кругляку"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5257,7 +5257,7 @@
    [654]
     0 TableEntryData data
      0 SInt64 m_Id = 80697252603494400
-     1 string m_Localized = "Кам’яне вікно"
+     1 string m_Localized = "Вікно з кругляку"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5345,7 +5345,7 @@
    [665]
     0 TableEntryData data
      0 SInt64 m_Id = 107911579827699712
-     1 string m_Localized = "Круглякова підлога"
+     1 string m_Localized = "Підлога з кругляку"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
