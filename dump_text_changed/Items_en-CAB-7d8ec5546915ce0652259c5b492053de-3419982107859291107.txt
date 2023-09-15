@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (666 items)
-   0 int size = 666
+  0 Array Array (672 items)
+   0 int size = 672
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -4985,7 +4985,7 @@
    [620]
     0 TableEntryData data
      0 SInt64 m_Id = 54617029076320256
-     1 string m_Localized = "Базова електроенергія"
+     1 string m_Localized = "Основи електрики"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5346,6 +5346,54 @@
     0 TableEntryData data
      0 SInt64 m_Id = 107911579827699712
      1 string m_Localized = "Підлога з кругляку"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [666]
+    0 TableEntryData data
+     0 SInt64 m_Id = 108199365537427456
+     1 string m_Localized = "Батарейка ґольф-автівки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [667]
+    0 TableEntryData data
+     0 SInt64 m_Id = 108199453793972224
+     1 string m_Localized = "Батарейки ґольф-автівки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [668]
+    0 TableEntryData data
+     0 SInt64 m_Id = 112595154212749312
+     1 string m_Localized = "Електропаркан"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [669]
+    0 TableEntryData data
+     0 SInt64 m_Id = 112595158037954560
+     1 string m_Localized = "Просунута електрика"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [670]
+    0 TableEntryData data
+     0 SInt64 m_Id = 112899063871434752
+     1 string m_Localized = "???"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [671]
+    0 TableEntryData data
+     0 SInt64 m_Id = 112899201708847104
+     1 string m_Localized = "???"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

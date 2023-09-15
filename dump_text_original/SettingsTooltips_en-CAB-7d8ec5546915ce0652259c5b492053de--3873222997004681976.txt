@@ -1829,8 +1829,94 @@
        1 string class = "SmartFormatTag"
        1 string ns = "UnityEngine.Localization.Metadata"
        1 string asm = "Unity.Localization"
-      0 ReferencedObjectData data
-data = 11017001988097
+      0 SmartFormatTag Base
+       0 vector m_Entries
+        1 Array Array (84 items)
+         0 int size = 84
+         [0]
+          0 SInt64 data = 10714634612736
+         [1]
+          0 SInt64 data = 10714663972864
+         [2]
+          0 SInt64 data = 10714663972865
+         [3]
+          0 SInt64 data = 10714663972866
+         [4]
+          0 SInt64 data = 10714668167168
+         [5]
+          0 SInt64 data = 10714668167169
+         [6]
+          0 SInt64 data = 10979400052736
+         [7]
+          0 SInt64 data = 10979404247040
+         [8]
+          0 SInt64 data = 10979404247041
+         [9]
+          0 SInt64 data = 10979404247042
+         [10]
+          0 SInt64 data = 10979404247043
+         [11]
+          0 SInt64 data = 10979404247044
+         [12]
+          0 SInt64 data = 10979404247045
+         [13]
+          0 SInt64 data = 10979408441344
+         [14]
+          0 SInt64 data = 10979408441345
+         [15]
+          0 SInt64 data = 10979408441346
+         [16]
+          0 SInt64 data = 10979408441347
+         [17]
+          0 SInt64 data = 10979408441348
+         [18]
+          0 SInt64 data = 10979408441349
+         [19]
+          0 SInt64 data = 10979408441350
+         [20]
+          0 SInt64 data = 10979408441351
+         [21]
+          0 SInt64 data = 10979408441352
+         [22]
+          0 SInt64 data = 10979408441353
+         [23]
+          0 SInt64 data = 10979412635648
+         [24]
+          0 SInt64 data = 10979412635649
+         [25]
+          0 SInt64 data = 10979412635650
+         [26]
+          0 SInt64 data = 10979416829952
+         [27]
+          0 SInt64 data = 10979416829953
+         [28]
+          0 SInt64 data = 10979416829954
+         [29]
+          0 SInt64 data = 10979416829955
+         [30]
+          0 SInt64 data = 10997271982080
+         [31]
+          0 SInt64 data = 10997276176384
+         [32]
+          0 SInt64 data = 10997276176385
+         [33]
+          0 SInt64 data = 10997276176386
+         [34]
+          0 SInt64 data = 10997276176387
+         [35]
+          0 SInt64 data = 10997280370688
+         [36]
+          0 SInt64 data = 10997280370689
+         [37]
+          0 SInt64 data = 10997280370690
+         [38]
+          0 SInt64 data = 10997280370691
+         [39]
+          0 SInt64 data = 10997280370692
+         [40]
+          0 SInt64 data = 11017001988096
+         [41]
+          0 SInt64 data = 11017001988097
          [42]
           0 SInt64 data = 11017006182400
          [43]
@@ -1903,3 +1989,15 @@ data = 11017001988097
           0 SInt64 data = 38147362256318464
          [77]
           0 SInt64 data = 39968213256990720
+         [78]
+          0 SInt64 data = 42894416276877312
+         [79]
+          0 SInt64 data = 54097150455836672
+         [80]
+          0 SInt64 data = 54131990140022784
+         [81]
+          0 SInt64 data = 62880716753920000
+         [82]
+          0 SInt64 data = 65206662645772288
+         [83]
+          0 SInt64 data = 65838876380815360
