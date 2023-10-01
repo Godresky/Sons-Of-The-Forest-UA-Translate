@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 4115542425863454741
  0 TableEntryData m_TableData
-  0 Array Array (83 items)
-   0 int size = 83
+  0 Array Array (85 items)
+   0 int size = 85
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 10714634612736
@@ -831,7 +831,7 @@
    [31]
     0 TableEntryData data
      0 SInt64 m_Id = 10997276176384
-     1 string m_Localized = "<color=yellow>{label}</color> - Усі первні інтерфейсу"
+     1 string m_Localized = "<color=yellow>{label}</color> - Усі частини інтерфейсу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -935,7 +935,7 @@
    [35]
     0 TableEntryData data
      0 SInt64 m_Id = 10997280370688
-     1 string m_Localized = "<color=yellow>{label}</color> - Первні інтерфейсу у світі"
+     1 string m_Localized = "<color=yellow>{label}</color> - Частини інтерфейсу у світі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1169,7 +1169,7 @@
    [44]
     0 TableEntryData data
      0 SInt64 m_Id = 11017006182402
-     1 string m_Localized = "<color=yellow>{label}</color> - Швидкість руху миші по горизонталі"
+     1 string m_Localized = "<color=yellow>{label}</color> - Швидкість руху мишки по горизонталі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1195,7 +1195,7 @@
    [45]
     0 TableEntryData data
      0 SInt64 m_Id = 11017006182403
-     1 string m_Localized = "<color=yellow>{label}</color> - Швидкість руху миші по вертикалі"
+     1 string m_Localized = "<color=yellow>{label}</color> - Швидкість руху мишки по вертикалі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1221,7 +1221,7 @@
    [46]
     0 TableEntryData data
      0 SInt64 m_Id = 11017006182404
-     1 string m_Localized = "<color=yellow>{label}</color> - Швидкість руху геймпада по горизонталі"
+     1 string m_Localized = "<color=yellow>{label}</color> - Швидкість руху ґеймпада по горизонталі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1247,7 +1247,7 @@
    [47]
     0 TableEntryData data
      0 SInt64 m_Id = 11017010376704
-     1 string m_Localized = "<color=yellow>{label}</color> - Швидкість руху геймпада по вертикалі"
+     1 string m_Localized = "<color=yellow>{label}</color> - Швидкість руху ґеймпада по вертикалі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1810,6 +1810,28 @@
     0 TableEntryData data
      0 SInt64 m_Id = 65838876380815360
      1 string m_Localized = "<color=yellow>{label}</color> - Вмикає ефект зміщення на проточній воді"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71883735415840768
+     1 string m_Localized = "<color=yellow>{label}</color> - Налаштовує чутливість прицілювання далекобійної зброї по горизонталі"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71883735441006592
+     1 string m_Localized = "<color=yellow>{label}</color> - Налаштовує чутливість прицілювання далекобійної зброї по вертикалі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)

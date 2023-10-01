@@ -126,7 +126,7 @@
    [13]
     0 TableEntryData data
      0 SInt64 m_Id = 132000610349056
-     1 string m_Localized = "The island is rich in a special material known as Solofite."
+     1 string m_Localized = "The island is rich in a special material known as Solafite."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -166,7 +166,7 @@
    [18]
     0 TableEntryData data
      0 SInt64 m_Id = 133294423109632
-     1 string m_Localized = "and anticipate the activation will amplify the youth giving properties of the Solofite."
+     1 string m_Localized = "and anticipate the activation will amplify the youth giving properties of the Solafite."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

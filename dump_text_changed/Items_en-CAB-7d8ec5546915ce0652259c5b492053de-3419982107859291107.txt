@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (672 items)
-   0 int size = 672
+  0 Array Array (678 items)
+   0 int size = 678
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -5394,6 +5394,54 @@
     0 TableEntryData data
      0 SInt64 m_Id = 112899201708847104
      1 string m_Localized = "???"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [672]
+    0 TableEntryData data
+     0 SInt64 m_Id = 114711567064887296
+     1 string m_Localized = "Кайло"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [673]
+    0 TableEntryData data
+     0 SInt64 m_Id = 114711618306699264
+     1 string m_Localized = "Кайла"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [674]
+    0 TableEntryData data
+     0 SInt64 m_Id = 114722973143265280
+     1 string m_Localized = "Солафітова руда"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [675]
+    0 TableEntryData data
+     0 SInt64 m_Id = 114722997696720896
+     1 string m_Localized = "Солафітова руда"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [676]
+    0 TableEntryData data
+     0 SInt64 m_Id = 115884037029490688
+     1 string m_Localized = "Записки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [677]
+    0 TableEntryData data
+     0 SInt64 m_Id = 115890921551687680
+     1 string m_Localized = "Креслення споруди​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

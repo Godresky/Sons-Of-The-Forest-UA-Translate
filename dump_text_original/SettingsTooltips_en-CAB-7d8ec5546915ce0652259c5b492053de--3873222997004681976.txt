@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 4115542425863454741
  0 TableEntryData m_TableData
-  0 Array Array (83 items)
-   0 int size = 83
+  0 Array Array (85 items)
+   0 int size = 85
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 10714634612736
@@ -1817,6 +1817,28 @@
         [0]
          0 managedRefArrayItem data
           0 SInt64 rid = 4115542425863454741
+   [83]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71883735415840768
+     1 string m_Localized = "<color=yellow>{label}</color> - Adjust ranged weapon aiming sensitivity on the X axis"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [84]
+    0 TableEntryData data
+     0 SInt64 m_Id = 71883735441006592
+     1 string m_Localized = "<color=yellow>{label}</color> - Adjust ranged weapon aiming sensitivity on the Y axis"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
@@ -1829,37 +1851,8 @@
        1 string class = "SmartFormatTag"
        1 string ns = "UnityEngine.Localization.Metadata"
        1 string asm = "Unity.Localization"
-      0 SmartFormatTag Base
-       0 vector m_Entries
-        1 Array Array (84 items)
-         0 int size = 84
-         [0]
-          0 SInt64 data = 10714634612736
-         [1]
-          0 SInt64 data = 10714663972864
-         [2]
-          0 SInt64 data = 10714663972865
-         [3]
-          0 SInt64 data = 10714663972866
-         [4]
-          0 SInt64 data = 10714668167168
-         [5]
-          0 SInt64 data = 10714668167169
-         [6]
-          0 SInt64 data = 10979400052736
-         [7]
-          0 SInt64 data = 10979404247040
-         [8]
-          0 SInt64 data = 10979404247041
-         [9]
-          0 SInt64 data = 10979404247042
-         [10]
-          0 SInt64 data = 10979404247043
-         [11]
-          0 SInt64 data = 10979404247044
-         [12]
-          0 SInt64 data = 10979404247045
-         [13]
+      0 ReferencedObjectData data
+ [13]
           0 SInt64 data = 10979408441344
          [14]
           0 SInt64 data = 10979408441345

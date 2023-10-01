@@ -126,7 +126,7 @@
    [13]
     0 TableEntryData data
      0 SInt64 m_Id = 132000610349056
-     1 string m_Localized = "Острів багатий на особливий матеріял, відомий як Солофіт."
+     1 string m_Localized = "Острів багатий на особливий матеріял, відомий як солафіт."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -166,7 +166,7 @@
    [18]
     0 TableEntryData data
      0 SInt64 m_Id = 133294423109632
-     1 string m_Localized = "і очікуємо, що коли він спрацює, властивості солофіту, які дарують молодість, будуть посилені."
+     1 string m_Localized = "і очікуємо, що коли він спрацює, то властивості солафіту, які дарують молодість, посиляться."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -174,7 +174,7 @@
    [19]
     0 TableEntryData data
      0 SInt64 m_Id = 133585914654720
-     1 string m_Localized = "Онови своє тіло! І себе!"
+     1 string m_Localized = "Оновіть своє тіло! І себе!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

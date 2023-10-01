@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (30 items)
-   0 int size = 30
+  0 Array Array (31 items)
+   0 int size = 31
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 58675089408
@@ -255,6 +255,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 68423776972828672
      1 string m_Localized = "STONES"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 113799845091209216
+     1 string m_Localized = "SPEARS"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
