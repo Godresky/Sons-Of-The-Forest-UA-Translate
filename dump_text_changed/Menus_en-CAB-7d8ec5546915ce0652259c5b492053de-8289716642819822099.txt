@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (291 items)
-   0 int size = 291
+  0 Array Array (292 items)
+   0 int size = 292
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -2361,6 +2361,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 195927201371578368
      1 string m_Localized = "Чутливість прицілювання по Y"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [291]
+    0 TableEntryData data
+     0 SInt64 m_Id = 203405468557471744
+     1 string m_Localized = "{0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
