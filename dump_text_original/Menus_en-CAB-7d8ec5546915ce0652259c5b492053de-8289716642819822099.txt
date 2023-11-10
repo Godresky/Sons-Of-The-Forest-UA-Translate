@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (292 items)
-   0 int size = 292
+  0 Array Array (293 items)
+   0 int size = 293
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -1800,7 +1800,7 @@
    [220]
     0 TableEntryData data
      0 SInt64 m_Id = 119073941457129472
-     1 string m_Localized = "Survived"
+     1 string m_Localized = "Survived​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2369,6 +2369,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 203405468557471744
      1 string m_Localized = "{0}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [292]
+    0 TableEntryData data
+     0 SInt64 m_Id = 215792431314857984
+     1 string m_Localized = "Days"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

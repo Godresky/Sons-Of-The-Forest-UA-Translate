@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (721 items)
-   0 int size = 721
+  0 Array Array (764 items)
+   0 int size = 764
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -5688,21 +5688,13 @@
         0 int size = 0
    [708]
     0 TableEntryData data
-     0 SInt64 m_Id = 123466388060237824
-     1 string m_Localized = "Кам’яна вогняна стріла"
-     0 MetadataCollection m_Metadata
-      0 IMetadata m_Items
-       0 Array Array (0 items)
-        0 int size = 0
-   [709]
-    0 TableEntryData data
      0 SInt64 m_Id = 125300159625555968
      1 string m_Localized = "Круглий стіл"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [710]
+   [709]
     0 TableEntryData data
      0 SInt64 m_Id = 125300299815972864
      1 string m_Localized = "Круглі столи"
@@ -5710,7 +5702,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [711]
+   [710]
     0 TableEntryData data
      0 SInt64 m_Id = 125230036092973056
      1 string m_Localized = "Стара записка"
@@ -5718,7 +5710,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [712]
+   [711]
     0 TableEntryData data
      0 SInt64 m_Id = 125230071044108288
      1 string m_Localized = "Старі записки"
@@ -5726,7 +5718,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [713]
+   [712]
     0 TableEntryData data
      0 SInt64 m_Id = 125230099355660288
      1 string m_Localized = "Стара записка"
@@ -5734,7 +5726,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [714]
+   [713]
     0 TableEntryData data
      0 SInt64 m_Id = 125230115176574976
      1 string m_Localized = "Старі записки"
@@ -5742,7 +5734,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [715]
+   [714]
     0 TableEntryData data
      0 SInt64 m_Id = 125230141474861056
      1 string m_Localized = "Стара записка"
@@ -5750,7 +5742,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [716]
+   [715]
     0 TableEntryData data
      0 SInt64 m_Id = 125230160256954368
      1 string m_Localized = "Старі записки"
@@ -5758,7 +5750,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [717]
+   [716]
     0 TableEntryData data
      0 SInt64 m_Id = 125321887877689344
      1 string m_Localized = "Рибацький е-лист"
@@ -5766,7 +5758,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [718]
+   [717]
     0 TableEntryData data
      0 SInt64 m_Id = 125321923969675264
      1 string m_Localized = "Рибацькі е-листи"
@@ -5774,7 +5766,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [719]
+   [718]
     0 TableEntryData data
      0 SInt64 m_Id = 125322029880045568
      1 string m_Localized = "Рибацький е-лист"
@@ -5782,10 +5774,362 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [720]
+   [719]
     0 TableEntryData data
      0 SInt64 m_Id = 125322049719103488
      1 string m_Localized = "Рибацькі е-листи"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [720]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127764638326059008
+     1 string m_Localized = "Пастка «Перемелювач»​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [721]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127764680973742080
+     1 string m_Localized = "Пастки «Перемелювач»​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [722]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127764708668731392
+     1 string m_Localized = "Прожектор"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [723]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127764742952972288
+     1 string m_Localized = "Прожектори"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [724]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127764761277886464
+     1 string m_Localized = "Годинник"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [725]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127764791573344256
+     1 string m_Localized = "Годинники"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [726]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127764817599000576
+     1 string m_Localized = "Обертальна пастка"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [727]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127764849240829952
+     1 string m_Localized = "Обертальні пастки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [728]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127764876998733824
+     1 string m_Localized = "Подвійне ліжко"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [729]
+    0 TableEntryData data
+     0 SInt64 m_Id = 127764907491323904
+     1 string m_Localized = "Подвійні ліжка"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [730]
+    0 TableEntryData data
+     0 SInt64 m_Id = 128112355543871488
+     1 string m_Localized = "Е-листи Паффтонів"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [731]
+    0 TableEntryData data
+     0 SInt64 m_Id = 128112312350928896
+     1 string m_Localized = "Е-лист Паффтонів"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [732]
+    0 TableEntryData data
+     0 SInt64 m_Id = 128112252477239296
+     1 string m_Localized = "Старі записки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [733]
+    0 TableEntryData data
+     0 SInt64 m_Id = 128112214158077952
+     1 string m_Localized = "Стара записка"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [734]
+    0 TableEntryData data
+     0 SInt64 m_Id = 128112182876958720
+     1 string m_Localized = "Старі записки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [735]
+    0 TableEntryData data
+     0 SInt64 m_Id = 128112157786632192
+     1 string m_Localized = "Стара записка"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [736]
+    0 TableEntryData data
+     0 SInt64 m_Id = 128112122097299456
+     1 string m_Localized = "Записи культу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [737]
+    0 TableEntryData data
+     0 SInt64 m_Id = 128112083841052672
+     1 string m_Localized = "Запис культу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [738]
+    0 TableEntryData data
+     0 SInt64 m_Id = 130307780120145920
+     1 string m_Localized = "Замітки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [739]
+    0 TableEntryData data
+     0 SInt64 m_Id = 130307826534313984
+     1 string m_Localized = "Замітки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [740]
+    0 TableEntryData data
+     0 SInt64 m_Id = 130639772468637696
+     1 string m_Localized = "Стара записка"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [741]
+    0 TableEntryData data
+     0 SInt64 m_Id = 130639804118855680
+     1 string m_Localized = "Старі записки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [742]
+    0 TableEntryData data
+     0 SInt64 m_Id = 130761334362468352
+     1 string m_Localized = "Вогняна {0}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [743]
+    0 TableEntryData data
+     0 SInt64 m_Id = 130761872961433600
+     1 string m_Localized = "Електрошокова {0}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [744]
+    0 TableEntryData data
+     0 SInt64 m_Id = 130762154797690880
+     1 string m_Localized = "Отруйна {0}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [745]
+    0 TableEntryData data
+     0 SInt64 m_Id = 130762289065750528
+     1 string m_Localized = "Вибухова {0}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [746]
+    0 TableEntryData data
+     0 SInt64 m_Id = 131496634692923392
+     1 string m_Localized = "Списокид​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [747]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132485854840483840
+     1 string m_Localized = "Рибацький е-лист"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [748]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132485890219438080
+     1 string m_Localized = "Рибацькі е-листи"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [749]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132485922653990912
+     1 string m_Localized = "Мапа бункеру"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [750]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132485966924869632
+     1 string m_Localized = "Мапи бункеру"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [751]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132486118372798464
+     1 string m_Localized = "Е-лист Джянью"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [752]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132486219258392576
+     1 string m_Localized = "Е-листи Джянью"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [753]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132486250682118144
+     1 string m_Localized = "Запис культу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [754]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132486304432123904
+     1 string m_Localized = "Записи культу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [755]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132486326229921792
+     1 string m_Localized = "Запис культу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [756]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132486343195881472
+     1 string m_Localized = "Записи культу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [757]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132486379761823744
+     1 string m_Localized = "Запис культу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [758]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132486397805719552
+     1 string m_Localized = "Записи культу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [759]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132486418080985088
+     1 string m_Localized = "Запис культу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [760]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132486436674334720
+     1 string m_Localized = "Записи культу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [761]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132486459029975040
+     1 string m_Localized = "Запис культу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [762]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132486475052216320
+     1 string m_Localized = "Записи культу"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [763]
+    0 TableEntryData data
+     0 SInt64 m_Id = 132802833145106432
+     1 string m_Localized = "Стійка для списів​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
