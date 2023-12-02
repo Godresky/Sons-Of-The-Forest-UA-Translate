@@ -267,6 +267,30 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 131561979996794880
+     1 string m_Localized = "ДОГЛЯДАЙ ЗА БАЗОЮ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 131562221190246400
+     1 string m_Localized = "ПОЛАГОДЬ СПОРУДИ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 134768860475158528
+     1 string m_Localized = "ЗАГОСТРИ СТІНИ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds

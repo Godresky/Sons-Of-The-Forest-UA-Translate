@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (293 items)
-   0 int size = 293
+  0 Array Array (297 items)
+   0 int size = 297
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -297,7 +297,7 @@
    [34]
     0 TableEntryData data
      0 SInt64 m_Id = 84711201487790087
-     1 string m_Localized = "Color Grade"
+     1 string m_Localized = "Style"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2377,6 +2377,38 @@
     0 TableEntryData data
      0 SInt64 m_Id = 215792431314857984
      1 string m_Localized = "Days"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [293]
+    0 TableEntryData data
+     0 SInt64 m_Id = 220812576647114752
+     1 string m_Localized = "FSR 2.0"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [294]
+    0 TableEntryData data
+     0 SInt64 m_Id = 220879530925846528
+     1 string m_Localized = "Ultra Performance​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [295]
+    0 TableEntryData data
+     0 SInt64 m_Id = 222383554388914176
+     1 string m_Localized = "Found Footage"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [296]
+    0 TableEntryData data
+     0 SInt64 m_Id = 222933844778360832
+     1 string m_Localized = "VERSION 1.0 RELEASES IN"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

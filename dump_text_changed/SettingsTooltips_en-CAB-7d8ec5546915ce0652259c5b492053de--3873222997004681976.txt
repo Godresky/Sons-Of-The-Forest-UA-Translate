@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 4115542425863454741
  0 TableEntryData m_TableData
-  0 Array Array (85 items)
-   0 int size = 85
+  0 Array Array (86 items)
+   0 int size = 86
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 10714634612736
@@ -1832,6 +1832,17 @@
     0 TableEntryData data
      0 SInt64 m_Id = 71883735441006592
      1 string m_Localized = "<color=yellow>{label}</color> - Налаштовує чутливість прицілювання далекобійної зброї по вертикалі"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [85]
+    0 TableEntryData data
+     0 SInt64 m_Id = 96794434070212608
+     1 string m_Localized = "<color=yellow>{label}</color> - FidelityFx™ Super Resolution​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)

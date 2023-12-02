@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (764 items)
-   0 int size = 764
+  0 Array Array (771 items)
+   0 int size = 771
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -4825,7 +4825,7 @@
    [600]
     0 TableEntryData data
      0 SInt64 m_Id = 35811165526106112
-     1 string m_Localized = "Черепна лямпа"
+     1 string m_Localized = "Черепний світильник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4849,7 +4849,7 @@
    [603]
     0 TableEntryData data
      0 SInt64 m_Id = 37249377283670016
-     1 string m_Localized = "Настельна черепна лямпа"
+     1 string m_Localized = "Настельний черепний світильник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4865,7 +4865,7 @@
    [605]
     0 TableEntryData data
      0 SInt64 m_Id = 37251454600806400
-     1 string m_Localized = "Черепна лямпа"
+     1 string m_Localized = "Черепний світильник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6130,6 +6130,62 @@
     0 TableEntryData data
      0 SInt64 m_Id = 132802833145106432
      1 string m_Localized = "Стійка для списів​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [764]
+    0 TableEntryData data
+     0 SInt64 m_Id = 135488424420831232
+     1 string m_Localized = "Сховище дров"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [765]
+    0 TableEntryData data
+     0 SInt64 m_Id = 135488519279210496
+     1 string m_Localized = "Світильник-нога​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [766]
+    0 TableEntryData data
+     0 SInt64 m_Id = 137595143568367616
+     1 string m_Localized = "Ряса"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [767]
+    0 TableEntryData data
+     0 SInt64 m_Id = 137595201034526720
+     1 string m_Localized = "Ряси"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [768]
+    0 TableEntryData data
+     0 SInt64 m_Id = 137610337564631040
+     1 string m_Localized = "Настінна стійка для зброї"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [769]
+    0 TableEntryData data
+     0 SInt64 m_Id = 138328920411336704
+     1 string m_Localized = "Брошура «Цирк»"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [770]
+    0 TableEntryData data
+     0 SInt64 m_Id = 138329039529570304
+     1 string m_Localized = "Брошури «Цирк»"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
