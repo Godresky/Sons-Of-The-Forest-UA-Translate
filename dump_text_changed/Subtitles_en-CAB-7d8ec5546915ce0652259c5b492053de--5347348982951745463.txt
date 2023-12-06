@@ -62,7 +62,7 @@
    [5]
     0 TableEntryData data
      0 SInt64 m_Id = 1655332237312
-     1 string m_Localized = "Ні! ні ні ні.​"
+     1 string m_Localized = "Ні! Ні ні ні.​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -150,7 +150,7 @@
    [16]
     0 TableEntryData data
      0 SInt64 m_Id = 132780226605056
-     1 string m_Localized = "Згідно з цими текстами, куб активується через певні, раніше незрозумілі проміжки часу."
+     1 string m_Localized = "Згідно із цими текстами, куб активується через певні, раніше незрозумілі проміжки часу."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
