@@ -142,7 +142,7 @@
    [15]
     0 TableEntryData data
      0 SInt64 m_Id = 132641537748992
-     1 string m_Localized = "Древні записи описують куб, зроблений з цього матеріялу."
+     1 string m_Localized = "Стародавні записи описують куб, зроблений із цього матеріялу."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
