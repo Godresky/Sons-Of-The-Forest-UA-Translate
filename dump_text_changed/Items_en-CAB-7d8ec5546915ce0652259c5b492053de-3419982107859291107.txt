@@ -4174,7 +4174,7 @@
    [519]
     0 TableEntryData data
      0 SInt64 m_Id = 655808921788416
-     1 string m_Localized = "Покладіть предмети на килимок, щоб розпакувати або об’єднати їх"
+     1 string m_Localized = "Покладіть предмети на килимок, щоби розпакувати або об’єднати їх"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4182,7 +4182,7 @@
    [520]
     0 TableEntryData data
      0 SInt64 m_Id = 656826241835008
-     1 string m_Localized = "Натисніть на шестерню, щоб розпакувати аварійну сумку"
+     1 string m_Localized = "Натисніть на шестерню, щоби розпакувати аварійну сумку"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4190,7 +4190,7 @@
    [521]
     0 TableEntryData data
      0 SInt64 m_Id = 657045163532288
-     1 string m_Localized = "Покладіть предмети, щоб почати виготовлення"
+     1 string m_Localized = "Покладіть предмети, щоби почати виготовлення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

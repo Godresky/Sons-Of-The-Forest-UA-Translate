@@ -675,7 +675,7 @@
    [25]
     0 TableEntryData data
      0 SInt64 m_Id = 10979412635650
-     1 string m_Localized = "<color=yellow>{label}</color> - Відтворення з низькою роздільною здатністю, але з розширеним розміром, щоб зменшити витрати на ЦПУ, зберігаючи при цьому загальну якість"
+     1 string m_Localized = "<color=yellow>{label}</color> - Відтворення з низькою роздільною здатністю, але з розширеним розміром, щоби зменшити навантаження на ЦПУ, зберігаючи при цьому загальну якість"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)

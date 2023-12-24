@@ -222,7 +222,7 @@
    [25]
     0 TableEntryData data
      0 SInt64 m_Id = 631405092864
-     1 string m_Localized = "Щоб відкрити швидкий вибір, натисніть та утримуйте"
+     1 string m_Localized = "Щоби відкрити швидкий вибір, натисніть та утримуйте"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -246,7 +246,7 @@
    [28]
     0 TableEntryData data
      0 SInt64 m_Id = 26554212187250688
-     1 string m_Localized = "Вам холодно. Використовуйте палиці, щоб розпалити багаття"
+     1 string m_Localized = "Вам холодно. Використовуйте палиці, щоби розпалити багаття"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -278,7 +278,7 @@
    [32]
     0 TableEntryData data
      0 SInt64 m_Id = 36982961325207552
-     1 string m_Localized = "Ви втомилися. Використайте брезент, щоб звести укриття"
+     1 string m_Localized = "Ви втомилися. Використайте брезент, щоби звести укриття"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -302,7 +302,7 @@
    [35]
     0 TableEntryData data
      0 SInt64 m_Id = 54307069167661056
-     1 string m_Localized = "Стрибніть двічі, щоб зіскочити з Конячки V"
+     1 string m_Localized = "Стрибніть двічі, щоби зіскочити з Конячки V"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -398,7 +398,7 @@
    [47]
     0 TableEntryData data
      0 SInt64 m_Id = 83298090018664448
-     1 string m_Localized = "Щоб вийти з ґольф-автівки натисніть​"
+     1 string m_Localized = "Щоби вийти з ґольф-автівки натисніть​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
