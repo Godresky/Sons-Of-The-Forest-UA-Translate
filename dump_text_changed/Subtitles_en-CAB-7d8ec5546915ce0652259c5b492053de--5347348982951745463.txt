@@ -38,7 +38,7 @@
    [2]
     0 TableEntryData data
      0 SInt64 m_Id = 1026643816448
-     1 string m_Localized = "Ти не знайдеш там нікого живого.​"
+     1 string m_Localized = "Ви не знайдете там нікого живого.​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
