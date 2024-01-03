@@ -169,7 +169,7 @@
    [18]
     0 TableEntryData data
      0 SInt64 m_Id = 84709131829452800
-     1 string m_Localized = "Гамма"
+     1 string m_Localized = "Ґама"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

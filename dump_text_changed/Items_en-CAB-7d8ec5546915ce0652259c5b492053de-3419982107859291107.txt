@@ -2438,7 +2438,7 @@
    [302]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495436
-     1 string m_Localized = "ВІП картка"
+     1 string m_Localized = "ВІП-картка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2446,7 +2446,7 @@
    [303]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495437
-     1 string m_Localized = "ВІП картки"
+     1 string m_Localized = "ВІП-картки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5353,7 +5353,7 @@
    [666]
     0 TableEntryData data
      0 SInt64 m_Id = 108199365537427456
-     1 string m_Localized = "Батарейка ґольф-автівки"
+     1 string m_Localized = "Акумулятор для ґольф-автівки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5361,7 +5361,7 @@
    [667]
     0 TableEntryData data
      0 SInt64 m_Id = 108199453793972224
-     1 string m_Localized = "Батарейки ґольф-автівки"
+     1 string m_Localized = "Акумулятори для ґольф-автівки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
