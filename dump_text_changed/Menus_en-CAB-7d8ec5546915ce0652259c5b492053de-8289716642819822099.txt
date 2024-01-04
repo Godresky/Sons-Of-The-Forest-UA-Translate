@@ -1664,7 +1664,7 @@
    [203]
     0 TableEntryData data
      0 SInt64 m_Id = 115686715225370624
-     1 string m_Localized = "Запуск клієнту"
+     1 string m_Localized = "Запуск клієнта"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
