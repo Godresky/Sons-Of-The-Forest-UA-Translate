@@ -345,7 +345,7 @@
    [40]
     0 TableEntryData data
      0 SInt64 m_Id = 84713984668540929
-     1 string m_Localized = "Посібники"
+     1 string m_Localized = "Навчання"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -865,7 +865,7 @@
    [105]
     0 TableEntryData data
      0 SInt64 m_Id = 91233855424352256
-     1 string m_Localized = "Апскейл обробка"
+     1 string m_Localized = "Масштабування"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
