@@ -134,7 +134,7 @@
    [14]
     0 TableEntryData data
      0 SInt64 m_Id = 1233841852416
-     1 string m_Localized = "ВАШЕ ЗДОРОВ’Я ТРОХИ ЗБІЛЬШИТЬСЯ, КОЛИ ВИ ЗБІЛЬШИТЕ СИЛУ"
+     1 string m_Localized = "ВАШЕ ЗДОРОВ’Я ТРОХИ ЗРОСТЕ, КОЛИ ВИ ЗБІЛЬШИТЕ СИЛУ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -142,7 +142,7 @@
    [15]
     0 TableEntryData data
      0 SInt64 m_Id = 3018606284800
-     1 string m_Localized = "ДЕЯКІ ПРЕДМЕТИ ОДЯГУ ТЕПЛІШІ ЗА ІНШІ"
+     1 string m_Localized = "ДЕЯКИЙ ОДЯГ ТЕПЛІШИЙ ЗА ІНШИЙ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
