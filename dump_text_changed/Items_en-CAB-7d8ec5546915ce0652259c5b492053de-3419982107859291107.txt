@@ -934,7 +934,7 @@
    [114]
     0 TableEntryData data
      0 SInt64 m_Id = 14145494523943
-     1 string m_Localized = "«Кранчі-вунчі»"
+     1 string m_Localized = "«Кранчі-ванчі»"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -942,7 +942,7 @@
    [115]
     0 TableEntryData data
      0 SInt64 m_Id = 14145494523944
-     1 string m_Localized = "«Кранчі-вунчі»"
+     1 string m_Localized = "«Кранчі-ванчі»"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
