@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (771 items)
-   0 int size = 771
+  0 Array Array (809 items)
+   0 int size = 809
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -2006,7 +2006,7 @@
    [248]
     0 TableEntryData data
      0 SInt64 m_Id = 14145511301120
-     1 string m_Localized = "Golden Armor"
+     1 string m_Localized = "Ancient Armor"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2014,7 +2014,7 @@
    [249]
     0 TableEntryData data
      0 SInt64 m_Id = 14145511301121
-     1 string m_Localized = "Golden Armor"
+     1 string m_Localized = "Ancient Armor"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2502,7 +2502,7 @@
    [310]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495448
-     1 string m_Localized = "Leaf"
+     1 string m_Localized = "Leaves"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2726,7 +2726,7 @@
    [338]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495490
-     1 string m_Localized = "Pennant Line Book"
+     1 string m_Localized = "Corporate Line"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2734,7 +2734,7 @@
    [339]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495491
-     1 string m_Localized = "Pennant Line Books"
+     1 string m_Localized = "Corporate Line"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2742,7 +2742,7 @@
    [340]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495493
-     1 string m_Localized = "Deep Sleep Book"
+     1 string m_Localized = "Puffton - On Creating an Empire"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2750,7 +2750,7 @@
    [341]
     0 TableEntryData data
      0 SInt64 m_Id = 14145515495494
-     1 string m_Localized = "Deep Sleep Books"
+     1 string m_Localized = "Puffton - On Creating an Empire"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2758,7 +2758,7 @@
    [342]
     0 TableEntryData data
      0 SInt64 m_Id = 14145519689728
-     1 string m_Localized = "Rescued Book"
+     1 string m_Localized = "Rescued"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2766,7 +2766,7 @@
    [343]
     0 TableEntryData data
      0 SInt64 m_Id = 14145519689729
-     1 string m_Localized = "Rescued Books"
+     1 string m_Localized = "Rescued"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2774,7 +2774,7 @@
    [344]
     0 TableEntryData data
      0 SInt64 m_Id = 14145519689731
-     1 string m_Localized = "Parallel Universes Book"
+     1 string m_Localized = "Parallel Universes"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2782,7 +2782,7 @@
    [345]
     0 TableEntryData data
      0 SInt64 m_Id = 14145519689732
-     1 string m_Localized = "Parallel Universes Books"
+     1 string m_Localized = "Parallel Universes"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4406,7 +4406,7 @@
    [548]
     0 TableEntryData data
      0 SInt64 m_Id = 14424759765299200
-     1 string m_Localized = "Medium Cabin"
+     1 string m_Localized = "Medium Log Cabin"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5209,7 +5209,7 @@
    [648]
     0 TableEntryData data
      0 SInt64 m_Id = 77051397212205056
-     1 string m_Localized = "Moose Head​"
+     1 string m_Localized = "Moose Head"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5217,7 +5217,7 @@
    [649]
     0 TableEntryData data
      0 SInt64 m_Id = 77051399489712128
-     1 string m_Localized = "Moose Heads​"
+     1 string m_Localized = "Moose Heads"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5273,7 +5273,7 @@
    [656]
     0 TableEntryData data
      0 SInt64 m_Id = 85798316377894912
-     1 string m_Localized = "Hokey Pokey Trap​"
+     1 string m_Localized = "Hokey Pokey Trap"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5281,7 +5281,7 @@
    [657]
     0 TableEntryData data
      0 SInt64 m_Id = 90160160819376128
-     1 string m_Localized = "GPS Case​"
+     1 string m_Localized = "GPS Case"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5289,7 +5289,7 @@
    [658]
     0 TableEntryData data
      0 SInt64 m_Id = 90165499333701632
-     1 string m_Localized = "3D Printed GPS Case​"
+     1 string m_Localized = "3D Printed GPS Case"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5297,7 +5297,7 @@
    [659]
     0 TableEntryData data
      0 SInt64 m_Id = 90165515561463808
-     1 string m_Localized = "3D Printed GPS Cases​"
+     1 string m_Localized = "3D Printed GPS Cases"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5313,7 +5313,7 @@
    [661]
     0 TableEntryData data
      0 SInt64 m_Id = 103472082054541312
-     1 string m_Localized = "Large Log Storage​"
+     1 string m_Localized = "Large Log Storage"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5337,7 +5337,7 @@
    [664]
     0 TableEntryData data
      0 SInt64 m_Id = 107911577881542656
-     1 string m_Localized = "Railing​"
+     1 string m_Localized = "Railing"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5353,7 +5353,7 @@
    [666]
     0 TableEntryData data
      0 SInt64 m_Id = 108199365537427456
-     1 string m_Localized = "Golf Cart Battery​"
+     1 string m_Localized = "Golf Cart Battery"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5361,7 +5361,7 @@
    [667]
     0 TableEntryData data
      0 SInt64 m_Id = 108199453793972224
-     1 string m_Localized = "Golf Cart Batteries​"
+     1 string m_Localized = "Golf Cart Batteries"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5441,7 +5441,7 @@
    [677]
     0 TableEntryData data
      0 SInt64 m_Id = 115890921551687680
-     1 string m_Localized = "Buildable Item​"
+     1 string m_Localized = "Buildable Item"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5497,7 +5497,7 @@
    [684]
     0 TableEntryData data
      0 SInt64 m_Id = 121146599068758016
-     1 string m_Localized = "Raw {0}​"
+     1 string m_Localized = "Raw {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5505,7 +5505,7 @@
    [685]
     0 TableEntryData data
      0 SInt64 m_Id = 121146612717023232
-     1 string m_Localized = "Stale {0}​"
+     1 string m_Localized = "Stale {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5513,7 +5513,7 @@
    [686]
     0 TableEntryData data
      0 SInt64 m_Id = 121146633051009024
-     1 string m_Localized = "Rotten {0}​"
+     1 string m_Localized = "Rotten {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5521,7 +5521,7 @@
    [687]
     0 TableEntryData data
      0 SInt64 m_Id = 121146636611973120
-     1 string m_Localized = "Dried {0}​"
+     1 string m_Localized = "Dried {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5529,7 +5529,7 @@
    [688]
     0 TableEntryData data
      0 SInt64 m_Id = 121146638398746624
-     1 string m_Localized = "Cooked {0}​"
+     1 string m_Localized = "Cooked {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5537,7 +5537,7 @@
    [689]
     0 TableEntryData data
      0 SInt64 m_Id = 121146640231657472
-     1 string m_Localized = "Burnt {0}​"
+     1 string m_Localized = "Burnt {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5545,7 +5545,7 @@
    [690]
     0 TableEntryData data
      0 SInt64 m_Id = 121157289351409664
-     1 string m_Localized = "Burnt {0}​"
+     1 string m_Localized = "Burnt {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5553,7 +5553,7 @@
    [691]
     0 TableEntryData data
      0 SInt64 m_Id = 121157288344776704
-     1 string m_Localized = "Cooked {0}​"
+     1 string m_Localized = "Cooked {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5561,7 +5561,7 @@
    [692]
     0 TableEntryData data
      0 SInt64 m_Id = 121157286713192448
-     1 string m_Localized = "Dried {0}​"
+     1 string m_Localized = "Dried {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5569,7 +5569,7 @@
    [693]
     0 TableEntryData data
      0 SInt64 m_Id = 121157284888670208
-     1 string m_Localized = "Rotten {0}​"
+     1 string m_Localized = "Rotten {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5577,7 +5577,7 @@
    [694]
     0 TableEntryData data
      0 SInt64 m_Id = 121157249492938752
-     1 string m_Localized = "Stale {0}​"
+     1 string m_Localized = "Stale {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5585,7 +5585,7 @@
    [695]
     0 TableEntryData data
      0 SInt64 m_Id = 121157199115153408
-     1 string m_Localized = "Raw {0}​"
+     1 string m_Localized = "Raw {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5593,7 +5593,7 @@
    [696]
     0 TableEntryData data
      0 SInt64 m_Id = 121168290188718080
-     1 string m_Localized = "Raw {0}​"
+     1 string m_Localized = "Raw {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5601,7 +5601,7 @@
    [697]
     0 TableEntryData data
      0 SInt64 m_Id = 121168323277582336
-     1 string m_Localized = "Stale {0}​"
+     1 string m_Localized = "Stale {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5609,7 +5609,7 @@
    [698]
     0 TableEntryData data
      0 SInt64 m_Id = 121168360187457536
-     1 string m_Localized = "Rotten {0}​"
+     1 string m_Localized = "Rotten {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5617,7 +5617,7 @@
    [699]
     0 TableEntryData data
      0 SInt64 m_Id = 121168395784515584
-     1 string m_Localized = "Dried {0}​"
+     1 string m_Localized = "Dried {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5625,7 +5625,7 @@
    [700]
     0 TableEntryData data
      0 SInt64 m_Id = 121168524457373696
-     1 string m_Localized = "Cooked {0}​"
+     1 string m_Localized = "Cooked {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5633,7 +5633,7 @@
    [701]
     0 TableEntryData data
      0 SInt64 m_Id = 121168577204940800
-     1 string m_Localized = "Burnt {0}​"
+     1 string m_Localized = "Burnt {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5641,7 +5641,7 @@
    [702]
     0 TableEntryData data
      0 SInt64 m_Id = 121168606330187776
-     1 string m_Localized = "Raw {0}​"
+     1 string m_Localized = "Raw {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5649,7 +5649,7 @@
    [703]
     0 TableEntryData data
      0 SInt64 m_Id = 121168636541759488
-     1 string m_Localized = "Stale {0}​"
+     1 string m_Localized = "Stale {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5657,7 +5657,7 @@
    [704]
     0 TableEntryData data
      0 SInt64 m_Id = 121168660264742912
-     1 string m_Localized = "Rotten {0}​"
+     1 string m_Localized = "Rotten {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5665,7 +5665,7 @@
    [705]
     0 TableEntryData data
      0 SInt64 m_Id = 121168700681056256
-     1 string m_Localized = "Dried {0}​"
+     1 string m_Localized = "Dried {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5673,7 +5673,7 @@
    [706]
     0 TableEntryData data
      0 SInt64 m_Id = 121168741093175296
-     1 string m_Localized = "Cooked {0}​"
+     1 string m_Localized = "Cooked {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5681,7 +5681,7 @@
    [707]
     0 TableEntryData data
      0 SInt64 m_Id = 121168769186623488
-     1 string m_Localized = "Burnt {0}​"
+     1 string m_Localized = "Burnt {0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5785,7 +5785,7 @@
    [720]
     0 TableEntryData data
      0 SInt64 m_Id = 127764638326059008
-     1 string m_Localized = "Grind Trap​"
+     1 string m_Localized = "Grind Trap"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5793,7 +5793,7 @@
    [721]
     0 TableEntryData data
      0 SInt64 m_Id = 127764680973742080
-     1 string m_Localized = "Grind Traps​"
+     1 string m_Localized = "Grind Traps"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5993,7 +5993,7 @@
    [746]
     0 TableEntryData data
      0 SInt64 m_Id = 131496634692923392
-     1 string m_Localized = "Spear Thrower​"
+     1 string m_Localized = "Spear Thrower"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6129,7 +6129,7 @@
    [763]
     0 TableEntryData data
      0 SInt64 m_Id = 132802833145106432
-     1 string m_Localized = "Spear Rack​"
+     1 string m_Localized = "Spear Rack"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6145,7 +6145,7 @@
    [765]
     0 TableEntryData data
      0 SInt64 m_Id = 135488519279210496
-     1 string m_Localized = "Leg Lamp​"
+     1 string m_Localized = "Leg Lamp"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6186,6 +6186,310 @@
     0 TableEntryData data
      0 SInt64 m_Id = 138329039529570304
      1 string m_Localized = "Circus Pamphlets"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [771]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142999730631733248
+     1 string m_Localized = "Artifact"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [772]
+    0 TableEntryData data
+     0 SInt64 m_Id = 142999782712406016
+     1 string m_Localized = "Artifacts"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [773]
+    0 TableEntryData data
+     0 SInt64 m_Id = 143763915825213440
+     1 string m_Localized = "Arrow Storage"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [774]
+    0 TableEntryData data
+     0 SInt64 m_Id = 145248218753003520
+     1 string m_Localized = "Teleporter"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [775]
+    0 TableEntryData data
+     0 SInt64 m_Id = 146256734670286848
+     1 string m_Localized = "Repel Shrine"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [776]
+    0 TableEntryData data
+     0 SInt64 m_Id = 146256807944777728
+     1 string m_Localized = "Attract Shrine"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [777]
+    0 TableEntryData data
+     0 SInt64 m_Id = 147732929760980992
+     1 string m_Localized = "Couch"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [778]
+    0 TableEntryData data
+     0 SInt64 m_Id = 147749393763135488
+     1 string m_Localized = "Explosive Tripwire"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [779]
+    0 TableEntryData data
+     0 SInt64 m_Id = 147749456618975232
+     1 string m_Localized = "Molotov Tripwire"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [780]
+    0 TableEntryData data
+     0 SInt64 m_Id = 148085341822644224
+     1 string m_Localized = "Chair"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [781]
+    0 TableEntryData data
+     0 SInt64 m_Id = 153248321430351872
+     1 string m_Localized = "Plater Counter"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [782]
+    0 TableEntryData data
+     0 SInt64 m_Id = 153248517832830976
+     1 string m_Localized = "Gold Armor Plater"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [783]
+    0 TableEntryData data
+     0 SInt64 m_Id = 153510876727996416
+     1 string m_Localized = "Platforms"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [784]
+    0 TableEntryData data
+     0 SInt64 m_Id = 153511047318728704
+     1 string m_Localized = "Small Platform"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [785]
+    0 TableEntryData data
+     0 SInt64 m_Id = 153511165979783168
+     1 string m_Localized = "Medium Platform"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [786]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156348712434364416
+     1 string m_Localized = "Large Log Cabin"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [787]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156353211110617088
+     1 string m_Localized = "Large Log Cabins"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [788]
+    0 TableEntryData data
+     0 SInt64 m_Id = 156353347979145216
+     1 string m_Localized = "Medium Log Cabins"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [789]
+    0 TableEntryData data
+     0 SInt64 m_Id = 158306925845934080
+     1 string m_Localized = "Activate"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [790]
+    0 TableEntryData data
+     0 SInt64 m_Id = 158307145057038336
+     1 string m_Localized = "Deactivate"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [791]
+    0 TableEntryData data
+     0 SInt64 m_Id = 158313036414185472
+     1 string m_Localized = "Toggle Mode"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [792]
+    0 TableEntryData data
+     0 SInt64 m_Id = 158335319396577280
+     1 string m_Localized = "Raccoon Head"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [793]
+    0 TableEntryData data
+     0 SInt64 m_Id = 158335329588736000
+     1 string m_Localized = "Raccoon Heads"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [794]
+    0 TableEntryData data
+     0 SInt64 m_Id = 159691309689860096
+     1 string m_Localized = "Bible Page"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [795]
+    0 TableEntryData data
+     0 SInt64 m_Id = 159691361942499328
+     1 string m_Localized = "Bible Pages"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [796]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160491723314163712
+     1 string m_Localized = "Twinberry Seed"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [797]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160491750019297280
+     1 string m_Localized = "Twinberry Seeds"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [798]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160491875114414080
+     1 string m_Localized = "Snowberry Seed"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [799]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160491884597735424
+     1 string m_Localized = "Snowberry Seeds"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [800]
+    0 TableEntryData data
+     0 SInt64 m_Id = 161892736235466752
+     1 string m_Localized = "Give"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [801]
+    0 TableEntryData data
+     0 SInt64 m_Id = 164117586496712704
+     1 string m_Localized = "Foldable Glider Launcher"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [802]
+    0 TableEntryData data
+     0 SInt64 m_Id = 167009685357457408
+     1 string m_Localized = "Foldable Glider"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [803]
+    0 TableEntryData data
+     0 SInt64 m_Id = 167009726470025216
+     1 string m_Localized = "Foldable Gliders"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [804]
+    0 TableEntryData data
+     0 SInt64 m_Id = 168002985119969280
+     1 string m_Localized = "Leaf Trap"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [805]
+    0 TableEntryData data
+     0 SInt64 m_Id = 168084228305416192
+     1 string m_Localized = "Blueprint"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [806]
+    0 TableEntryData data
+     0 SInt64 m_Id = 169464590407397376
+     1 string m_Localized = "Note"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [807]
+    0 TableEntryData data
+     0 SInt64 m_Id = 169578209313554432
+     1 string m_Localized = "Bonfire"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [808]
+    0 TableEntryData data
+     0 SInt64 m_Id = 169864635498364928
+     1 string m_Localized = "Explosives Holder"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

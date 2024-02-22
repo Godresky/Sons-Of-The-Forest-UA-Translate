@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (37 items)
-   0 int size = 37
+  0 Array Array (40 items)
+   0 int size = 40
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 159345053696
@@ -133,21 +133,13 @@
         0 int size = 0
    [14]
     0 TableEntryData data
-     0 SInt64 m_Id = 1233841852416
-     1 string m_Localized = "ВАШЕ ЗДОРОВ’Я ТРОХИ ЗРОСТЕ, КОЛИ ВИ ЗБІЛЬШИТЕ СИЛУ"
-     0 MetadataCollection m_Metadata
-      0 IMetadata m_Items
-       0 Array Array (0 items)
-        0 int size = 0
-   [15]
-    0 TableEntryData data
      0 SInt64 m_Id = 3018606284800
      1 string m_Localized = "ДЕЯКИЙ ОДЯГ ТЕПЛІШИЙ ЗА ІНШИЙ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [16]
+   [15]
     0 TableEntryData data
      0 SInt64 m_Id = 3057533620224
      1 string m_Localized = "ВИБУХІВКА ТА КОКТЕЙЛІ МОЛОТОВУ ЕФЕКТИВНІ ПРОТИ БІЛЬШОСТИ ВОРОГІВ"
@@ -155,7 +147,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [17]
+   [16]
     0 TableEntryData data
      0 SInt64 m_Id = 3206871814144
      1 string m_Localized = "ВИКОРИСТОВУЙТЕ КУЩІ, ЩОБИ ЗАХОВАТИСЯ ВІД ВОРОГІВ"
@@ -163,7 +155,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [18]
+   [17]
     0 TableEntryData data
      0 SInt64 m_Id = 3296613142528
      1 string m_Localized = "ЗІ ЗГОРІЛИХ ТІЛ МОЖНА ОТРИМАТИ КІСТКИ"
@@ -171,7 +163,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [19]
+   [18]
     0 TableEntryData data
      0 SInt64 m_Id = 3351856320512
      1 string m_Localized = "БУДУЙТЕ ПАСТКИ ДЛЯ ВІДЛОВУ ДРІБНИХ ТВАРИН"
@@ -179,7 +171,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [20]
+   [19]
     0 TableEntryData data
      0 SInt64 m_Id = 3404301897728
      1 string m_Localized = "ПОЄДНАЙТЕ ТКАНИНУ З АЛКОГОЛЕМ, ЩОБИ ЗРОБИТИ КОКТЕЙЛЬ МОЛОТОВУ"
@@ -187,7 +179,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [21]
+   [20]
     0 TableEntryData data
      0 SInt64 m_Id = 3502658326528
      1 string m_Localized = "НОСІННЯ ЛАСТ НЕ У ВОДІ СПОВІЛЬНЯТИМЕ ВАС"
@@ -195,39 +187,39 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [22]
+   [21]
     0 TableEntryData data
      0 SInt64 m_Id = 16224405983232
-     1 string m_Localized = "ПОРАДА: ХОЛОД ЗНИЖУЄ ВАШУ ЖИТТЄЗДАТНІСТЬ"
+     1 string m_Localized = "ПІДКАЗКА: ХОЛОД ЗНИЖУЄ ВАШУ ЖИТТЄЗДАТНІСТЬ"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [22]
+    0 TableEntryData data
+     0 SInt64 m_Id = 16335123025920
+     1 string m_Localized = "ПІДКАЗКА: ВИКОРИСТОВУЙТЕ КУЩІ, ЩОБИ ЗАХОВАТИСЯ ВІД ВОРОГІВ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [23]
     0 TableEntryData data
-     0 SInt64 m_Id = 16335123025920
-     1 string m_Localized = "ПОРАДА: ВИКОРИСТОВУЙТЕ КУЩІ, ЩОБИ ЗАХОВАТИСЯ ВІД ВОРОГІВ"
+     0 SInt64 m_Id = 16475590266880
+     1 string m_Localized = "ПІДКАЗКА: ВАШ GPS-ПРИСТРІЙ МОЖЕ ПОКАЗУВАТИ ВАЖЛИВІ МІСЦЯ НА ОСТРОВІ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [24]
     0 TableEntryData data
-     0 SInt64 m_Id = 16475590266880
-     1 string m_Localized = "ПОРАДА: ВАШ GPS-ПРИСТРІЙ МОЖЕ ПОКАЗУВАТИ ВАЖЛИВІ МІСЦЯ НА ОСТРОВІ"
+     0 SInt64 m_Id = 17929238209286144
+     1 string m_Localized = "ПІДКАЗКА: НАМАГАЙТЕСЯ НЕ ВМИРАТИ НАДТО ЧАСТО"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [25]
-    0 TableEntryData data
-     0 SInt64 m_Id = 17929238209286144
-     1 string m_Localized = "ПОРАДА: НАМАГАЙТЕСЯ НЕ ВМИРАТИ НАДТО ЧАСТО"
-     0 MetadataCollection m_Metadata
-      0 IMetadata m_Items
-       0 Array Array (0 items)
-        0 int size = 0
-   [26]
     0 TableEntryData data
      0 SInt64 m_Id = 52408611640963072
      1 string m_Localized = "ЗНЯТИ РОЗМІЩЕНИЙ ПЕРВЕНЬ СПОРУДИ МОЖНА, УТРИМУЮЧИ {BUTTON.DismantleElement}"
@@ -235,7 +227,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [27]
+   [26]
     0 TableEntryData data
      0 SInt64 m_Id = 60698744467673088
      1 string m_Localized = "У багатоосібній грі будьте люб’язні один із одним."
@@ -243,7 +235,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [28]
+   [27]
     0 TableEntryData data
      0 SInt64 m_Id = 60802221867888640
      1 string m_Localized = "МОЖНА СПОРЯДИТИ GPS-ПРИСТРІЙ, НАТИСНУВШИ {BUTTON.GpsTracker}"
@@ -251,7 +243,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [29]
+   [28]
     0 TableEntryData data
      0 SInt64 m_Id = 65178679947575296
      1 string m_Localized = "Утримуйте {BUTTON.PrimaryAction}, щоби завдати сильного удару​"
@@ -259,7 +251,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [30]
+   [29]
     0 TableEntryData data
      0 SInt64 m_Id = 65179053324517376
      1 string m_Localized = "Гарячі клавіші можна призначити при огляді спорядження, натиснувши клавіші від {BUTTON.HotKey1} до {BUTTON.HotKey0}​"
@@ -267,7 +259,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [31]
+   [30]
     0 TableEntryData data
      0 SInt64 m_Id = 68692362201133056
      1 string m_Localized = "ЗАТИСНІТЬ {BUTTON.DismantleElement}, ЩОБИ ПІДІБРАТИ МАЛІ СПОРУДИ, ПОБУДОВАНІ З ПОСІБНИКА​"
@@ -275,7 +267,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [32]
+   [31]
     0 TableEntryData data
      0 SInt64 m_Id = 78108771427545088
      1 string m_Localized = "СТРИБНІТЬ ДВІЧІ, ЩОБИ ЗІСКОЧИТИ З КОНЯЧКИ V"
@@ -283,7 +275,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [33]
+   [32]
     0 TableEntryData data
      0 SInt64 m_Id = 95864345908998144
      1 string m_Localized = "СОН У ПОМЕШКАНІ КРАЩИЙ ЗА СОН ЗЗОВНІ"
@@ -291,7 +283,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [34]
+   [33]
     0 TableEntryData data
      0 SInt64 m_Id = 95864906117017600
      1 string m_Localized = "ДЕЯКІ СТРАВИ ЗА ПРИПИСОМ ДАЮТЬ КОРИСНІ ПОСИЛЕННЯ"
@@ -299,7 +291,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [35]
+   [34]
     0 TableEntryData data
      0 SInt64 m_Id = 95950742783258624
      1 string m_Localized = "ВИЩИЙ КОМФОРТ ДОЗВОЛИТЬ ВІДНОВИТИ БІЛЬШЕ СИЛ ПІД ЧАС СНУ"
@@ -307,10 +299,42 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [36]
+   [35]
     0 TableEntryData data
      0 SInt64 m_Id = 126983568592728064
      1 string m_Localized = "КОЛИ ВИ РОЗМІЩУЄТЕ СПОРУДИ, УТРИМУЙТЕ {BUTTON.BatchPlace}, ЩОБИ ПОМІСТИТИ ДЕКІЛЬКА​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 169824655409410048
+     1 string m_Localized = "У ТВОРЧОМУ РЕЖИМІ, TOGGLE THE BUILDING MATERIALS LAYOUT BY PRESSING {BUTTON.ToggleInventoryMode} IN THE INVENTORY"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 169825676772765696
+     1 string m_Localized = "CONSUMING DIRTY, POISONOUS OR ROTTEN FOODS WILL MAKE YOU SICK, LIMITING MAX HEALTH"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170258017773154304
+     1 string m_Localized = "YOUR HEALTH, MELEE AND TREE DAMAGE WILL INCREASE SLIGHTLY WHEN YOU GAIN A STRENGTH LEVEL"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 180704131823431680
+     1 string m_Localized = "DRYING RACKS ARE MORE EFFECTIVE WHEN PLACED IN WARMER AREAS"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (37 items)
-   0 int size = 37
+  0 Array Array (40 items)
+   0 int size = 40
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 159345053696
@@ -133,21 +133,13 @@
         0 int size = 0
    [14]
     0 TableEntryData data
-     0 SInt64 m_Id = 1233841852416
-     1 string m_Localized = "YOUR HEALTH WILL INCREASE SLIGHTLY WHEN YOU GAIN A STRENGTH LEVEL"
-     0 MetadataCollection m_Metadata
-      0 IMetadata m_Items
-       0 Array Array (0 items)
-        0 int size = 0
-   [15]
-    0 TableEntryData data
      0 SInt64 m_Id = 3018606284800
      1 string m_Localized = "SOME CLOTHING ITEMS ARE WARMER THAN OTHERS"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [16]
+   [15]
     0 TableEntryData data
      0 SInt64 m_Id = 3057533620224
      1 string m_Localized = "EXPLOSIVES AND MOLOTOVS ARE EFFECTIVE AGAINST MOST ENEMIES"
@@ -155,7 +147,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [17]
+   [16]
     0 TableEntryData data
      0 SInt64 m_Id = 3206871814144
      1 string m_Localized = "CROUCH IN BUSHES TO HIDE FROM ENEMIES"
@@ -163,7 +155,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [18]
+   [17]
     0 TableEntryData data
      0 SInt64 m_Id = 3296613142528
      1 string m_Localized = "BURNING BODIES WILL PRODUCE BONES"
@@ -171,7 +163,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [19]
+   [18]
     0 TableEntryData data
      0 SInt64 m_Id = 3351856320512
      1 string m_Localized = "BUILD TRAPS TO CAPTURE SMALL ANIMALS"
@@ -179,7 +171,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [20]
+   [19]
     0 TableEntryData data
      0 SInt64 m_Id = 3404301897728
      1 string m_Localized = "CRAFT CLOTH WITH BOOZE TO MAKE A MOLOTOV COCKTAIL"
@@ -187,7 +179,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [21]
+   [20]
     0 TableEntryData data
      0 SInt64 m_Id = 3502658326528
      1 string m_Localized = "WEARING FLIPPERS WHEN NOT IN WATER WILL SLOW YOU DOWN"
@@ -195,7 +187,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [22]
+   [21]
     0 TableEntryData data
      0 SInt64 m_Id = 16224405983232
      1 string m_Localized = "TIP: BEING COLD WILL LIMIT YOUR VITALITY"
@@ -203,7 +195,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [23]
+   [22]
     0 TableEntryData data
      0 SInt64 m_Id = 16335123025920
      1 string m_Localized = "TIP: CROUCH IN BUSHES TO HIDE FROM ENEMIES"
@@ -211,7 +203,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [24]
+   [23]
     0 TableEntryData data
      0 SInt64 m_Id = 16475590266880
      1 string m_Localized = "TIP: YOUR GPS CAN SHOW YOU IMPORTANT MARKERS IN WORLD"
@@ -219,7 +211,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [25]
+   [24]
     0 TableEntryData data
      0 SInt64 m_Id = 17929238209286144
      1 string m_Localized = "TIP: TRY NOT DYING SO MUCH"
@@ -227,7 +219,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [26]
+   [25]
     0 TableEntryData data
      0 SInt64 m_Id = 52408611640963072
      1 string m_Localized = "REMOVE A PLACED STRUCTURE ELEMENT BY HOLDING {BUTTON.DismantleElement}"
@@ -235,7 +227,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [27]
+   [26]
     0 TableEntryData data
      0 SInt64 m_Id = 60698744467673088
      1 string m_Localized = "In Multiplayer, be nice to each other."
@@ -243,7 +235,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [28]
+   [27]
     0 TableEntryData data
      0 SInt64 m_Id = 60802221867888640
      1 string m_Localized = "EQUIP YOUR GPS WITH {BUTTON.GpsTracker}"
@@ -251,31 +243,31 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [29]
+   [28]
     0 TableEntryData data
      0 SInt64 m_Id = 65178679947575296
-     1 string m_Localized = "Hold {BUTTON.PrimaryAction} to do a heavy attack​"
+     1 string m_Localized = "Hold {BUTTON.PrimaryAction} to do a heavy attack"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 65179053324517376
+     1 string m_Localized = "Hotkeys can be assigned in Inventory by pressing {BUTTON.HotKey1} to {BUTTON.HotKey0}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [30]
     0 TableEntryData data
-     0 SInt64 m_Id = 65179053324517376
-     1 string m_Localized = "Hotkeys can be assigned in Inventory by pressing {BUTTON.HotKey1} to {BUTTON.HotKey0}​"
+     0 SInt64 m_Id = 68692362201133056
+     1 string m_Localized = "HOLD {BUTTON.DismantleElement} TO PICKUP SMALL STRUCTURES BUILT FROM THE BOOK"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [31]
-    0 TableEntryData data
-     0 SInt64 m_Id = 68692362201133056
-     1 string m_Localized = "HOLD {BUTTON.DismantleElement} TO PICKUP SMALL STRUCTURES BUILT FROM THE BOOK​"
-     0 MetadataCollection m_Metadata
-      0 IMetadata m_Items
-       0 Array Array (0 items)
-        0 int size = 0
-   [32]
     0 TableEntryData data
      0 SInt64 m_Id = 78108771427545088
      1 string m_Localized = "JUMP TWICE TO DISMOUNT FROM THE KNIGHT V"
@@ -283,7 +275,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [33]
+   [32]
     0 TableEntryData data
      0 SInt64 m_Id = 95864345908998144
      1 string m_Localized = "SLEEPING INDOORS IS MORE RESTFUL THAN SLEEPING OUTSIDE"
@@ -291,7 +283,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [34]
+   [33]
     0 TableEntryData data
      0 SInt64 m_Id = 95864906117017600
      1 string m_Localized = "SOME COOKING RECIPES CAN GRANT USEFUL BONUSES"
@@ -299,7 +291,7 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [35]
+   [34]
     0 TableEntryData data
      0 SInt64 m_Id = 95950742783258624
      1 string m_Localized = "A HIGHER COMFORT RATING WILL REGENERATE MORE REST WHEN SLEEPING"
@@ -307,10 +299,42 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
-   [36]
+   [35]
     0 TableEntryData data
      0 SInt64 m_Id = 126983568592728064
-     1 string m_Localized = "WHEN PLACING A STRUCTURE, HOLD {BUTTON.BatchPlace} TO PLACE MULTIPLE​"
+     1 string m_Localized = "WHEN PLACING A STRUCTURE, HOLD {BUTTON.BatchPlace} TO PLACE MULTIPLE"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [36]
+    0 TableEntryData data
+     0 SInt64 m_Id = 169824655409410048
+     1 string m_Localized = "IN CREATIVE MODE, TOGGLE THE BUILDING MATERIALS LAYOUT BY PRESSING {BUTTON.ToggleInventoryMode} IN THE INVENTORY"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [37]
+    0 TableEntryData data
+     0 SInt64 m_Id = 169825676772765696
+     1 string m_Localized = "CONSUMING DIRTY, POISONOUS OR ROTTEN FOODS WILL MAKE YOU SICK, LIMITING MAX HEALTH"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [38]
+    0 TableEntryData data
+     0 SInt64 m_Id = 170258017773154304
+     1 string m_Localized = "YOUR HEALTH, MELEE AND TREE DAMAGE WILL INCREASE SLIGHTLY WHEN YOU GAIN A STRENGTH LEVEL"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [39]
+    0 TableEntryData data
+     0 SInt64 m_Id = 180704131823431680
+     1 string m_Localized = "DRYING RACKS ARE MORE EFFECTIVE WHEN PLACED IN WARMER AREAS"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

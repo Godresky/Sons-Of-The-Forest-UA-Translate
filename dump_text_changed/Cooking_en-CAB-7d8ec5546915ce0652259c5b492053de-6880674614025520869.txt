@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (19 items)
-   0 int size = 19
+  0 Array Array (20 items)
+   0 int size = 20
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 1773254025216
@@ -167,6 +167,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 140882380444921856
      1 string m_Localized = "Готова локшина"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [19]
+    0 TableEntryData data
+     0 SInt64 m_Id = 157880616636379136
+     1 string m_Localized = "Варення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

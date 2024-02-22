@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 4339743358442274822
  0 TableEntryData m_TableData
-  0 Array Array (47 items)
-   0 int size = 47
+  0 Array Array (51 items)
+   0 int size = 51
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 77557309440
@@ -396,7 +396,40 @@
    [46]
     0 TableEntryData data
      0 SInt64 m_Id = 70986947522031616
-     1 string m_Localized = "Розмістити декілька"
+     1 string m_Localized = "Розмістити кілька"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [47]
+    0 TableEntryData data
+     0 SInt64 m_Id = 119614735745118208
+     1 string m_Localized = "Push To Talk"
+     1 string m_Localized = "Мовлення кнопкою"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [48]
+    0 TableEntryData data
+     0 SInt64 m_Id = 122551443281932288
+     1 string m_Localized = "Перемкнути режим"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [49]
+    0 TableEntryData data
+     0 SInt64 m_Id = 143905186924818432
+     1 string m_Localized = "Радіо (авто)"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [50]
+    0 TableEntryData data
+     0 SInt64 m_Id = 143905194290016256
+     1 string m_Localized = "Наступна пісня (авто)"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
