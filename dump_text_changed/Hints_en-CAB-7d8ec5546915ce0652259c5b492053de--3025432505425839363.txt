@@ -318,7 +318,7 @@
    [37]
     0 TableEntryData data
      0 SInt64 m_Id = 169825676772765696
-     1 string m_Localized = "CONSUMING DIRTY, POISONOUS OR ROTTEN FOODS WILL MAKE YOU SICK, LIMITING MAX HEALTH"
+     1 string m_Localized = "СПОЖИВАННЯ БРУДНИХ, ОТРУЙНИХ АБО ГНИЛИХ ХАРЧІВ ПРИЗВЕДЕ ДО ХВОРОБИ, ЩО ОБМЕЖУЄ МАКСИМАЛЬНЕ ЗДОРОВ’Я"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -326,7 +326,7 @@
    [38]
     0 TableEntryData data
      0 SInt64 m_Id = 170258017773154304
-     1 string m_Localized = "YOUR HEALTH, MELEE AND TREE DAMAGE WILL INCREASE SLIGHTLY WHEN YOU GAIN A STRENGTH LEVEL"
+     1 string m_Localized = "ЗДОРОВ'Я, СИЛА УДАРІВ ТА РУБАННЯ ДЕРЕВ ДЕЩО ЗРОСТЕ РАЗОМ З ПІДВИЩЕННЯМ ВАШОЇ МІЦІ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -334,7 +334,7 @@
    [39]
     0 TableEntryData data
      0 SInt64 m_Id = 180704131823431680
-     1 string m_Localized = "DRYING RACKS ARE MORE EFFECTIVE WHEN PLACED IN WARMER AREAS"
+     1 string m_Localized = "СУШАРКИ ВАРТО РОЗМІЩУВАТИ У ТЕПЛОМУ МІСЦІ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

@@ -14,11 +14,14 @@
   0 SInt64 m_PathID = 8756602536832208244
  0 MetadataCollection m_Metadata
   0 IMetadata m_Items
-   0 Array Array (0 items)
-    0 int size = 0
+   0 Array Array (1 items)
+    0 int size = 1
+    [0]
+     0 managedRefArrayItem data
+      0 SInt64 rid = 2818288607421267971
  0 TableEntryData m_TableData
-  0 Array Array (51 items)
-   0 int size = 51
+  0 Array Array (65 items)
+   0 int size = 65
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 38817046528
@@ -86,11 +89,14 @@
    [8]
     0 TableEntryData data
      0 SInt64 m_Id = 950369329152
-     1 string m_Localized = "Знайдіть команду В 0/3"
+     1 string m_Localized = "<color={color}>Знайдіть команду Б {count}/3</color>"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
-       0 Array Array (0 items)
-        0 int size = 0
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 2818288607421267971
    [9]
     0 TableEntryData data
      0 SInt64 m_Id = 3637836062720
@@ -286,19 +292,25 @@
    [33]
     0 TableEntryData data
      0 SInt64 m_Id = 44507741146312704
-     1 string m_Localized = "Знайдіть родину Паффтонів"
+     1 string m_Localized = "<color={color}>Знайдіть родину Паффтонів</color>"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
-       0 Array Array (0 items)
-        0 int size = 0
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 2818288607421267971
    [34]
     0 TableEntryData data
      0 SInt64 m_Id = 44508690464108544
-     1 string m_Localized = "Знайдено родину Паффтонів"
+     1 string m_Localized = "<color={color}>Знайдено родину Паффтонів</color>"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
-       0 Array Array (0 items)
-        0 int size = 0
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 2818288607421267971
    [35]
     0 TableEntryData data
      0 SInt64 m_Id = 54307069167661056
@@ -423,6 +435,124 @@
     0 TableEntryData data
      0 SInt64 m_Id = 115976894683803648
      1 string m_Localized = "Доступно нове кресленння споруди:"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [51]
+    0 TableEntryData data
+     0 SInt64 m_Id = 146016676994347008
+     1 string m_Localized = "You are sick"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [52]
+    0 TableEntryData data
+     0 SInt64 m_Id = 146029349886750720
+     1 string m_Localized = "Zoom in the tracker by pressing"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [53]
+    0 TableEntryData data
+     0 SInt64 m_Id = 146636476853874688
+     1 string m_Localized = "New mode unlocked. You can now create a Creative game from the title screen."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [54]
+    0 TableEntryData data
+     0 SInt64 m_Id = 155408023912181760
+     1 string m_Localized = "Retrieve your backpack"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [55]
+    0 TableEntryData data
+     0 SInt64 m_Id = 155802403533746176
+     1 string m_Localized = "Battery used"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [56]
+    0 TableEntryData data
+     0 SInt64 m_Id = 155802529593552896
+     1 string m_Localized = "Air canister used"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [57]
+    0 TableEntryData data
+     0 SInt64 m_Id = 163092641197060096
+     1 string m_Localized = "<color={color}>Uncover what happened here</color>"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 2818288607421267971
+   [58]
+    0 TableEntryData data
+     0 SInt64 m_Id = 163107254919753728
+     1 string m_Localized = "Build storage to store items"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [59]
+    0 TableEntryData data
+     0 SInt64 m_Id = 164123199217856512
+     1 string m_Localized = "Video recording already found"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [60]
+    0 TableEntryData data
+     0 SInt64 m_Id = 164218537723293696
+     1 string m_Localized = "Players waiting for you to sleep {playersWaiting}/{totalPlayers}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 2818288607421267971
+   [61]
+    0 TableEntryData data
+     0 SInt64 m_Id = 165970175010009088
+     1 string m_Localized = "Enemies are nearby. Not safe enough to sleep"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [62]
+    0 TableEntryData data
+     0 SInt64 m_Id = 167442891563069440
+     1 string m_Localized = "Glider Dropped"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [63]
+    0 TableEntryData data
+     0 SInt64 m_Id = 167442946474897408
+     1 string m_Localized = "Glider Stashed"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [64]
+    0 TableEntryData data
+     0 SInt64 m_Id = 169558824431644672
+     1 string m_Localized = "Use the rope launcher to ride ziplines and also place your own"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

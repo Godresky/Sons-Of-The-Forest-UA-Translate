@@ -86,7 +86,7 @@
    [8]
     0 TableEntryData data
      0 SInt64 m_Id = 39290149531648
-     1 string m_Localized = "ВIЗЬМИ ПРЕДМЕТ"
+     1 string m_Localized = "ВIЗЬМИ ОДЯГ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

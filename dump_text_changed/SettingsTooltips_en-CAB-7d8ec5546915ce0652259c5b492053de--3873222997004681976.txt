@@ -20,12 +20,12 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 4115542425863454741
  0 TableEntryData m_TableData
-  0 Array Array (86 items)
-   0 int size = 86
+  0 Array Array (101 items)
+   0 int size = 101
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 10714634612736
-     1 string m_Localized = "<color=yellow>{label}</color> - Поточний розмір екрана у пікселях"
+     1 string m_Localized = "<color=yellow>{label}</color> — Поточний розмір екрана у пікселях"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -51,7 +51,7 @@
    [1]
     0 TableEntryData data
      0 SInt64 m_Id = 10714663972864
-     1 string m_Localized = "<color=yellow>{label}</color> - Фіксує оновлення дисплея на певній частоті"
+     1 string m_Localized = "<color=yellow>{label}</color> — Фіксує оновлення дисплея на певній частоті"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -77,7 +77,7 @@
    [2]
     0 TableEntryData data
      0 SInt64 m_Id = 10714663972865
-     1 string m_Localized = "<color=yellow>{label}</color> - Встановлює максимальну кількість кадрів на секунду, яку буде рендерити гра"
+     1 string m_Localized = "<color=yellow>{label}</color> — Встановлює максимальну кількість кадрів на секунду, яку буде рендерити гра"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -103,7 +103,7 @@
    [3]
     0 TableEntryData data
      0 SInt64 m_Id = 10979404247040
-     1 string m_Localized = "<color=yellow>{label}</color> - Максимальна роздільна здатність текстури для зменшення вимог до пам’яті"
+     1 string m_Localized = "<color=yellow>{label}</color> — Максимальна роздільна здатність текстури для зменшення вимог до пам’яті"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -129,7 +129,7 @@
    [4]
     0 TableEntryData data
      0 SInt64 m_Id = 10979400052736
-     1 string m_Localized = "<color=yellow>{label}</color> - Змінює декілька налаштувань для досягнення загального рівня графіки"
+     1 string m_Localized = "<color=yellow>{label}</color> — Змінює декілька налаштувань для досягнення загального рівня графіки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -155,7 +155,7 @@
    [5]
     0 TableEntryData data
      0 SInt64 m_Id = 10714668167169
-     1 string m_Localized = "<color=yellow>{label}</color> - Колірна крива для розширення або звуження візуального діяпазону кольорів"
+     1 string m_Localized = "<color=yellow>{label}</color> — Колірна крива для розширення або звуження візуального діяпазону кольорів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -181,7 +181,7 @@
    [6]
     0 TableEntryData data
      0 SInt64 m_Id = 10714668167168
-     1 string m_Localized = "<color=yellow>{label}</color> - Загальна яскравість оточення"
+     1 string m_Localized = "<color=yellow>{label}</color> — Загальна яскравість оточення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -207,7 +207,7 @@
    [7]
     0 TableEntryData data
      0 SInt64 m_Id = 10714663972866
-     1 string m_Localized = "<color=yellow>{label}</color> - Відображення у повноекранному режимі"
+     1 string m_Localized = "<color=yellow>{label}</color> — Відображення у повноекранному режимі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -233,7 +233,7 @@
    [8]
     0 TableEntryData data
      0 SInt64 m_Id = 10979404247041
-     1 string m_Localized = "<color=yellow>{label}</color> - Якість освітлення затінених областей та приповерхового затінення"
+     1 string m_Localized = "<color=yellow>{label}</color> — Якість освітлення затінених областей та приповерхового затінення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -259,7 +259,7 @@
    [9]
     0 TableEntryData data
      0 SInt64 m_Id = 10979404247042
-     1 string m_Localized = "<color=yellow>{label}</color> - Візуальний ефект для спотворення кольорів по краях екрана"
+     1 string m_Localized = "<color=yellow>{label}</color> — Візуальний ефект для спотворення кольорів по краях екрана"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -285,7 +285,7 @@
    [10]
     0 TableEntryData data
      0 SInt64 m_Id = 10979404247043
-     1 string m_Localized = "<color=yellow>{label}</color> - Візуальний ефект для посилення відчуття руху"
+     1 string m_Localized = "<color=yellow>{label}</color> — Візуальний ефект для посилення відчуття руху"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -311,7 +311,7 @@
    [11]
     0 TableEntryData data
      0 SInt64 m_Id = 10979404247044
-     1 string m_Localized = "<color=yellow>{label}</color> - Додаткові тіні там, де об’єкти контактують з іншими об’єктами"
+     1 string m_Localized = "<color=yellow>{label}</color> — Додаткові тіні там, де об’єкти контактують з іншими об’єктами"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -337,7 +337,7 @@
    [12]
     0 TableEntryData data
      0 SInt64 m_Id = 10979404247045
-     1 string m_Localized = "<color=yellow>{label}</color> - Швидке наближення відображення за допомогою екранного ефекту"
+     1 string m_Localized = "<color=yellow>{label}</color> — Швидке наближення відображення за допомогою екранного ефекту"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -363,7 +363,7 @@
    [13]
     0 TableEntryData data
      0 SInt64 m_Id = 10979408441344
-     1 string m_Localized = "<color=yellow>{label}</color> - Візуальний ефект, який дозволяє яскравому світлу освітлювати довкілля"
+     1 string m_Localized = "<color=yellow>{label}</color> — Візуальний ефект, який дозволяє яскравому світлу освітлювати довкілля"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -389,7 +389,7 @@
    [14]
     0 TableEntryData data
      0 SInt64 m_Id = 10979408441345
-     1 string m_Localized = "<color=yellow>{label}</color> - Покращена функція затінення поверхонь"
+     1 string m_Localized = "<color=yellow>{label}</color> — Покращена функція затінення поверхонь"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -415,7 +415,7 @@
    [15]
     0 TableEntryData data
      0 SInt64 m_Id = 10979408441346
-     1 string m_Localized = "<color=yellow>{label}</color> - Якість основних тіней"
+     1 string m_Localized = "<color=yellow>{label}</color> — Якість основних тіней"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -441,7 +441,7 @@
    [16]
     0 TableEntryData data
      0 SInt64 m_Id = 10979408441347
-     1 string m_Localized = "<color=yellow>{label}</color> - Якість ефектів об’ємного туману"
+     1 string m_Localized = "<color=yellow>{label}</color> — Якість ефектів об’ємного туману"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -467,7 +467,7 @@
    [17]
     0 TableEntryData data
      0 SInt64 m_Id = 10979408441348
-     1 string m_Localized = "<color=yellow>{label}</color> - Якість хмарного рендеринґу"
+     1 string m_Localized = "<color=yellow>{label}</color> — Якість хмарного рендеринґу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -493,7 +493,7 @@
    [18]
     0 TableEntryData data
      0 SInt64 m_Id = 10979408441349
-     1 string m_Localized = "<color=yellow>{label}</color> - Якість трави"
+     1 string m_Localized = "<color=yellow>{label}</color> — Якість трави"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -519,7 +519,7 @@
    [19]
     0 TableEntryData data
      0 SInt64 m_Id = 10979408441350
-     1 string m_Localized = "<color=yellow>{label}</color> - Відстань паралаксу для імітації переміщення"
+     1 string m_Localized = "<color=yellow>{label}</color> — Відстань паралаксу для імітації переміщення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -545,7 +545,7 @@
    [20]
     0 TableEntryData data
      0 SInt64 m_Id = 10979408441351
-     1 string m_Localized = "<color=yellow>{label}</color> - Якість надписів"
+     1 string m_Localized = "<color=yellow>{label}</color> — Якість надписів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -571,7 +571,7 @@
    [21]
     0 TableEntryData data
      0 SInt64 m_Id = 10979408441352
-     1 string m_Localized = "<color=yellow>{label}</color> - Відстань, на якій вмикаються та вимикаються певні об’єкти"
+     1 string m_Localized = "<color=yellow>{label}</color> — Відстань, на якій вмикаються та вимикаються певні об’єкти"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -597,7 +597,7 @@
    [22]
     0 TableEntryData data
      0 SInt64 m_Id = 10979408441353
-     1 string m_Localized = "<color=yellow>{label}</color> - Якість поверхні води"
+     1 string m_Localized = "<color=yellow>{label}</color> — Якість поверхні води"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -623,7 +623,7 @@
    [23]
     0 TableEntryData data
      0 SInt64 m_Id = 10979412635648
-     1 string m_Localized = "<color=yellow>{label}</color> - Якість текстури для поверхонь, паралельних знімачу"
+     1 string m_Localized = "<color=yellow>{label}</color> — Якість текстури для поверхонь, паралельних знімачу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -649,7 +649,7 @@
    [24]
     0 TableEntryData data
      0 SInt64 m_Id = 10979412635649
-     1 string m_Localized = "<color=yellow>{label}</color> - Візуальний фільтр для зменшення згладжування пікселів по краях об’єкта"
+     1 string m_Localized = "<color=yellow>{label}</color> — Візуальний фільтр для зменшення згладжування пікселів по краях об’єкта"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -675,7 +675,7 @@
    [25]
     0 TableEntryData data
      0 SInt64 m_Id = 10979412635650
-     1 string m_Localized = "<color=yellow>{label}</color> - Відтворення з низькою роздільною здатністю, але з розширеним розміром, щоби зменшити навантаження на ЦПУ, зберігаючи при цьому загальну якість"
+     1 string m_Localized = "<color=yellow>{label}</color> — Відтворення з низькою роздільною здатністю, але з розширеним розміром, щоби зменшити навантаження на ЦПУ, зберігаючи при цьому загальну якість"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -701,7 +701,7 @@
    [26]
     0 TableEntryData data
      0 SInt64 m_Id = 10979416829952
-     1 string m_Localized = "<color=yellow>{label}</color> - Цільова частота кадрів на секунду для керування шкалою динамічної роздільної здатності"
+     1 string m_Localized = "<color=yellow>{label}</color> — Цільова частота кадрів на секунду для керування шкалою динамічної роздільної здатності"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -727,7 +727,7 @@
    [27]
     0 TableEntryData data
      0 SInt64 m_Id = 10979416829953
-     1 string m_Localized = "<color=yellow>{label}</color> - Технологія Nvidia, яка навчана для динамічної роздільної здатністи"
+     1 string m_Localized = "<color=yellow>{label}</color> — Технологія Nvidia, яка навчана для динамічної роздільної здатністи"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -753,7 +753,7 @@
    [28]
     0 TableEntryData data
      0 SInt64 m_Id = 10979416829954
-     1 string m_Localized = "<color=yellow>{label}</color> - Обробка кольору, яка зроблена на основі теми"
+     1 string m_Localized = "<color=yellow>{label}</color> — Обробка кольору, яка зроблена на основі теми"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -779,7 +779,7 @@
    [29]
     0 TableEntryData data
      0 SInt64 m_Id = 10979416829955
-     1 string m_Localized = "<color=yellow>{label}</color> - Візуальний ефект, що додає зернистий шум"
+     1 string m_Localized = "<color=yellow>{label}</color> — Візуальний ефект, що додає зернистий шум"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -805,7 +805,7 @@
    [30]
     0 TableEntryData data
      0 SInt64 m_Id = 10997271982080
-     1 string m_Localized = "<color=yellow>{label}</color> - Мова перекладу тексту"
+     1 string m_Localized = "<color=yellow>{label}</color> — Мова перекладу тексту"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -831,7 +831,7 @@
    [31]
     0 TableEntryData data
      0 SInt64 m_Id = 10997276176384
-     1 string m_Localized = "<color=yellow>{label}</color> - Усі частини інтерфейсу"
+     1 string m_Localized = "<color=yellow>{label}</color> — Усі частини інтерфейсу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -857,7 +857,7 @@
    [32]
     0 TableEntryData data
      0 SInt64 m_Id = 10997276176385
-     1 string m_Localized = "<color=yellow>{label}</color> - Лише ГУД / показники"
+     1 string m_Localized = "<color=yellow>{label}</color> — Лише ГУД / показники"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -883,7 +883,7 @@
    [33]
     0 TableEntryData data
      0 SInt64 m_Id = 10997276176386
-     1 string m_Localized = "<color=yellow>{label}</color> - Підказки"
+     1 string m_Localized = "<color=yellow>{label}</color> — Підказки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -909,7 +909,7 @@
    [34]
     0 TableEntryData data
      0 SInt64 m_Id = 10997276176387
-     1 string m_Localized = "<color=yellow>{label}</color> - Мінімапа на екрані"
+     1 string m_Localized = "<color=yellow>{label}</color> — Мінімапа на екрані"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -935,7 +935,7 @@
    [35]
     0 TableEntryData data
      0 SInt64 m_Id = 10997280370688
-     1 string m_Localized = "<color=yellow>{label}</color> - Частини інтерфейсу у світі"
+     1 string m_Localized = "<color=yellow>{label}</color> — Частини інтерфейсу у світі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -961,7 +961,7 @@
    [36]
     0 TableEntryData data
      0 SInt64 m_Id = 10997280370689
-     1 string m_Localized = "<color=yellow>{label}</color> - Інтерфейс споруд та їхні іконки"
+     1 string m_Localized = "<color=yellow>{label}</color> — Інтерфейс споруд та їхні іконки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -987,7 +987,7 @@
    [37]
     0 TableEntryData data
      0 SInt64 m_Id = 10997280370690
-     1 string m_Localized = "<color=yellow>{label}</color> - Кут огляду знімача, що регулуює загальну ширину огляду"
+     1 string m_Localized = "<color=yellow>{label}</color> — Кут огляду знімача, що регулуює загальну ширину огляду"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1013,7 +1013,7 @@
    [38]
     0 TableEntryData data
      0 SInt64 m_Id = 10997280370691
-     1 string m_Localized = "<color=yellow>{label}</color> - Дозволяє пошкодження будівель"
+     1 string m_Localized = "<color=yellow>{label}</color> — Дозволяє пошкодження будівель"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1039,7 +1039,7 @@
    [39]
     0 TableEntryData data
      0 SInt64 m_Id = 10997280370692
-     1 string m_Localized = "<color=yellow>{label}</color> - Збільшує розмір голів"
+     1 string m_Localized = "<color=yellow>{label}</color> — Збільшує розмір голів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1065,7 +1065,7 @@
    [40]
     0 TableEntryData data
      0 SInt64 m_Id = 11017001988096
-     1 string m_Localized = "<color=yellow>{label}</color> - Інвертує вертикальне введення для знімача"
+     1 string m_Localized = "<color=yellow>{label}</color> — Інвертує вертикальне введення для знімача"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1091,7 +1091,7 @@
    [41]
     0 TableEntryData data
      0 SInt64 m_Id = 11017001988097
-     1 string m_Localized = "<color=yellow>{label}</color> - Залишає скрадання, доки воно не буде перемкнуте"
+     1 string m_Localized = "<color=yellow>{label}</color> — Залишає скрадання, доки воно не буде перемкнуте"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1117,7 +1117,7 @@
    [42]
     0 TableEntryData data
      0 SInt64 m_Id = 11017006182400
-     1 string m_Localized = "<color=yellow>{label}</color> - Залишає біг, доки він не буде перемкнутий"
+     1 string m_Localized = "<color=yellow>{label}</color> — Залишає біг, доки він не буде перемкнутий"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1143,7 +1143,7 @@
    [43]
     0 TableEntryData data
      0 SInt64 m_Id = 11017006182401
-     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає функцію вібрування ґеймпада для посилення відчуттів віддачі"
+     1 string m_Localized = "<color=yellow>{label}</color> — Вмикає функцію вібрування ґеймпада для посилення відчуттів віддачі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1169,7 +1169,7 @@
    [44]
     0 TableEntryData data
      0 SInt64 m_Id = 11017006182402
-     1 string m_Localized = "<color=yellow>{label}</color> - Швидкість руху мишки по горизонталі"
+     1 string m_Localized = "<color=yellow>{label}</color> — Швидкість руху мишки по горизонталі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1195,7 +1195,7 @@
    [45]
     0 TableEntryData data
      0 SInt64 m_Id = 11017006182403
-     1 string m_Localized = "<color=yellow>{label}</color> - Швидкість руху мишки по вертикалі"
+     1 string m_Localized = "<color=yellow>{label}</color> — Швидкість руху мишки по вертикалі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1221,7 +1221,7 @@
    [46]
     0 TableEntryData data
      0 SInt64 m_Id = 11017006182404
-     1 string m_Localized = "<color=yellow>{label}</color> - Швидкість руху ґеймпада по горизонталі"
+     1 string m_Localized = "<color=yellow>{label}</color> — Швидкість руху ґеймпада по горизонталі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1247,7 +1247,7 @@
    [47]
     0 TableEntryData data
      0 SInt64 m_Id = 11017010376704
-     1 string m_Localized = "<color=yellow>{label}</color> - Швидкість руху ґеймпада по вертикалі"
+     1 string m_Localized = "<color=yellow>{label}</color> — Швидкість руху ґеймпада по вертикалі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1273,7 +1273,7 @@
    [48]
     0 TableEntryData data
      0 SInt64 m_Id = 11017010376705
-     1 string m_Localized = "<color=yellow>{label}</color> - Мінімальна відстань до того, щоб реєструвати введення ґеймпада"
+     1 string m_Localized = "<color=yellow>{label}</color> — Мінімальна відстань до того, щоб реєструвати введення ґеймпада"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1299,7 +1299,7 @@
    [49]
     0 TableEntryData data
      0 SInt64 m_Id = 11039194050560
-     1 string m_Localized = "<color=yellow>{label}</color> - Максимальна гучність"
+     1 string m_Localized = "<color=yellow>{label}</color> — Максимальна гучність"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1325,7 +1325,7 @@
    [50]
     0 TableEntryData data
      0 SInt64 m_Id = 11039194050561
-     1 string m_Localized = "<color=yellow>{label}</color> - Максимальна гучність музики"
+     1 string m_Localized = "<color=yellow>{label}</color> — Максимальна гучність музики"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1351,7 +1351,7 @@
    [51]
     0 TableEntryData data
      0 SInt64 m_Id = 11039198244864
-     1 string m_Localized = "<color=yellow>{label}</color> - Максимальна гучність звукових ефектів"
+     1 string m_Localized = "<color=yellow>{label}</color> — Максимальна гучність звукових ефектів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1377,7 +1377,7 @@
    [52]
     0 TableEntryData data
      0 SInt64 m_Id = 11039198244865
-     1 string m_Localized = "<color=yellow>{label}</color> - Максимальна кількість унікальних звуків"
+     1 string m_Localized = "<color=yellow>{label}</color> — Максимальна кількість унікальних звуків"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1403,7 +1403,7 @@
    [53]
     0 TableEntryData data
      0 SInt64 m_Id = 11039198244866
-     1 string m_Localized = "<color=yellow>{label}</color> - Налашовує звуковий еквалайзер відповідно до оснащення"
+     1 string m_Localized = "<color=yellow>{label}</color> — Налашовує звуковий еквалайзер відповідно до оснащення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (6 items)
@@ -1429,7 +1429,7 @@
    [54]
     0 TableEntryData data
      0 SInt64 m_Id = 170850682499072
-     1 string m_Localized = "<color=yellow>{label}</color> - Регулює частоту кресу ворогів"
+     1 string m_Localized = "<color=yellow>{label}</color> — Регулює частоту кресу ворогів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1446,7 +1446,7 @@
    [55]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081984
-     1 string m_Localized = "<color=yellow>{label}</color> - Регулює рівень здоров’я ворогів"
+     1 string m_Localized = "<color=yellow>{label}</color> — Регулює рівень здоров’я ворогів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1463,7 +1463,7 @@
    [56]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081985
-     1 string m_Localized = "<color=yellow>{label}</color> - Регулює пошкодження, яку можуть завдати вороги"
+     1 string m_Localized = "<color=yellow>{label}</color> — Регулює пошкодження, яку можуть завдати вороги"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1480,7 +1480,7 @@
    [57]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081986
-     1 string m_Localized = "<color=yellow>{label}</color> - Регулює міцність броні ворога"
+     1 string m_Localized = "<color=yellow>{label}</color> — Регулює міцність броні ворога"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1497,7 +1497,7 @@
    [58]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081987
-     1 string m_Localized = "<color=yellow>{label}</color> - Регулює рівень лютости"
+     1 string m_Localized = "<color=yellow>{label}</color> — Регулює рівень лютости"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1514,7 +1514,7 @@
    [59]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081988
-     1 string m_Localized = "<color=yellow>{label}</color> - Регулює частоту кресу тварин"
+     1 string m_Localized = "<color=yellow>{label}</color> — Регулює частоту кресу тварин"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1531,7 +1531,7 @@
    [60]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081989
-     1 string m_Localized = "<color=yellow>{label}</color> - Встановлює початкову пору року"
+     1 string m_Localized = "<color=yellow>{label}</color> — Встановлює початкову пору року"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1548,7 +1548,7 @@
    [61]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081990
-     1 string m_Localized = "<color=yellow>{label}</color> - Регулює тривалість пори року"
+     1 string m_Localized = "<color=yellow>{label}</color> — Регулює тривалість пори року"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1565,7 +1565,7 @@
    [62]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081991
-     1 string m_Localized = "<color=yellow>{label}</color> - Регулює тривалість дня"
+     1 string m_Localized = "<color=yellow>{label}</color> — Регулює тривалість дня"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1582,7 +1582,7 @@
    [63]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081992
-     1 string m_Localized = "<color=yellow>{label}</color> - Регулює частоту опадів та снігу"
+     1 string m_Localized = "<color=yellow>{label}</color> — Регулює частоту опадів та снігу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1599,7 +1599,7 @@
    [64]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081993
-     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає пошкодження від поганої або гнилої їжі та напоїів"
+     1 string m_Localized = "<color=yellow>{label}</color> — Вмикає пошкодження від поганої або гнилої їжі та напоїів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1616,7 +1616,7 @@
    [65]
     0 TableEntryData data
      0 SInt64 m_Id = 170850695081994
-     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає пошкодження від спраги та голоду"
+     1 string m_Localized = "<color=yellow>{label}</color> — Вмикає пошкодження від спраги та голоду"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1633,7 +1633,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 198492822978560
-     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає мінімальну затримку між засинанням"
+     1 string m_Localized = "<color=yellow>{label}</color> — Вмикає мінімальну затримку між засинанням"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1644,7 +1644,7 @@
    [67]
     0 TableEntryData data
      0 SInt64 m_Id = 808435717074944
-     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає відображення імен гравців та їнього місця знаходження"
+     1 string m_Localized = "<color=yellow>{label}</color> — Вмикає відображення імен гравців та їнього місця знаходження"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1655,7 +1655,7 @@
    [68]
     0 TableEntryData data
      0 SInt64 m_Id = 808435691909120
-     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає траєкторію снаряда та візирні лінії"
+     1 string m_Localized = "<color=yellow>{label}</color> — Вмикає траєкторію снаряда та візирні лінії"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1666,7 +1666,7 @@
    [69]
     0 TableEntryData data
      0 SInt64 m_Id = 3425136316530688
-     1 string m_Localized = "<color=yellow>{label}</color> - Гучність рації для багатокористувацького голосового зв`язку​"
+     1 string m_Localized = "<color=yellow>{label}</color> — Гучність рації для багатокористувацького голосового зв`язку​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1677,7 +1677,7 @@
    [70]
     0 TableEntryData data
      0 SInt64 m_Id = 25482316175654912
-     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає самовідростання дерев під час сну"
+     1 string m_Localized = "<color=yellow>{label}</color> — Вмикає самовідростання дерев під час сну"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1688,7 +1688,7 @@
    [71]
     0 TableEntryData data
      0 SInt64 m_Id = 27347938259234816
-     1 string m_Localized = "<color=yellow>{label}</color> - Змінює ступінь впливу холоду на здоров’я та відновлення витривалости"
+     1 string m_Localized = "<color=yellow>{label}</color> — Змінює ступінь впливу холоду на здоров’я та відновлення витривалости"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1699,7 +1699,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 27347938284400640
-     1 string m_Localized = "<color=yellow>{label}</color> - Зменшує кількість їжі в контейнерах"
+     1 string m_Localized = "<color=yellow>{label}</color> — Зменшує кількість їжі в контейнерах"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1710,7 +1710,7 @@
    [73]
     0 TableEntryData data
      0 SInt64 m_Id = 27347938284400641
-     1 string m_Localized = "<color=yellow>{label}</color> - Чи можна розпакувати контейнери лише один раз"
+     1 string m_Localized = "<color=yellow>{label}</color> — Розпаковані контейнери не наповнюються знову"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1721,7 +1721,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 32721783019270144
-     1 string m_Localized = "<color=yellow>{label}</color> - Симуляція світу призупиняється при огляді спорядження"
+     1 string m_Localized = "<color=yellow>{label}</color> — Симуляція світу призупиняється при огляді спорядження"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1732,7 +1732,7 @@
    [75]
     0 TableEntryData data
      0 SInt64 m_Id = 38147362256318464
-     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає віртуальних гравців, при від’єднанні користувачів від сереверу"
+     1 string m_Localized = "<color=yellow>{label}</color> — Вмикає віртуальних гравців, при від’єднанні користувачів від сереверу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1743,7 +1743,7 @@
    [76]
     0 TableEntryData data
      0 SInt64 m_Id = 39968213256990720
-     1 string m_Localized = "<color=yellow>{label}</color> - Контролює, який обсяг снігу та мокріню сторюватиме система затінення"
+     1 string m_Localized = "<color=yellow>{label}</color> — Контролює, який обсяг снігу та мокріню сторюватиме система затінення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1754,7 +1754,7 @@
    [77]
     0 TableEntryData data
      0 SInt64 m_Id = 42894416276877312
-     1 string m_Localized = "<color=yellow>{label}</color> - Обмежує кількість набоїв, яку можна знайти у контейнерах​"
+     1 string m_Localized = "<color=yellow>{label}</color> — Обмежує кількість набоїв, яку можна знайти у контейнерах​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1765,7 +1765,7 @@
    [78]
     0 TableEntryData data
      0 SInt64 m_Id = 54097150455836672
-     1 string m_Localized = "<color=yellow>{label}</color> - Якщо увімкнено, то пастки гравця спрацьовуватимуть на них же (Пружина спрацьовуватиме завжди)"
+     1 string m_Localized = "<color=yellow>{label}</color> — Якщо увімкнено, то пастки гравця спрацьовуватимуть на них же (Пружина спрацьовуватиме завжди)"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1776,7 +1776,7 @@
    [79]
     0 TableEntryData data
      0 SInt64 m_Id = 54131990140022784
-     1 string m_Localized = "<color=yellow>{label}</color> - Керує швидкістю панорамування, нахилу та обертання знімача при огляді спорядження"
+     1 string m_Localized = "<color=yellow>{label}</color> — Керує швидкістю панорамування, нахилу та обертання знімача при огляді спорядження"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1787,7 +1787,7 @@
    [80]
     0 TableEntryData data
      0 SInt64 m_Id = 62880716753920000
-     1 string m_Localized = "<color=yellow>{label}</color> - Дозволяє або забороняє можливість використання читів, лише для багатоосібної гри​"
+     1 string m_Localized = "<color=yellow>{label}</color> — Дозволяє або забороняє можливість використання читів, лише для багатоосібної гри​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1798,7 +1798,7 @@
    [81]
     0 TableEntryData data
      0 SInt64 m_Id = 65206662645772288
-     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає субтитри"
+     1 string m_Localized = "<color=yellow>{label}</color> — Вмикає субтитри"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1809,7 +1809,7 @@
    [82]
     0 TableEntryData data
      0 SInt64 m_Id = 65838876380815360
-     1 string m_Localized = "<color=yellow>{label}</color> - Вмикає ефект зміщення на проточній воді"
+     1 string m_Localized = "<color=yellow>{label}</color> — Вмикає ефект зміщення на проточній воді"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1820,7 +1820,7 @@
    [83]
     0 TableEntryData data
      0 SInt64 m_Id = 71883735415840768
-     1 string m_Localized = "<color=yellow>{label}</color> - Налаштовує чутливість прицілювання далекобійної зброї по горизонталі"
+     1 string m_Localized = "<color=yellow>{label}</color> — Налаштовує чутливість прицілювання далекобійної зброї по горизонталі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1831,7 +1831,7 @@
    [84]
     0 TableEntryData data
      0 SInt64 m_Id = 71883735441006592
-     1 string m_Localized = "<color=yellow>{label}</color> - Налаштовує чутливість прицілювання далекобійної зброї по вертикалі"
+     1 string m_Localized = "<color=yellow>{label}</color> — Налаштовує чутливість прицілювання далекобійної зброї по вертикалі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1842,7 +1842,172 @@
    [85]
     0 TableEntryData data
      0 SInt64 m_Id = 96794434070212608
-     1 string m_Localized = "<color=yellow>{label}</color> - FidelityFx™ Super Resolution​"
+     1 string m_Localized = "<color=yellow>{label}</color> — FidelityFx™ Super Resolution​"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [86]
+    0 TableEntryData data
+     0 SInt64 m_Id = 101181704864886784
+     1 string m_Localized = "<color=yellow>{label}</color> — Voice proximity chat enables when pressing a button"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [87]
+    0 TableEntryData data
+     0 SInt64 m_Id = 105864780488470528
+     1 string m_Localized = "<color=yellow>{label}</color> — Construction animations will be skipped to allow for faster construction, unlocked with Creative Mode"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [88]
+    0 TableEntryData data
+     0 SInt64 m_Id = 105949015681363968
+     1 string m_Localized = "<color=yellow>{label}</color> — Enable player immortal mode"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [89]
+    0 TableEntryData data
+     0 SInt64 m_Id = 105949015706529792
+     1 string m_Localized = "<color=yellow>{label}</color> — Enable construction materials in inventory"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [90]
+    0 TableEntryData data
+     0 SInt64 m_Id = 105949015710724096
+     1 string m_Localized = "<color=yellow>{label}</color> — Construction items in hands are infinite"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [91]
+    0 TableEntryData data
+     0 SInt64 m_Id = 105949015710724097
+     1 string m_Localized = "<color=yellow>{label}</color> — Place everything your have in hands at once"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [92]
+    0 TableEntryData data
+     0 SInt64 m_Id = 105949015710724098
+     1 string m_Localized = "<color=yellow>{label}</color> — Disable cuttings spawning"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [93]
+    0 TableEntryData data
+     0 SInt64 m_Id = 105949015710724099
+     1 string m_Localized = "<color=yellow>{label}</color> — Skip the game intro"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [94]
+    0 TableEntryData data
+     0 SInt64 m_Id = 105949015710724100
+     1 string m_Localized = "<color=yellow>{label}</color> — Adds a construction starter kit"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [95]
+    0 TableEntryData data
+     0 SInt64 m_Id = 105955994562818048
+     1 string m_Localized = "<color=yellow>{label}</color> — If enabled, trees are cut with a single hit"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [96]
+    0 TableEntryData data
+     0 SInt64 m_Id = 111948337501794304
+     1 string m_Localized = "<color=yellow>{label}</color> — If enabled, activates creative construction mode"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [97]
+    0 TableEntryData data
+     0 SInt64 m_Id = 124758502273806336
+     1 string m_Localized = "<color=yellow>{label}</color> — Changes how much damage can be dealt to other players"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [98]
+    0 TableEntryData data
+     0 SInt64 m_Id = 124897310821314560
+     1 string m_Localized = "<color=yellow>{label}</color> - Adjust enemy search party frequency"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [99]
+    0 TableEntryData data
+     0 SInt64 m_Id = 125386514107297792
+     1 string m_Localized = "<color=yellow>{label}</color> - Adjust building resistance to enemy attacks"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
+   [100]
+    0 TableEntryData data
+     0 SInt64 m_Id = 126450359378735104
+     1 string m_Localized = "<color=yellow>{label}</color> - Terrain Texture Quality for surfaces that are parallel to camera"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)

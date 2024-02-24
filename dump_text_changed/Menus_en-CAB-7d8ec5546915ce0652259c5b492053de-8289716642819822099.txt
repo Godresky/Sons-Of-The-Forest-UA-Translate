@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (297 items)
-   0 int size = 297
+  0 Array Array (337 items)
+   0 int size = 337
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -769,7 +769,7 @@
    [93]
     0 TableEntryData data
      0 SInt64 m_Id = 84879475015544832
-     1 string m_Localized = "Багатоосібна гра - власник"
+     1 string m_Localized = "Багатоосібна гра — власник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1105,7 +1105,7 @@
    [135]
     0 TableEntryData data
      0 SInt64 m_Id = 106126901165084672
-     1 string m_Localized = "DEUTSCHE"
+     1 string m_Localized = "DEUTSCH"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1288,7 +1288,7 @@
    [156]
     0 TableEntryData data
      0 SInt64 m_Id = 110680059173838848
-     1 string m_Localized = "Багатоосібна - лобі"
+     1 string m_Localized = "Багатоосібна — лобі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1456,7 +1456,7 @@
    [177]
     0 TableEntryData data
      0 SInt64 m_Id = 111159180552966144
-     1 string m_Localized = "Багатоосібна - сервери"
+     1 string m_Localized = "Багатоосібна — сервери"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2032,7 +2032,7 @@
    [249]
     0 TableEntryData data
      0 SInt64 m_Id = 151375071188348928
-     1 string m_Localized = "Одноразові контейнери"
+     1 string m_Localized = "Контейнери не наповнюються знову"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2409,6 +2409,326 @@
     0 TableEntryData data
      0 SInt64 m_Id = 222933844778360832
      1 string m_Localized = "ВИПУСК ВЕРСІЇ 1.0 ЗА"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [297]
+    0 TableEntryData data
+     0 SInt64 m_Id = 225224534678925312
+     1 string m_Localized = "Proximity Voice Chat"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [298]
+    0 TableEntryData data
+     0 SInt64 m_Id = 225225563763994624
+     1 string m_Localized = "Voice Chat"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [299]
+    0 TableEntryData data
+     0 SInt64 m_Id = 225540610365157376
+     1 string m_Localized = "Push To Talk"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [300]
+    0 TableEntryData data
+     0 SInt64 m_Id = 225540716090978304
+     1 string m_Localized = "Always On"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [301]
+    0 TableEntryData data
+     0 SInt64 m_Id = 228821501438947328
+     1 string m_Localized = "Creative"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [302]
+    0 TableEntryData data
+     0 SInt64 m_Id = 229899694463873024
+     1 string m_Localized = "Skip construction animations"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [303]
+    0 TableEntryData data
+     0 SInt64 m_Id = 229992754803732480
+     1 string m_Localized = "God mode"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [304]
+    0 TableEntryData data
+     0 SInt64 m_Id = 229992754812121088
+     1 string m_Localized = "Construction Materials Inventory"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [305]
+    0 TableEntryData data
+     0 SInt64 m_Id = 229992754812121089
+     1 string m_Localized = "Infinite Construction"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [306]
+    0 TableEntryData data
+     0 SInt64 m_Id = 229992754812121090
+     1 string m_Localized = "Group placement"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [307]
+    0 TableEntryData data
+     0 SInt64 m_Id = 229992754812121091
+     1 string m_Localized = "No Cuttings Spawn"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [308]
+    0 TableEntryData data
+     0 SInt64 m_Id = 229992754812121092
+     1 string m_Localized = "Skip Intro"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [309]
+    0 TableEntryData data
+     0 SInt64 m_Id = 229992754812121093
+     1 string m_Localized = "Construction Starter Kit"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [310]
+    0 TableEntryData data
+     0 SInt64 m_Id = 229992754812121094
+     1 string m_Localized = "Instant tree chopping"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [311]
+    0 TableEntryData data
+     0 SInt64 m_Id = 229999962341863424
+     1 string m_Localized = "Without"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [312]
+    0 TableEntryData data
+     0 SInt64 m_Id = 229999999943798784
+     1 string m_Localized = "Default"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [313]
+    0 TableEntryData data
+     0 SInt64 m_Id = 230000013994717184
+     1 string m_Localized = "Creative"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [314]
+    0 TableEntryData data
+     0 SInt64 m_Id = 230215785476091904
+     1 string m_Localized = "Never"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [315]
+    0 TableEntryData data
+     0 SInt64 m_Id = 230215806233702400
+     1 string m_Localized = "Creative Only"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [316]
+    0 TableEntryData data
+     0 SInt64 m_Id = 230215829155573760
+     1 string m_Localized = "Always"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [317]
+    0 TableEntryData data
+     0 SInt64 m_Id = 230796605288538112
+     1 string m_Localized = "5 Months Later"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [318]
+    0 TableEntryData data
+     0 SInt64 m_Id = 235993002428690432
+     1 string m_Localized = "Creative Mode"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [319]
+    0 TableEntryData data
+     0 SInt64 m_Id = 237812130701471744
+     1 string m_Localized = "<i>Early access save detected!</i>\r\n\r\nYou can keep playing this save game, however:\r\n\n● Gold armor if owned has been removed from your inventory\r\n● The Gold door and all hell cave progress has been reset\r\n● The ending of the game if completed has been reset\r\n● All note pickup items have been removed from your inventory\r\n● Some parts of the terrain have been altered which may affect your base\r\n● Older structures may not have full functionality or access to the newest building features\n● To experience the full story and new cutscenes we recommend starting a new game"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [320]
+    0 TableEntryData data
+     0 SInt64 m_Id = 238993337434861568
+     1 string m_Localized = "Joining game server..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [321]
+    0 TableEntryData data
+     0 SInt64 m_Id = 240413950485557248
+     1 string m_Localized = "Starting game server..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [322]
+    0 TableEntryData data
+     0 SInt64 m_Id = 242632644611633152
+     1 string m_Localized = "Microphone Settings"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [323]
+    0 TableEntryData data
+     0 SInt64 m_Id = 242668621505851392
+     1 string m_Localized = "(unassigned)"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [324]
+    0 TableEntryData data
+     0 SInt64 m_Id = 243039056642797568
+     1 string m_Localized = "Activation Mode"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [325]
+    0 TableEntryData data
+     0 SInt64 m_Id = 247976230026833920
+     1 string m_Localized = "Corrupted saves cannot be overwritten. They can be deleted, or restored from the load menu."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [326]
+    0 TableEntryData data
+     0 SInt64 m_Id = 247976382871465984
+     1 string m_Localized = "This save is corrupted and cannot be restored."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [327]
+    0 TableEntryData data
+     0 SInt64 m_Id = 247977545226350592
+     1 string m_Localized = "This save is corrupted. Do you want to restore a previous backup?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [328]
+    0 TableEntryData data
+     0 SInt64 m_Id = 248039657885757440
+     1 string m_Localized = "Backup recovery failed."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [329]
+    0 TableEntryData data
+     0 SInt64 m_Id = 248039636624830464
+     1 string m_Localized = "A backup has been successfully restored."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [330]
+    0 TableEntryData data
+     0 SInt64 m_Id = 248389564651892736
+     1 string m_Localized = "FSR 3.0"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [331]
+    0 TableEntryData data
+     0 SInt64 m_Id = 248802095295983616
+     1 string m_Localized = "PvP Damage"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [332]
+    0 TableEntryData data
+     0 SInt64 m_Id = 248804350938148864
+     1 string m_Localized = "Reduced"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [333]
+    0 TableEntryData data
+     0 SInt64 m_Id = 248944502472437760
+     1 string m_Localized = "Enemy Search Parties"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [334]
+    0 TableEntryData data
+     0 SInt64 m_Id = 249430215594176512
+     1 string m_Localized = "Building Resistance"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [335]
+    0 TableEntryData data
+     0 SInt64 m_Id = 250493786503606272
+     1 string m_Localized = "Terrain Anisotropic Textures"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [336]
+    0 TableEntryData data
+     0 SInt64 m_Id = 252412147860860928
+     1 string m_Localized = "Previous"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
