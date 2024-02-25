@@ -4545,7 +4545,7 @@
    [565]
     0 TableEntryData data
      0 SInt64 m_Id = 24473251116216320
-     1 string m_Localized = "Платформа на дереві №1"
+     1 string m_Localized = "Плятформа на дереві №1"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4553,7 +4553,7 @@
    [566]
     0 TableEntryData data
      0 SInt64 m_Id = 24475384666386432
-     1 string m_Localized = "Платформа на дереві №2"
+     1 string m_Localized = "Плятформа на дереві №2"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6257,7 +6257,7 @@
    [779]
     0 TableEntryData data
      0 SInt64 m_Id = 147749456618975232
-     1 string m_Localized = "Натяжний Молотов"
+     1 string m_Localized = "Натяжний вогонь"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6273,7 +6273,7 @@
    [781]
     0 TableEntryData data
      0 SInt64 m_Id = 153248321430351872
-     1 string m_Localized = "Plater Counter"
+     1 string m_Localized = "Прилавок для пластини"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6281,7 +6281,7 @@
    [782]
     0 TableEntryData data
      0 SInt64 m_Id = 153248517832830976
-     1 string m_Localized = "Gold Armor Plater"
+     1 string m_Localized = "Золота броньована пластина"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6289,7 +6289,7 @@
    [783]
     0 TableEntryData data
      0 SInt64 m_Id = 153510876727996416
-     1 string m_Localized = "Platforms"
+     1 string m_Localized = "Помости"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6297,7 +6297,7 @@
    [784]
     0 TableEntryData data
      0 SInt64 m_Id = 153511047318728704
-     1 string m_Localized = "Small Platform"
+     1 string m_Localized = "Помісток"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6305,7 +6305,7 @@
    [785]
     0 TableEntryData data
      0 SInt64 m_Id = 153511165979783168
-     1 string m_Localized = "Medium Platform"
+     1 string m_Localized = "Поміст"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6377,7 +6377,7 @@
    [794]
     0 TableEntryData data
      0 SInt64 m_Id = 159691309689860096
-     1 string m_Localized = "Bible Page"
+     1 string m_Localized = "Сторінка Біблії"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6385,7 +6385,7 @@
    [795]
     0 TableEntryData data
      0 SInt64 m_Id = 159691361942499328
-     1 string m_Localized = "Bible Pages"
+     1 string m_Localized = "Сторінки Біблії"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6425,7 +6425,7 @@
    [800]
     0 TableEntryData data
      0 SInt64 m_Id = 161892736235466752
-     1 string m_Localized = "Give"
+     1 string m_Localized = "Узяти"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

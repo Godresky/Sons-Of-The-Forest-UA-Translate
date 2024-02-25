@@ -386,7 +386,7 @@
    [44]
     0 TableEntryData data
      0 SInt64 m_Id = 62635290367881216
-     1 string m_Localized = "Обслуговувальний бункер B"
+     1 string m_Localized = "Обслуговувальний бункер Б"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -394,7 +394,7 @@
    [45]
     0 TableEntryData data
      0 SInt64 m_Id = 62635497851711488
-     1 string m_Localized = "Обслуговувальний бункер C"
+     1 string m_Localized = "Обслуговувальний бункер В"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -418,7 +418,7 @@
    [48]
     0 TableEntryData data
      0 SInt64 m_Id = 102891939191156736
-     1 string m_Localized = "Кухарське посилення минуло: {0}​"
+     1 string m_Localized = "Посилення від їжі минуло: {0}​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -426,7 +426,7 @@
    [49]
     0 TableEntryData data
      0 SInt64 m_Id = 102895055550640128
-     1 string m_Localized = "Кухарське посилення діє: {0}​"
+     1 string m_Localized = "Посилення від їжі діє: {0}​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -450,7 +450,7 @@
    [52]
     0 TableEntryData data
      0 SInt64 m_Id = 146029349886750720
-     1 string m_Localized = "Zoom in the tracker by pressing"
+     1 string m_Localized = "Приблизьте мапу відстежувача, натиснувши"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -466,7 +466,7 @@
    [54]
     0 TableEntryData data
      0 SInt64 m_Id = 155408023912181760
-     1 string m_Localized = "Retrieve your backpack"
+     1 string m_Localized = "Поверніть свій наплечник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -474,7 +474,7 @@
    [55]
     0 TableEntryData data
      0 SInt64 m_Id = 155802403533746176
-     1 string m_Localized = "Battery used"
+     1 string m_Localized = "Використано батарейку"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -490,7 +490,7 @@
    [57]
     0 TableEntryData data
      0 SInt64 m_Id = 163092641197060096
-     1 string m_Localized = "<color={color}>Uncover what happened here</color>"
+     1 string m_Localized = "<color={color}>Викрийте, що тут сталося</color>"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -528,7 +528,7 @@
    [61]
     0 TableEntryData data
      0 SInt64 m_Id = 165970175010009088
-     1 string m_Localized = "Enemies are nearby. Not safe enough to sleep"
+     1 string m_Localized = "Небезпечно спати, адже вороги довкола"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -536,7 +536,7 @@
    [62]
     0 TableEntryData data
      0 SInt64 m_Id = 167442891563069440
-     1 string m_Localized = "Glider Dropped"
+     1 string m_Localized = "Плянер кинуто"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -544,7 +544,7 @@
    [63]
     0 TableEntryData data
      0 SInt64 m_Id = 167442946474897408
-     1 string m_Localized = "Glider Stashed"
+     1 string m_Localized = "Плянер заховано"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

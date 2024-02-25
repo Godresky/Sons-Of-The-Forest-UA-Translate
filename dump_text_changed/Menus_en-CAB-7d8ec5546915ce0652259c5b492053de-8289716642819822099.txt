@@ -473,7 +473,7 @@
    [56]
     0 TableEntryData data
      0 SInt64 m_Id = 84714584357543936
-     1 string m_Localized = "Введення"
+     1 string m_Localized = "Уведення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -553,7 +553,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 84867750178451456
-     1 string m_Localized = "Надвисок."
+     1 string m_Localized = "Надвисокі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -561,7 +561,7 @@
    [67]
     0 TableEntryData data
      0 SInt64 m_Id = 84867817589305344
-     1 string m_Localized = "Висок."
+     1 string m_Localized = "Високі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -569,7 +569,7 @@
    [68]
     0 TableEntryData data
      0 SInt64 m_Id = 84867850409734144
-     1 string m_Localized = "Серед."
+     1 string m_Localized = "Середні"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -577,7 +577,7 @@
    [69]
     0 TableEntryData data
      0 SInt64 m_Id = 84867899218849792
-     1 string m_Localized = "Низьк."
+     1 string m_Localized = "Низькі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -585,7 +585,7 @@
    [70]
     0 TableEntryData data
      0 SInt64 m_Id = 84867929208123392
-     1 string m_Localized = "Наднизьк."
+     1 string m_Localized = "Наднизькі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -593,7 +593,7 @@
    [71]
     0 TableEntryData data
      0 SInt64 m_Id = 84867968416477184
-     1 string m_Localized = "Користувацьк."
+     1 string m_Localized = "Користувацькі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -601,7 +601,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 84873081612791808
-     1 string m_Localized = "Збалансован."
+     1 string m_Localized = "Збалансовані"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -617,7 +617,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 84873449134485504
-     1 string m_Localized = "Звичайн."
+     1 string m_Localized = "Звичайні"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -729,7 +729,7 @@
    [88]
     0 TableEntryData data
      0 SInt64 m_Id = 84878886919598080
-     1 string m_Localized = "Важк."
+     1 string m_Localized = "Важкий"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -737,7 +737,7 @@
    [89]
     0 TableEntryData data
      0 SInt64 m_Id = 84878949536362496
-     1 string m_Localized = "Мирн."
+     1 string m_Localized = "Мирний"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -745,7 +745,7 @@
    [90]
     0 TableEntryData data
      0 SInt64 m_Id = 84879017513447424
-     1 string m_Localized = "Звичайн."
+     1 string m_Localized = "Звичайний"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2184,7 +2184,7 @@
    [268]
     0 TableEntryData data
      0 SInt64 m_Id = 162138894232285184
-     1 string m_Localized = "Введений вами пароль не правильний.​"
+     1 string m_Localized = "Уведений вами пароль не правильний.​"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2272,7 +2272,7 @@
    [279]
     0 TableEntryData data
      0 SInt64 m_Id = 175564792641974272
-     1 string m_Localized = "Введіть IP-адресу та ігровий порт сервера, до якого ви хочете приєднатися."
+     1 string m_Localized = "Уведіть IP-адресу та ігровий порт сервера, до якого ви хочете приєднатися."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2448,7 +2448,7 @@
    [301]
     0 TableEntryData data
      0 SInt64 m_Id = 228821501438947328
-     1 string m_Localized = "Creative"
+     1 string m_Localized = "Творчий"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2464,7 +2464,7 @@
    [303]
     0 TableEntryData data
      0 SInt64 m_Id = 229992754803732480
-     1 string m_Localized = "God mode"
+     1 string m_Localized = "Режим бога"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2504,7 +2504,7 @@
    [308]
     0 TableEntryData data
      0 SInt64 m_Id = 229992754812121092
-     1 string m_Localized = "Skip Intro"
+     1 string m_Localized = "Пропустити вступ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2576,7 +2576,7 @@
    [317]
     0 TableEntryData data
      0 SInt64 m_Id = 230796605288538112
-     1 string m_Localized = "5 Months Later"
+     1 string m_Localized = "5 місяців по тому"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2592,7 +2592,7 @@
    [319]
     0 TableEntryData data
      0 SInt64 m_Id = 237812130701471744
-     1 string m_Localized = "<i>Early access save detected!</i>\r\n\r\nYou can keep playing this save game, however:\r\n\n● Gold armor if owned has been removed from your inventory\r\n● The Gold door and all hell cave progress has been reset\r\n● The ending of the game if completed has been reset\r\n● All note pickup items have been removed from your inventory\r\n● Some parts of the terrain have been altered which may affect your base\r\n● Older structures may not have full functionality or access to the newest building features\n● To experience the full story and new cutscenes we recommend starting a new game"
+     1 string m_Localized = "<i>Виявлено збереження раннього доступу!</i>\r\n\r\nYou can keep playing this save game, however:\r\n\n● Gold armor if owned has been removed from your inventory\r\n● The Gold door and all hell cave progress has been reset\r\n● The ending of the game if completed has been reset\r\n● All note pickup items have been removed from your inventory\r\n● Some parts of the terrain have been altered which may affect your base\r\n● Older structures may not have full functionality or access to the newest building features\n● To experience the full story and new cutscenes we recommend starting a new game"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2600,7 +2600,7 @@
    [320]
     0 TableEntryData data
      0 SInt64 m_Id = 238993337434861568
-     1 string m_Localized = "Joining game server..."
+     1 string m_Localized = "Приєднання до серверу..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
