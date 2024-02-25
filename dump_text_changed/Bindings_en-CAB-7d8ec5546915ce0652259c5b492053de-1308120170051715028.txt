@@ -404,7 +404,6 @@
    [47]
     0 TableEntryData data
      0 SInt64 m_Id = 119614735745118208
-     1 string m_Localized = "Push To Talk"
      1 string m_Localized = "Мовлення кнопкою"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items

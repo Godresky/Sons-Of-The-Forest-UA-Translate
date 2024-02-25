@@ -6225,7 +6225,7 @@
    [775]
     0 TableEntryData data
      0 SInt64 m_Id = 146256734670286848
-     1 string m_Localized = "Repel Shrine"
+     1 string m_Localized = "Лячна святиня"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6233,7 +6233,7 @@
    [776]
     0 TableEntryData data
      0 SInt64 m_Id = 146256807944777728
-     1 string m_Localized = "Attract Shrine"
+     1 string m_Localized = "Манлива святиня"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6241,7 +6241,7 @@
    [777]
     0 TableEntryData data
      0 SInt64 m_Id = 147732929760980992
-     1 string m_Localized = "Couch"
+     1 string m_Localized = "Диван"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6249,7 +6249,7 @@
    [778]
     0 TableEntryData data
      0 SInt64 m_Id = 147749393763135488
-     1 string m_Localized = "Explosive Tripwire"
+     1 string m_Localized = "Натяжна вибухівка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6257,7 +6257,7 @@
    [779]
     0 TableEntryData data
      0 SInt64 m_Id = 147749456618975232
-     1 string m_Localized = "Molotov Tripwire"
+     1 string m_Localized = "Натяжний Молотов"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6265,7 +6265,7 @@
    [780]
     0 TableEntryData data
      0 SInt64 m_Id = 148085341822644224
-     1 string m_Localized = "Chair"
+     1 string m_Localized = "Крісло"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6313,7 +6313,7 @@
    [786]
     0 TableEntryData data
      0 SInt64 m_Id = 156348712434364416
-     1 string m_Localized = "Large Log Cabin"
+     1 string m_Localized = "Брусова хата"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6321,7 +6321,7 @@
    [787]
     0 TableEntryData data
      0 SInt64 m_Id = 156353211110617088
-     1 string m_Localized = "Large Log Cabins"
+     1 string m_Localized = "Брусові хати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6329,7 +6329,7 @@
    [788]
     0 TableEntryData data
      0 SInt64 m_Id = 156353347979145216
-     1 string m_Localized = "Medium Log Cabins"
+     1 string m_Localized = "Брусові хатки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6337,7 +6337,7 @@
    [789]
     0 TableEntryData data
      0 SInt64 m_Id = 158306925845934080
-     1 string m_Localized = "Activate"
+     1 string m_Localized = "Активувати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6345,7 +6345,7 @@
    [790]
     0 TableEntryData data
      0 SInt64 m_Id = 158307145057038336
-     1 string m_Localized = "Deactivate"
+     1 string m_Localized = "Деактивувати"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6353,7 +6353,7 @@
    [791]
     0 TableEntryData data
      0 SInt64 m_Id = 158313036414185472
-     1 string m_Localized = "Toggle Mode"
+     1 string m_Localized = "Перемкнути режим"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6361,7 +6361,7 @@
    [792]
     0 TableEntryData data
      0 SInt64 m_Id = 158335319396577280
-     1 string m_Localized = "Raccoon Head"
+     1 string m_Localized = "Голова янота"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6369,7 +6369,7 @@
    [793]
     0 TableEntryData data
      0 SInt64 m_Id = 158335329588736000
-     1 string m_Localized = "Raccoon Heads"
+     1 string m_Localized = "Голови янотів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6393,7 +6393,7 @@
    [796]
     0 TableEntryData data
      0 SInt64 m_Id = 160491723314163712
-     1 string m_Localized = "Twinberry Seed"
+     1 string m_Localized = "Насіння жимолости"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6401,7 +6401,7 @@
    [797]
     0 TableEntryData data
      0 SInt64 m_Id = 160491750019297280
-     1 string m_Localized = "Twinberry Seeds"
+     1 string m_Localized = "Насіння жимолости"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6409,7 +6409,7 @@
    [798]
     0 TableEntryData data
      0 SInt64 m_Id = 160491875114414080
-     1 string m_Localized = "Snowberry Seed"
+     1 string m_Localized = "Насіння білоягідників"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6417,7 +6417,7 @@
    [799]
     0 TableEntryData data
      0 SInt64 m_Id = 160491884597735424
-     1 string m_Localized = "Snowberry Seeds"
+     1 string m_Localized = "Насіння білоягідників"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6433,7 +6433,7 @@
    [801]
     0 TableEntryData data
      0 SInt64 m_Id = 164117586496712704
-     1 string m_Localized = "Foldable Glider Launcher"
+     1 string m_Localized = "Запускач плянера"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6441,7 +6441,7 @@
    [802]
     0 TableEntryData data
      0 SInt64 m_Id = 167009685357457408
-     1 string m_Localized = "Foldable Glider"
+     1 string m_Localized = "Складений плянер"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6449,7 +6449,7 @@
    [803]
     0 TableEntryData data
      0 SInt64 m_Id = 167009726470025216
-     1 string m_Localized = "Foldable Gliders"
+     1 string m_Localized = "Складені плянери"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6457,7 +6457,7 @@
    [804]
     0 TableEntryData data
      0 SInt64 m_Id = 168002985119969280
-     1 string m_Localized = "Leaf Trap"
+     1 string m_Localized = "Листяна пастка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6465,7 +6465,7 @@
    [805]
     0 TableEntryData data
      0 SInt64 m_Id = 168084228305416192
-     1 string m_Localized = "Blueprint"
+     1 string m_Localized = "Креслення"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6473,7 +6473,7 @@
    [806]
     0 TableEntryData data
      0 SInt64 m_Id = 169464590407397376
-     1 string m_Localized = "Note"
+     1 string m_Localized = "Записка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6489,7 +6489,7 @@
    [808]
     0 TableEntryData data
      0 SInt64 m_Id = 169864635498364928
-     1 string m_Localized = "Explosives Holder"
+     1 string m_Localized = "Сховище вибухівки"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
