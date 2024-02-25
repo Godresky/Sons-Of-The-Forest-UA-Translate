@@ -166,7 +166,7 @@
    [18]
     0 TableEntryData data
      0 SInt64 m_Id = 14145486135315
-     1 string m_Localized = "Повітряний бак"
+     1 string m_Localized = "Кисневий балон"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -174,7 +174,7 @@
    [19]
     0 TableEntryData data
      0 SInt64 m_Id = 14145486135316
-     1 string m_Localized = "Повітряні баки"
+     1 string m_Localized = "Кисневі балони"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -182,7 +182,7 @@
    [20]
     0 TableEntryData data
      0 SInt64 m_Id = 14145486135318
-     1 string m_Localized = "Пневматик"
+     1 string m_Localized = "Пневматика"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3238,7 +3238,7 @@
    [402]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884053
-     1 string m_Localized = "Дробовик"
+     1 string m_Localized = "Рушниця"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3246,7 +3246,7 @@
    [403]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884054
-     1 string m_Localized = "Дробовики"
+     1 string m_Localized = "Рушниці"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3254,7 +3254,7 @@
    [404]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884056
-     1 string m_Localized = "Рейка Пікатінні для дробовика"
+     1 string m_Localized = "Рейка Пікатінні для рушниці"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -3262,7 +3262,7 @@
    [405]
     0 TableEntryData data
      0 SInt64 m_Id = 14145523884057
-     1 string m_Localized = "Рейки Пікатінні для дробовика"
+     1 string m_Localized = "Рейки Пікатінні для рушниці"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4729,7 +4729,7 @@
    [588]
     0 TableEntryData data
      0 SInt64 m_Id = 32471455334133760
-     1 string m_Localized = "Полиця"
+     1 string m_Localized = "Шафа"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4793,7 +4793,7 @@
    [596]
     0 TableEntryData data
      0 SInt64 m_Id = 35129427579367424
-     1 string m_Localized = "Полиця"
+     1 string m_Localized = "Шафа"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4849,7 +4849,7 @@
    [603]
     0 TableEntryData data
      0 SInt64 m_Id = 37249377283670016
-     1 string m_Localized = "Черепосвітильник на стелю"
+     1 string m_Localized = "Черепна лямпа на стелю"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4857,7 +4857,7 @@
    [604]
     0 TableEntryData data
      0 SInt64 m_Id = 37249982404296704
-     1 string m_Localized = "Настінна полиця"
+     1 string m_Localized = "Поличка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4865,7 +4865,7 @@
    [605]
     0 TableEntryData data
      0 SInt64 m_Id = 37251454600806400
-     1 string m_Localized = "Черепосвітильник"
+     1 string m_Localized = "Черепна лямпа"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4905,7 +4905,7 @@
    [610]
     0 TableEntryData data
      0 SInt64 m_Id = 48810472522641408
-     1 string m_Localized = "Книжка «Потойбічне царство»"
+     1 string m_Localized = "«Потойбічне царство»"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6169,7 +6169,7 @@
    [768]
     0 TableEntryData data
      0 SInt64 m_Id = 137610337564631040
-     1 string m_Localized = "Настінна стійка для зброї"
+     1 string m_Localized = "Поличка для зброї"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6497,14 +6497,13 @@
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
-   1 Array Array (1 items)
+   1 Array Array
     0 int size = 1
-    [0]
-     0 ReferencedObject data
-      0 SInt64 rid = 5190689984102268932
-      0 ReferencedManagedType type
-       1 string class = "Comment"
-       1 string ns = "UnityEngine.Localization.Metadata"
-       1 string asm = "Unity.Localization"
-      0 Comment Base
-       1 string m_CommentText = "Стріли, надруковані на 3D-принтері"
+    0 ReferencedObject data
+     0 SInt64 rid = 5190689984102268932
+     0 ReferencedManagedType type
+      1 string class = "Comment"
+      1 string ns = "UnityEngine.Localization.Metadata"
+      1 string asm = "Unity.Localization"
+     0 ReferencedObjectData data
+      1 string m_CommentText = "Стріли, надруковані на 3D-принтері"

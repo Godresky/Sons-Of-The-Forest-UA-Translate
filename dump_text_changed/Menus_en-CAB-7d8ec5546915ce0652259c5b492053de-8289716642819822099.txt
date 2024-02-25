@@ -241,7 +241,7 @@
    [27]
     0 TableEntryData data
      0 SInt64 m_Id = 84711201487790080
-     1 string m_Localized = "Відображення поверхнень"
+     1 string m_Localized = "Відображення поверхонь"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -553,7 +553,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 84867750178451456
-     1 string m_Localized = "Надвисокі"
+     1 string m_Localized = "Надвисока"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -561,7 +561,7 @@
    [67]
     0 TableEntryData data
      0 SInt64 m_Id = 84867817589305344
-     1 string m_Localized = "Високі"
+     1 string m_Localized = "Висока"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -569,7 +569,7 @@
    [68]
     0 TableEntryData data
      0 SInt64 m_Id = 84867850409734144
-     1 string m_Localized = "Середні"
+     1 string m_Localized = "Середня"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -577,7 +577,7 @@
    [69]
     0 TableEntryData data
      0 SInt64 m_Id = 84867899218849792
-     1 string m_Localized = "Низькі"
+     1 string m_Localized = "Низька"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -585,7 +585,7 @@
    [70]
     0 TableEntryData data
      0 SInt64 m_Id = 84867929208123392
-     1 string m_Localized = "Наднизькі"
+     1 string m_Localized = "Наднизька"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -593,7 +593,7 @@
    [71]
     0 TableEntryData data
      0 SInt64 m_Id = 84867968416477184
-     1 string m_Localized = "Користувацькі"
+     1 string m_Localized = "Користувацька"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -601,7 +601,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 84873081612791808
-     1 string m_Localized = "Збалансовані"
+     1 string m_Localized = "Збалансовано"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -617,7 +617,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 84873449134485504
-     1 string m_Localized = "Звичайні"
+     1 string m_Localized = "Звичайна"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -729,7 +729,7 @@
    [88]
     0 TableEntryData data
      0 SInt64 m_Id = 84878886919598080
-     1 string m_Localized = "Важкий"
+     1 string m_Localized = "Важка"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -737,7 +737,7 @@
    [89]
     0 TableEntryData data
      0 SInt64 m_Id = 84878949536362496
-     1 string m_Localized = "Мирний"
+     1 string m_Localized = "Мирна"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -745,7 +745,7 @@
    [90]
     0 TableEntryData data
      0 SInt64 m_Id = 84879017513447424
-     1 string m_Localized = "Звичайний"
+     1 string m_Localized = "Звичайна"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -841,7 +841,7 @@
    [102]
     0 TableEntryData data
      0 SInt64 m_Id = 89888093920632832
-     1 string m_Localized = "Теселяція поверхні"
+     1 string m_Localized = "Теселяція місцевости"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1680,7 +1680,7 @@
    [205]
     0 TableEntryData data
      0 SInt64 m_Id = 115687938213113856
-     1 string m_Localized = "Підключено до серверів Стим"
+     1 string m_Localized = "Підключено до серверів Steam"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1688,7 +1688,7 @@
    [206]
     0 TableEntryData data
      0 SInt64 m_Id = 115688049529942016
-     1 string m_Localized = "Відключено від серверів Стим"
+     1 string m_Localized = "Відключено від серверів Steam"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2000,7 +2000,7 @@
    [245]
     0 TableEntryData data
      0 SInt64 m_Id = 141482444728397824
-     1 string m_Localized = "Назва збереження гри"
+     1 string m_Localized = "Назва збереження"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2416,7 +2416,7 @@
    [297]
     0 TableEntryData data
      0 SInt64 m_Id = 225224534678925312
-     1 string m_Localized = "Proximity Voice Chat"
+     1 string m_Localized = "Спілкування зблизька"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2424,7 +2424,7 @@
    [298]
     0 TableEntryData data
      0 SInt64 m_Id = 225225563763994624
-     1 string m_Localized = "Voice Chat"
+     1 string m_Localized = "Голосовий зв’язок"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2432,7 +2432,7 @@
    [299]
     0 TableEntryData data
      0 SInt64 m_Id = 225540610365157376
-     1 string m_Localized = "Push To Talk"
+     1 string m_Localized = "Мовлення кнопкою"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2440,7 +2440,7 @@
    [300]
     0 TableEntryData data
      0 SInt64 m_Id = 225540716090978304
-     1 string m_Localized = "Always On"
+     1 string m_Localized = "Завжди увімкнено"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2448,7 +2448,7 @@
    [301]
     0 TableEntryData data
      0 SInt64 m_Id = 228821501438947328
-     1 string m_Localized = "Творчий"
+     1 string m_Localized = "Творча"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2584,7 +2584,7 @@
    [318]
     0 TableEntryData data
      0 SInt64 m_Id = 235993002428690432
-     1 string m_Localized = "Creative Mode"
+     1 string m_Localized = "Творча гра"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2608,7 +2608,7 @@
    [321]
     0 TableEntryData data
      0 SInt64 m_Id = 240413950485557248
-     1 string m_Localized = "Starting game server..."
+     1 string m_Localized = "Запуск серверу..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2616,7 +2616,7 @@
    [322]
     0 TableEntryData data
      0 SInt64 m_Id = 242632644611633152
-     1 string m_Localized = "Microphone Settings"
+     1 string m_Localized = "Налаштування мікрофону"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2624,7 +2624,7 @@
    [323]
     0 TableEntryData data
      0 SInt64 m_Id = 242668621505851392
-     1 string m_Localized = "(unassigned)"
+     1 string m_Localized = "(не призначено)"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2632,7 +2632,7 @@
    [324]
     0 TableEntryData data
      0 SInt64 m_Id = 243039056642797568
-     1 string m_Localized = "Activation Mode"
+     1 string m_Localized = "Режим активації"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2688,7 +2688,7 @@
    [331]
     0 TableEntryData data
      0 SInt64 m_Id = 248802095295983616
-     1 string m_Localized = "PvP Damage"
+     1 string m_Localized = "Шкода від гравців"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2704,7 +2704,7 @@
    [333]
     0 TableEntryData data
      0 SInt64 m_Id = 248944502472437760
-     1 string m_Localized = "Enemy Search Parties"
+     1 string m_Localized = "Ворожі пошукові загони"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2712,7 +2712,7 @@
    [334]
     0 TableEntryData data
      0 SInt64 m_Id = 249430215594176512
-     1 string m_Localized = "Building Resistance"
+     1 string m_Localized = "Міцність будівель"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2720,7 +2720,7 @@
    [335]
     0 TableEntryData data
      0 SInt64 m_Id = 250493786503606272
-     1 string m_Localized = "Terrain Anisotropic Textures"
+     1 string m_Localized = "Анізотропні текстури місцевости"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2728,7 +2728,7 @@
    [336]
     0 TableEntryData data
      0 SInt64 m_Id = 252412147860860928
-     1 string m_Localized = "Previous"
+     1 string m_Localized = "Попереднє"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2736,26 +2736,25 @@
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
-   1 Array Array (1 items)
+   1 Array Array
     0 int size = 1
-    [0]
-     0 ReferencedObject data
-      0 SInt64 rid = 5369144262577356825
-      0 ReferencedManagedType type
-       1 string class = "SmartFormatTag"
-       1 string ns = "UnityEngine.Localization.Metadata"
-       1 string asm = "Unity.Localization"
-      0 SmartFormatTag Base
-       0 vector m_Entries
-        1 Array Array (5 items)
-         0 int size = 5
-         [0]
-          0 SInt64 data = 106737045502074880
-         [1]
-          0 SInt64 data = 106737105161854976
-         [2]
-          0 SInt64 data = 108100172005154816
-         [3]
-          0 SInt64 data = 108100768057696256
-         [4]
-          0 SInt64 data = 108100771559940096
+    0 ReferencedObject data
+     0 SInt64 rid = 5369144262577356825
+     0 ReferencedManagedType type
+      1 string class = "SmartFormatTag"
+      1 string ns = "UnityEngine.Localization.Metadata"
+      1 string asm = "Unity.Localization"
+     0 ReferencedObjectData data
+      0 vector m_Entries
+       1 Array Array (5 items)
+        0 int size = 5
+        [0]
+         0 SInt64 data = 106737045502074880
+        [1]
+         0 SInt64 data = 106737105161854976
+        [2]
+         0 SInt64 data = 108100172005154816
+        [3]
+         0 SInt64 data = 108100768057696256
+        [4]
+         0 SInt64 data = 108100771559940096

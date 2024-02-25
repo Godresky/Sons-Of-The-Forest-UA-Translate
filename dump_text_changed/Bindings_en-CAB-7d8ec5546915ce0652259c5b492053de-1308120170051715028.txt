@@ -436,18 +436,17 @@
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
-   1 Array Array (1 items)
+   1 Array Array
     0 int size = 1
-    [0]
-     0 ReferencedObject data
-      0 SInt64 rid = 4339743358442274822
-      0 ReferencedManagedType type
-       1 string class = "SmartFormatTag"
-       1 string ns = "UnityEngine.Localization.Metadata"
-       1 string asm = "Unity.Localization"
-      0 SmartFormatTag Base
-       0 vector m_Entries
-        1 Array Array (1 items)
-         0 int size = 1
-         [0]
-          0 SInt64 data = 18148705387245568
+    0 ReferencedObject data
+     0 SInt64 rid = 4339743358442274822
+     0 ReferencedManagedType type
+      1 string class = "SmartFormatTag"
+      1 string ns = "UnityEngine.Localization.Metadata"
+      1 string asm = "Unity.Localization"
+     0 ReferencedObjectData data
+      0 vector m_Entries
+       1 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 SInt64 data = 18148705387245568

@@ -134,7 +134,7 @@
    [14]
     0 TableEntryData data
      0 SInt64 m_Id = 132477901172736
-     1 string m_Localized = "Цей матеріял має унікальні омолоджувальні властивості."
+     1 string m_Localized = "Він має унікальні омолоджувальні властивості."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -166,7 +166,7 @@
    [18]
     0 TableEntryData data
      0 SInt64 m_Id = 133294423109632
-     1 string m_Localized = "і очікуємо, що коли він спрацює, то властивості солафіту, які дарують молодість, посиляться."
+     1 string m_Localized = "і очікуємо, що коли він спрацює, то властивості солафіту, що дарують молодість, посиляться."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -454,7 +454,7 @@
    [54]
     0 TableEntryData data
      0 SInt64 m_Id = 48261904895668224
-     1 string m_Localized = "Now, who invited you here?"
+     1 string m_Localized = "І хто вас сюди покликав?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -670,5 +670,5 @@
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
-   1 Array Array (0 items)
+   1 Array Array
     0 int size = 0

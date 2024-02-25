@@ -41,7 +41,7 @@
    [2]
     0 TableEntryData data
      0 SInt64 m_Id = 700116180992
-     1 string m_Localized = "Увімкніть світло, натиснувши"
+     1 string m_Localized = "Запаліть світло, натиснувши"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -450,7 +450,7 @@
    [52]
     0 TableEntryData data
      0 SInt64 m_Id = 146029349886750720
-     1 string m_Localized = "Приблизьте мапу відстежувача, натиснувши"
+     1 string m_Localized = "Приблизьте мапу GPS-відстежувача, натиснувши"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -458,7 +458,7 @@
    [53]
     0 TableEntryData data
      0 SInt64 m_Id = 146636476853874688
-     1 string m_Localized = "New mode unlocked. You can now create a Creative game from the title screen."
+     1 string m_Localized = "Новий режим розблоковано. Ви можете почати творчу гру через головне меню."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -466,7 +466,7 @@
    [54]
     0 TableEntryData data
      0 SInt64 m_Id = 155408023912181760
-     1 string m_Localized = "Поверніть свій наплечник"
+     1 string m_Localized = "Заберіть свій наплечник"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -482,7 +482,7 @@
    [56]
     0 TableEntryData data
      0 SInt64 m_Id = 155802529593552896
-     1 string m_Localized = "Air canister used"
+     1 string m_Localized = "Використано кисневий балон"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -501,7 +501,7 @@
    [58]
     0 TableEntryData data
      0 SInt64 m_Id = 163107254919753728
-     1 string m_Localized = "Build storage to store items"
+     1 string m_Localized = "Збудуйте сховище, щоби зберігати речі"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -509,7 +509,7 @@
    [59]
     0 TableEntryData data
      0 SInt64 m_Id = 164123199217856512
-     1 string m_Localized = "Video recording already found"
+     1 string m_Localized = "Відеозапис було вже знайдено"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -517,7 +517,7 @@
    [60]
     0 TableEntryData data
      0 SInt64 m_Id = 164218537723293696
-     1 string m_Localized = "Players waiting for you to sleep {playersWaiting}/{totalPlayers}"
+     1 string m_Localized = "Гравців, що чекають, коли ви заснете: {playersWaiting}/{totalPlayers}"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -528,7 +528,7 @@
    [61]
     0 TableEntryData data
      0 SInt64 m_Id = 165970175010009088
-     1 string m_Localized = "Небезпечно спати, адже вороги довкола"
+     1 string m_Localized = "Небезпечно спати, адже вороги близько"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -552,7 +552,7 @@
    [64]
     0 TableEntryData data
      0 SInt64 m_Id = 169558824431644672
-     1 string m_Localized = "Use the rope launcher to ride ziplines and also place your own"
+     1 string m_Localized = "Використайте мотузкостріл, щоби рухатися зиплайном або розмістити свій"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -560,5 +560,25 @@
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
-   1 Array Array (0 items)
-    0 int size = 0
+   1 Array Array
+    0 int size = 1
+    0 ReferencedObject data
+     0 SInt64 rid = 2818288607421267971
+     0 ReferencedManagedType type
+      1 string class = "SmartFormatTag"
+      1 string ns = "UnityEngine.Localization.Metadata"
+      1 string asm = "Unity.Localization"
+     0 ReferencedObjectData data
+      0 vector m_Entries
+       1 Array Array (5 items)
+        0 int size = 5
+        [0]
+         0 SInt64 data = 950369329152
+        [1]
+         0 SInt64 data = 44507741146312704
+        [2]
+         0 SInt64 data = 44508690464108544
+        [3]
+         0 SInt64 data = 163092641197060096
+        [4]
+         0 SInt64 data = 164218537723293696

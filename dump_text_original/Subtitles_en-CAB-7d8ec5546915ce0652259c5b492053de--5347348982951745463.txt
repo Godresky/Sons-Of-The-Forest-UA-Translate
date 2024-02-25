@@ -670,5 +670,5 @@
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
-   1 Array Array (0 items)
+   1 Array Array
     0 int size = 0

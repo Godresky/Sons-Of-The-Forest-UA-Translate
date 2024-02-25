@@ -30,7 +30,7 @@
    [1]
     0 TableEntryData data
      0 SInt64 m_Id = 414086688768
-     1 string m_Localized = "Сильніші вороги, суворіше виживання"
+     1 string m_Localized = "Сильніші вороги, безжальне виживання"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -70,5 +70,5 @@
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
-   1 Array Array (0 items)
+   1 Array Array
     0 int size = 0
