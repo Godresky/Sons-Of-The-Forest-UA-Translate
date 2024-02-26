@@ -2456,7 +2456,7 @@
    [302]
     0 TableEntryData data
      0 SInt64 m_Id = 229899694463873024
-     1 string m_Localized = "Skip construction animations"
+     1 string m_Localized = "Пропустити анімацію спорудження"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2528,7 +2528,7 @@
    [311]
     0 TableEntryData data
      0 SInt64 m_Id = 229999962341863424
-     1 string m_Localized = "Without"
+     1 string m_Localized = "Без"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2536,7 +2536,7 @@
    [312]
     0 TableEntryData data
      0 SInt64 m_Id = 229999999943798784
-     1 string m_Localized = "Default"
+     1 string m_Localized = "Типово"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2544,7 +2544,7 @@
    [313]
     0 TableEntryData data
      0 SInt64 m_Id = 230000013994717184
-     1 string m_Localized = "Creative"
+     1 string m_Localized = "Творча"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2552,7 +2552,7 @@
    [314]
     0 TableEntryData data
      0 SInt64 m_Id = 230215785476091904
-     1 string m_Localized = "Never"
+     1 string m_Localized = "Ніколи"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2560,7 +2560,7 @@
    [315]
     0 TableEntryData data
      0 SInt64 m_Id = 230215806233702400
-     1 string m_Localized = "Creative Only"
+     1 string m_Localized = "Лише творча"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2568,7 +2568,7 @@
    [316]
     0 TableEntryData data
      0 SInt64 m_Id = 230215829155573760
-     1 string m_Localized = "Always"
+     1 string m_Localized = "Завжди"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2592,7 +2592,7 @@
    [319]
     0 TableEntryData data
      0 SInt64 m_Id = 237812130701471744
-     1 string m_Localized = "<i>Виявлено збереження раннього доступу!</i>\r\n\r\nYou can keep playing this save game, however:\r\n\n● Gold armor if owned has been removed from your inventory\r\n● The Gold door and all hell cave progress has been reset\r\n● The ending of the game if completed has been reset\r\n● All note pickup items have been removed from your inventory\r\n● Some parts of the terrain have been altered which may affect your base\r\n● Older structures may not have full functionality or access to the newest building features\n● To experience the full story and new cutscenes we recommend starting a new game"
+     1 string m_Localized = "<i>Виявлено збереження раннього доступу!</i>\r\n\r\nВи можете продовжити гру із цим збереженням, однак:\r\n\n● Якщо ви мали золоті обладунки, то вони будуть прибрані зі спорядження\r\n● Було скинуто поступ пекельної печери та золотих дверей\r\n● Якщо ви завершили гру, це було скинуто\r\n● Усі підібрані записки було прибрано зі спорядження\r\n● Деякі частини місцевости було змінено, що могло вплинути на вашу базу\r\n● Старі споруди можуть не мати увесь функціонал або доступ до новіших механік\n● Щоби насолодитися всією історією або новими відео-вставками, ми радимо почати нову гру"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2640,7 +2640,7 @@
    [325]
     0 TableEntryData data
      0 SInt64 m_Id = 247976230026833920
-     1 string m_Localized = "Corrupted saves cannot be overwritten. They can be deleted, or restored from the load menu."
+     1 string m_Localized = "Пошкоджене збереження неможливо перезаписати. Його можна видалити або відновити в меню завантаження."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2648,7 +2648,7 @@
    [326]
     0 TableEntryData data
      0 SInt64 m_Id = 247976382871465984
-     1 string m_Localized = "This save is corrupted and cannot be restored."
+     1 string m_Localized = "Це збереження було пошкоджено і його неможливо відновити."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2656,7 +2656,7 @@
    [327]
     0 TableEntryData data
      0 SInt64 m_Id = 247977545226350592
-     1 string m_Localized = "This save is corrupted. Do you want to restore a previous backup?"
+     1 string m_Localized = "Це збереження було пошкоджено. Ви бажаєте відновити старішу резервну копію?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2664,7 +2664,7 @@
    [328]
     0 TableEntryData data
      0 SInt64 m_Id = 248039657885757440
-     1 string m_Localized = "Backup recovery failed."
+     1 string m_Localized = "Відновлення резервної копії провалено."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2672,7 +2672,7 @@
    [329]
     0 TableEntryData data
      0 SInt64 m_Id = 248039636624830464
-     1 string m_Localized = "A backup has been successfully restored."
+     1 string m_Localized = "Резервну копію було успішно відновлено."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2696,7 +2696,7 @@
    [332]
     0 TableEntryData data
      0 SInt64 m_Id = 248804350938148864
-     1 string m_Localized = "Reduced"
+     1 string m_Localized = "Знижено"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
