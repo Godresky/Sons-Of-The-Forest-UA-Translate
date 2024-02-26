@@ -2040,7 +2040,7 @@
    [250]
     0 TableEntryData data
      0 SInt64 m_Id = 151375415473598464
-     1 string m_Localized = "Зменшено кількість їжі в контейнерах"
+     1 string m_Localized = "Менша кількість їжі в контейнерах"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2048,7 +2048,7 @@
    [251]
     0 TableEntryData data
      0 SInt64 m_Id = 151391559689433088
-     1 string m_Localized = "Зменшено кількість їжі в контейнерах"
+     1 string m_Localized = "Менша кількість їжі в контейнерах"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2056,7 +2056,7 @@
    [252]
     0 TableEntryData data
      0 SInt64 m_Id = 152726389647044608
-     1 string m_Localized = "Недійсн."
+     1 string m_Localized = "Недійсна"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

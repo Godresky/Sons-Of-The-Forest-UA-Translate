@@ -509,7 +509,7 @@
    [59]
     0 TableEntryData data
      0 SInt64 m_Id = 164123199217856512
-     1 string m_Localized = "Відеозапис було вже знайдено"
+     1 string m_Localized = "Відеозапис уже було знайдено"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

@@ -222,7 +222,7 @@
    [25]
     0 TableEntryData data
      0 SInt64 m_Id = 38067420559929344
-     1 string m_Localized = "I've seen this before."
+     1 string m_Localized = "Я бачив це раніше."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -230,7 +230,7 @@
    [26]
     0 TableEntryData data
      0 SInt64 m_Id = 38067473903087616
-     1 string m_Localized = "I saw it in a dream."
+     1 string m_Localized = "Я бачив це у снах."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -238,7 +238,7 @@
    [27]
     0 TableEntryData data
      0 SInt64 m_Id = 38067658515378176
-     1 string m_Localized = "This was supposed to fix me!"
+     1 string m_Localized = "Воно мало виправити мене!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -246,7 +246,7 @@
    [28]
     0 TableEntryData data
      0 SInt64 m_Id = 38068598463098880
-     1 string m_Localized = "It's making me worse!"
+     1 string m_Localized = "А стало ще гірше!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -262,7 +262,7 @@
    [30]
     0 TableEntryData data
      0 SInt64 m_Id = 41706021545930752
-     1 string m_Localized = "There’s got to be a way to open this. A key. Something."
+     1 string m_Localized = "Має бути спосіб відімкнути це. Ключ. Що-небудь."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -270,7 +270,7 @@
    [31]
     0 TableEntryData data
      0 SInt64 m_Id = 41706067955904512
-     1 string m_Localized = "Something’s happening."
+     1 string m_Localized = "Щось відбувається."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -278,7 +278,7 @@
    [32]
     0 TableEntryData data
      0 SInt64 m_Id = 41706749077319680
-     1 string m_Localized = "It's working!"
+     1 string m_Localized = "Працює!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -286,7 +286,7 @@
    [33]
     0 TableEntryData data
      0 SInt64 m_Id = 41707738824011776
-     1 string m_Localized = "No."
+     1 string m_Localized = "Ні."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -294,7 +294,7 @@
    [34]
     0 TableEntryData data
      0 SInt64 m_Id = 41707770348400640
-     1 string m_Localized = "No, we're missing something."
+     1 string m_Localized = "Ні, ми щось забули."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -358,7 +358,7 @@
    [42]
     0 TableEntryData data
      0 SInt64 m_Id = 47867373687762944
-     1 string m_Localized = "Little mutant Timmy. All grown up!"
+     1 string m_Localized = "Маленький мутант Тіммі. Вже дорослий!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -366,7 +366,7 @@
    [43]
     0 TableEntryData data
      0 SInt64 m_Id = 47890314504794112
-     1 string m_Localized = "Looking good... Mr Puffton!"
+     1 string m_Localized = "Маєте гарний вигляд... пане Паффтоне!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -398,7 +398,7 @@
    [47]
     0 TableEntryData data
      0 SInt64 m_Id = 47951868050894848
-     1 string m_Localized = "So many bodies..."
+     1 string m_Localized = "Стільки тіл..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -406,7 +406,7 @@
    [48]
     0 TableEntryData data
      0 SInt64 m_Id = 47951870420676608
-     1 string m_Localized = "Stay close."
+     1 string m_Localized = "Не відставай."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -414,7 +414,7 @@
    [49]
     0 TableEntryData data
      0 SInt64 m_Id = 47951872106786816
-     1 string m_Localized = "They just keep coming!"
+     1 string m_Localized = "Вони й далі насуваються!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -422,7 +422,7 @@
    [50]
     0 TableEntryData data
      0 SInt64 m_Id = 47951879035777024
-     1 string m_Localized = "They're not like the others."
+     1 string m_Localized = "Вони не схожі на інших."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -430,7 +430,7 @@
    [51]
     0 TableEntryData data
      0 SInt64 m_Id = 47951882550603776
-     1 string m_Localized = "This looks old."
+     1 string m_Localized = "Усе таке старезне."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -438,7 +438,7 @@
    [52]
     0 TableEntryData data
      0 SInt64 m_Id = 47951885323038720
-     1 string m_Localized = "What happened here?"
+     1 string m_Localized = "Що тут сталося?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -446,7 +446,7 @@
    [53]
     0 TableEntryData data
      0 SInt64 m_Id = 47951888821088256
-     1 string m_Localized = "What is this place?"
+     1 string m_Localized = "Що це за місце?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -470,7 +470,7 @@
    [56]
     0 TableEntryData data
      0 SInt64 m_Id = 50359310000943104
-     1 string m_Localized = "Oh god..."
+     1 string m_Localized = "О, Боже..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -606,7 +606,7 @@
    [73]
     0 TableEntryData data
      0 SInt64 m_Id = 62335817791401984
-     1 string m_Localized = "What did you see? What did you see?"
+     1 string m_Localized = "Що ти бачив? Що ти бачив?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -614,7 +614,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 62336435058733056
-     1 string m_Localized = "What was in the cube? What was in the cube !"
+     1 string m_Localized = "Що всередині куба? Що всередині куба!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

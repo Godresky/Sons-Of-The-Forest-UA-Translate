@@ -1429,7 +1429,7 @@
    [54]
     0 TableEntryData data
      0 SInt64 m_Id = 170850682499072
-     1 string m_Localized = "<color=yellow>{label}</color> — Регулює частоту кресу ворогів"
+     1 string m_Localized = "<color=yellow>{label}</color> — Регулює частоту появи ворогів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (3 items)
@@ -1985,7 +1985,7 @@
    [98]
     0 TableEntryData data
      0 SInt64 m_Id = 124897310821314560
-     1 string m_Localized = "<color=yellow>{label}</color> — Налаштовує частоту появи ворожих пошукових загонів"
+     1 string m_Localized = "<color=yellow>{label}</color> — Регулює частоту появи ворожих пошукових загонів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1996,7 +1996,7 @@
    [99]
     0 TableEntryData data
      0 SInt64 m_Id = 125386514107297792
-     1 string m_Localized = "<color=yellow>{label}</color> — Налаштовує міцність будівель до ворожих ударів"
+     1 string m_Localized = "<color=yellow>{label}</color> — Регулює міцність будівель до ворожих ударів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
