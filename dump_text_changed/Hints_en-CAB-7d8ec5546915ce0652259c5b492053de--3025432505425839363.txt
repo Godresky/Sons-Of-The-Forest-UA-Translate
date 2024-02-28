@@ -310,7 +310,7 @@
    [36]
     0 TableEntryData data
      0 SInt64 m_Id = 169824655409410048
-     1 string m_Localized = "У ТВОРЧІЙ ГРІ, TOGGLE THE BUILDING MATERIALS LAYOUT BY PRESSING {BUTTON.ToggleInventoryMode} IN THE INVENTORY"
+     1 string m_Localized = "У ТВОРЧІЙ ГРІ МОЖНА ПЕРЕМКНУТИ НА ВИБІР БУДІВЕЛЬНИХ МАТЕРІЯЛІВ, НАТИСНУВШИ {BUTTON.ToggleInventoryMode} ПРИ ОГЛЯДІ СПОРЯДЖЕННЯ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

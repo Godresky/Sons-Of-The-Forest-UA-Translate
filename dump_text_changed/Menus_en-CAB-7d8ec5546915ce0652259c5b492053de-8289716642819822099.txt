@@ -2448,7 +2448,7 @@
    [301]
     0 TableEntryData data
      0 SInt64 m_Id = 228821501438947328
-     1 string m_Localized = "Творча"
+     1 string m_Localized = "Творча гра"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2472,7 +2472,7 @@
    [304]
     0 TableEntryData data
      0 SInt64 m_Id = 229992754812121088
-     1 string m_Localized = "Construction Materials Inventory"
+     1 string m_Localized = "Запаси будівельних матеріялів"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2480,7 +2480,7 @@
    [305]
     0 TableEntryData data
      0 SInt64 m_Id = 229992754812121089
-     1 string m_Localized = "Infinite Construction"
+     1 string m_Localized = "Нескінченне будівництво"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2488,7 +2488,7 @@
    [306]
     0 TableEntryData data
      0 SInt64 m_Id = 229992754812121090
-     1 string m_Localized = "Group placement"
+     1 string m_Localized = "Розміщення кількох"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2496,7 +2496,7 @@
    [307]
     0 TableEntryData data
      0 SInt64 m_Id = 229992754812121091
-     1 string m_Localized = "No Cuttings Spawn"
+     1 string m_Localized = "Мерці не появляються"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2512,7 +2512,7 @@
    [309]
     0 TableEntryData data
      0 SInt64 m_Id = 229992754812121093
-     1 string m_Localized = "Construction Starter Kit"
+     1 string m_Localized = "Початковий набір для будівництва"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2520,7 +2520,7 @@
    [310]
     0 TableEntryData data
      0 SInt64 m_Id = 229992754812121094
-     1 string m_Localized = "Instant tree chopping"
+     1 string m_Localized = "Миттєве рубання дерев"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2544,7 +2544,7 @@
    [313]
     0 TableEntryData data
      0 SInt64 m_Id = 230000013994717184
-     1 string m_Localized = "Творча"
+     1 string m_Localized = "Творча гра"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

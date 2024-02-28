@@ -1875,7 +1875,7 @@
    [88]
     0 TableEntryData data
      0 SInt64 m_Id = 105949015681363968
-     1 string m_Localized = "<color=yellow>{label}</color> — Enable player immortal mode"
+     1 string m_Localized = "<color=yellow>{label}</color> — Вмикає безсмертя для гравця"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1886,7 +1886,7 @@
    [89]
     0 TableEntryData data
      0 SInt64 m_Id = 105949015706529792
-     1 string m_Localized = "<color=yellow>{label}</color> — Enable construction materials in inventory"
+     1 string m_Localized = "<color=yellow>{label}</color> — Вмикає будівельні матеріяли в спорядженні"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1897,7 +1897,7 @@
    [90]
     0 TableEntryData data
      0 SInt64 m_Id = 105949015710724096
-     1 string m_Localized = "<color=yellow>{label}</color> — Construction items in hands are infinite"
+     1 string m_Localized = "<color=yellow>{label}</color> — Будівельні матеріяли в руках нескінченні"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1908,7 +1908,7 @@
    [91]
     0 TableEntryData data
      0 SInt64 m_Id = 105949015710724097
-     1 string m_Localized = "<color=yellow>{label}</color> — Place everything your have in hands at once"
+     1 string m_Localized = "<color=yellow>{label}</color> — Дозволяє розміщувати все, що в руках одразу"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1919,7 +1919,7 @@
    [92]
     0 TableEntryData data
      0 SInt64 m_Id = 105949015710724098
-     1 string m_Localized = "<color=yellow>{label}</color> — Disable cuttings spawning"
+     1 string m_Localized = "<color=yellow>{label}</color> — Вимикає появу мерців"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1930,7 +1930,7 @@
    [93]
     0 TableEntryData data
      0 SInt64 m_Id = 105949015710724099
-     1 string m_Localized = "<color=yellow>{label}</color> — Пропустить вступ гри"
+     1 string m_Localized = "<color=yellow>{label}</color> — Пропускає вступ гри"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1941,7 +1941,7 @@
    [94]
     0 TableEntryData data
      0 SInt64 m_Id = 105949015710724100
-     1 string m_Localized = "<color=yellow>{label}</color> — Adds a construction starter kit"
+     1 string m_Localized = "<color=yellow>{label}</color> — Дає початковий набір для будівництва"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1952,7 +1952,7 @@
    [95]
     0 TableEntryData data
      0 SInt64 m_Id = 105955994562818048
-     1 string m_Localized = "<color=yellow>{label}</color> — If enabled, trees are cut with a single hit"
+     1 string m_Localized = "<color=yellow>{label}</color> — Якщо увімкнено, то дерева рубатимуться з одного удару"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -1963,7 +1963,7 @@
    [96]
     0 TableEntryData data
      0 SInt64 m_Id = 111948337501794304
-     1 string m_Localized = "<color=yellow>{label}</color> — If enabled, activates creative construction mode"
+     1 string m_Localized = "<color=yellow>{label}</color> — Якщо увімкнено, то активується режим творчого будівництва"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)

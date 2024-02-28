@@ -5025,7 +5025,7 @@
    [625]
     0 TableEntryData data
      0 SInt64 m_Id = 64759137279930368
-     1 string m_Localized = "Прості дерев’яні сани"
+     1 string m_Localized = "Дерев’яні санчата"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -5433,7 +5433,7 @@
    [676]
     0 TableEntryData data
      0 SInt64 m_Id = 115884037029490688
-     1 string m_Localized = "Записки"
+     1 string m_Localized = "Записи"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

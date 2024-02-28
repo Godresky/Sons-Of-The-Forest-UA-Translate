@@ -302,7 +302,7 @@
    [35]
     0 TableEntryData data
      0 SInt64 m_Id = 42070677745659904
-     1 string m_Localized = "I need you... to help me."
+     1 string m_Localized = "Ти мені потрібен... допоможи."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -310,7 +310,7 @@
    [36]
     0 TableEntryData data
      0 SInt64 m_Id = 42071385958084608
-     1 string m_Localized = "It's getting worse."
+     1 string m_Localized = "Стає дедалі гірше."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -318,7 +318,7 @@
    [37]
     0 TableEntryData data
      0 SInt64 m_Id = 42071407919460352
-     1 string m_Localized = "Look at me!"
+     1 string m_Localized = "Поглянь на мене!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -326,7 +326,7 @@
    [38]
     0 TableEntryData data
      0 SInt64 m_Id = 42071430921023488
-     1 string m_Localized = "Look at what I'm turning into!"
+     1 string m_Localized = "Подивись, у що я перетворююся!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -334,7 +334,7 @@
    [39]
     0 TableEntryData data
      0 SInt64 m_Id = 42071459446484992
-     1 string m_Localized = "I need your help!"
+     1 string m_Localized = "Мені потрібна твоя допомога!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -342,7 +342,7 @@
    [40]
     0 TableEntryData data
      0 SInt64 m_Id = 42071499162349568
-     1 string m_Localized = "I told you I can't help you."
+     1 string m_Localized = "Я вже казав, що не можу."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -350,7 +350,7 @@
    [41]
     0 TableEntryData data
      0 SInt64 m_Id = 42071538265845760
-     1 string m_Localized = "And what about with this?"
+     1 string m_Localized = "А як щодо цього?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -374,7 +374,7 @@
    [44]
     0 TableEntryData data
      0 SInt64 m_Id = 47898363026042880
-     1 string m_Localized = "It's not safe here, you're running out of time."
+     1 string m_Localized = "Тут небезпечно, у тебе мало часу."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -382,7 +382,7 @@
    [45]
     0 TableEntryData data
      0 SInt64 m_Id = 47898507020693504
-     1 string m_Localized = "It's going to happen again. You have to leave."
+     1 string m_Localized = "Це станеться знову. Нам треба йти."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -390,7 +390,7 @@
    [46]
     0 TableEntryData data
      0 SInt64 m_Id = 47951841907798016
-     1 string m_Localized = "Are you coming?"
+     1 string m_Localized = "Ти з нами?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -462,7 +462,7 @@
    [55]
     0 TableEntryData data
      0 SInt64 m_Id = 48897693560172544
-     1 string m_Localized = "Solafite? Where did you get this?"
+     1 string m_Localized = "Солафіт? Звідки це у тебе?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -478,7 +478,7 @@
    [57]
     0 TableEntryData data
      0 SInt64 m_Id = 50359345778356224
-     1 string m_Localized = "Get back here! Come on!"
+     1 string m_Localized = "Повертайся! Ну ж бо!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -486,7 +486,7 @@
    [58]
     0 TableEntryData data
      0 SInt64 m_Id = 56231396099584000
-     1 string m_Localized = "Dad! You made it."
+     1 string m_Localized = "Батьку! Ти це зробив."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -494,7 +494,7 @@
    [59]
     0 TableEntryData data
      0 SInt64 m_Id = 56231605030449152
-     1 string m_Localized = "You're ok."
+     1 string m_Localized = "З тобою все гаразд."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -502,7 +502,7 @@
    [60]
     0 TableEntryData data
      0 SInt64 m_Id = 56231671438864384
-     1 string m_Localized = "Oh god... They're coming."
+     1 string m_Localized = "О, Боже... Вони як сарана."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -510,7 +510,7 @@
    [61]
     0 TableEntryData data
      0 SInt64 m_Id = 56231782512422912
-     1 string m_Localized = "They're getting closer, we have to leave."
+     1 string m_Localized = "Вони близько, треба йти."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -518,7 +518,7 @@
    [62]
     0 TableEntryData data
      0 SInt64 m_Id = 56231895192399872
-     1 string m_Localized = "Quick! Get in."
+     1 string m_Localized = "Хутко! Залазь."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -526,7 +526,7 @@
    [63]
     0 TableEntryData data
      0 SInt64 m_Id = 56232022623744000
-     1 string m_Localized = "What is that?"
+     1 string m_Localized = "Що це?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -534,7 +534,7 @@
    [64]
     0 TableEntryData data
      0 SInt64 m_Id = 56911956581117952
-     1 string m_Localized = "Don't go near it!"
+     1 string m_Localized = "Не підходь до цього!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -542,7 +542,7 @@
    [65]
     0 TableEntryData data
      0 SInt64 m_Id = 56912024520454144
-     1 string m_Localized = "Don't! It's drawing you back in."
+     1 string m_Localized = "Ні! Воно затягне тебе назад."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -550,7 +550,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 56912049895993344
-     1 string m_Localized = "Don't touch it!"
+     1 string m_Localized = "Не чіпай це!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -558,7 +558,7 @@
    [67]
     0 TableEntryData data
      0 SInt64 m_Id = 56912052408381440
-     1 string m_Localized = "It wants you to stay! Don't listen to it."
+     1 string m_Localized = "Воно хоче, щоби ти залишився! Не слухай його."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -566,7 +566,7 @@
    [68]
     0 TableEntryData data
      0 SInt64 m_Id = 56912066740318208
-     1 string m_Localized = "Come on! Get back here!"
+     1 string m_Localized = "Ну ж бо! Ходи сюди!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -574,7 +574,7 @@
    [69]
     0 TableEntryData data
      0 SInt64 m_Id = 56912067931500544
-     1 string m_Localized = "We have to go!"
+     1 string m_Localized = "Нам треба йти!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -582,7 +582,7 @@
    [70]
     0 TableEntryData data
      0 SInt64 m_Id = 56912069042991104
-     1 string m_Localized = "We have to go right now!"
+     1 string m_Localized = "Нам терміново треба йти!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -590,7 +590,7 @@
    [71]
     0 TableEntryData data
      0 SInt64 m_Id = 56912070024458240
-     1 string m_Localized = "We're going to leave without you."
+     1 string m_Localized = "Ми полетимо без тебе."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -598,7 +598,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 56912071492464640
-     1 string m_Localized = "Don't. Don't!"
+     1 string m_Localized = "Ні. Ні!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -614,7 +614,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 62336435058733056
-     1 string m_Localized = "Що всередині куба? Що всередині куба!"
+     1 string m_Localized = "Що всередині куба? Що всередині куба?!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -622,7 +622,7 @@
    [75]
     0 TableEntryData data
      0 SInt64 m_Id = 62356196438142976
-     1 string m_Localized = "They're coming."
+     1 string m_Localized = "Вони насуваються."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -630,7 +630,7 @@
    [76]
     0 TableEntryData data
      0 SInt64 m_Id = 62356284518526976
-     1 string m_Localized = "They're getting closer, we have to leave now!"
+     1 string m_Localized = "Вони сунуть, нам треба йти!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -638,7 +638,7 @@
    [77]
     0 TableEntryData data
      0 SInt64 m_Id = 62356327031992320
-     1 string m_Localized = "Get in!"
+     1 string m_Localized = "Сідай!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -646,7 +646,7 @@
    [78]
     0 TableEntryData data
      0 SInt64 m_Id = 62356346623586304
-     1 string m_Localized = "Dad."
+     1 string m_Localized = "Батьку."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -654,7 +654,7 @@
    [79]
     0 TableEntryData data
      0 SInt64 m_Id = 62356361517559808
-     1 string m_Localized = "Come on!"
+     1 string m_Localized = "Ну ж бо!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -662,7 +662,7 @@
    [80]
     0 TableEntryData data
      0 SInt64 m_Id = 63451290826272768
-     1 string m_Localized = "You're on your own, good luck!"
+     1 string m_Localized = "Тепер ви самі по собі, щасти!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
