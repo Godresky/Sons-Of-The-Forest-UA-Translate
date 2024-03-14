@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (337 items)
-   0 int size = 337
+  0 Array Array (338 items)
+   0 int size = 338
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -2729,6 +2729,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 252412147860860928
      1 string m_Localized = "Previous"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [337]
+    0 TableEntryData data
+     0 SInt64 m_Id = 254168179339522048
+     1 string m_Localized = "Host not responding..."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

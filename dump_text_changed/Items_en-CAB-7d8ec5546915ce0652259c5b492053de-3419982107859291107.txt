@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (809 items)
-   0 int size = 809
+  0 Array Array (812 items)
+   0 int size = 812
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 14145435803648
@@ -6490,6 +6490,30 @@
     0 TableEntryData data
      0 SInt64 m_Id = 169864635498364928
      1 string m_Localized = "Сховище вибухівки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [809]
+    0 TableEntryData data
+     0 SInt64 m_Id = 173849881239613440
+     1 string m_Localized = "Солафітові обладунки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [810]
+    0 TableEntryData data
+     0 SInt64 m_Id = 173849923602083840
+     1 string m_Localized = "Солафітові обладунки"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [811]
+    0 TableEntryData data
+     0 SInt64 m_Id = 175677671710650368
+     1 string m_Localized = "Знімач"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
