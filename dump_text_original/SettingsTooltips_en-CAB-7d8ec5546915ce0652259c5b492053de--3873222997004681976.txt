@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 4115542425863454741
  0 TableEntryData m_TableData
-  0 Array Array (101 items)
-   0 int size = 101
+  0 Array Array (102 items)
+   0 int size = 102
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 10714634612736
@@ -2015,6 +2015,17 @@
         [0]
          0 managedRefArrayItem data
           0 SInt64 rid = 4115542425863454741
+   [101]
+    0 TableEntryData data
+     0 SInt64 m_Id = 162465128083091456
+     1 string m_Localized = "<color=yellow>{label}</color> - Reduces the rate that health and stamina will regenerate"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 4115542425863454741
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
@@ -2028,8 +2039,8 @@
       1 string asm = "Unity.Localization"
      0 ReferencedObjectData data
       0 vector m_Entries
-       1 Array Array (104 items)
-        0 int size = 104
+       1 Array Array (106 items)
+        0 int size = 106
         [0]
          0 SInt64 data = 10714634612736
         [1]
@@ -2238,3 +2249,7 @@
          0 SInt64 data = 125386514107297792
         [103]
          0 SInt64 data = 126450359378735104
+        [104]
+         0 SInt64 data = 162447001454637056
+        [105]
+         0 SInt64 data = 162465128083091456

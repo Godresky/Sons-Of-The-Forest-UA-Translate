@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 5369144262577356825
  0 TableEntryData m_TableData
-  0 Array Array (338 items)
-   0 int size = 338
+  0 Array Array (339 items)
+   0 int size = 339
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 382695448576
@@ -2737,6 +2737,14 @@
     0 TableEntryData data
      0 SInt64 m_Id = 254168179339522048
      1 string m_Localized = "Host not responding..."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [338]
+    0 TableEntryData data
+     0 SInt64 m_Id = 286490483210317824
+     1 string m_Localized = "Stat Regeneration Penalties"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
