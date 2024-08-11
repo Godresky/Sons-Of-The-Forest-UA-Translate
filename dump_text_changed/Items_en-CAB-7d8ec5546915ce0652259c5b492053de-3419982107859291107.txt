@@ -4545,7 +4545,7 @@
    [565]
     0 TableEntryData data
      0 SInt64 m_Id = 24473251116216320
-     1 string m_Localized = "Плятформа на дереві №1"
+     1 string m_Localized = "Майданчик на дереві №1"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -4553,7 +4553,7 @@
    [566]
     0 TableEntryData data
      0 SInt64 m_Id = 24475384666386432
-     1 string m_Localized = "Плятформа на дереві №2"
+     1 string m_Localized = "Майданчик на дереві №2"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6329,7 +6329,7 @@
    [788]
     0 TableEntryData data
      0 SInt64 m_Id = 158306925845934080
-     1 string m_Localized = "Задіяти"
+     1 string m_Localized = "Актив."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -6337,7 +6337,7 @@
    [789]
     0 TableEntryData data
      0 SInt64 m_Id = 158307145057038336
-     1 string m_Localized = "Знедіяти"
+     1 string m_Localized = "Деактив."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

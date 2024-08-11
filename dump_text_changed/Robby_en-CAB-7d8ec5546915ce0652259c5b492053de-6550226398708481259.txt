@@ -78,7 +78,7 @@
    [7]
     0 TableEntryData data
      0 SInt64 m_Id = 39276992000000
-     1 string m_Localized = "ОЧИСТИ"
+     1 string m_Localized = "РОЗЧИСТИ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

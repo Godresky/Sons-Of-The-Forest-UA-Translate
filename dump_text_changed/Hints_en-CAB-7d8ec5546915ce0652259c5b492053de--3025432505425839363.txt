@@ -126,7 +126,7 @@
    [13]
     0 TableEntryData data
      0 SInt64 m_Id = 1122722156544
-     1 string m_Localized = "ВИКОНАННЯ РІЗНОЇ ФІЗИЧНОЇ РОБОТИ ЗБІЛЬШИТЬ ВАШУ СИЛУ"
+     1 string m_Localized = "ВИКОНАННЯ РІЗНОЇ ФІЗИЧНОЇ РОБОТИ ЗБІЛЬШИТЬ ВАШУ МІЦЬ"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

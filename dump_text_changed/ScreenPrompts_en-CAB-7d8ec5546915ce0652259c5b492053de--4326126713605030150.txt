@@ -70,7 +70,7 @@
    [6]
     0 TableEntryData data
      0 SInt64 m_Id = 400491880448
-     1 string m_Localized = "Екіпірувати"
+     1 string m_Localized = "Спорядити"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

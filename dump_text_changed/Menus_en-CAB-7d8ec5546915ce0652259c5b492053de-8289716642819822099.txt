@@ -1712,7 +1712,7 @@
    [209]
     0 TableEntryData data
      0 SInt64 m_Id = 115689320508911616
-     1 string m_Localized = "Не вдалося запустити ігровий сервер"
+     1 string m_Localized = "Не вдалося запустити сервер"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1768,7 +1768,7 @@
    [216]
     0 TableEntryData data
      0 SInt64 m_Id = 117585906545553408
-     1 string m_Localized = "Ігровий сервер створено"
+     1 string m_Localized = "Сервер створено"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -1824,7 +1824,7 @@
    [223]
     0 TableEntryData data
      0 SInt64 m_Id = 118940137194090496
-     1 string m_Localized = "Ігровий сервер повний (максимум гравців: {0})"
+     1 string m_Localized = "Сервер повний (максимум гравців: {0})"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2256,7 +2256,7 @@
    [277]
     0 TableEntryData data
      0 SInt64 m_Id = 175564294253801472
-     1 string m_Localized = "Ігровий сервер не знайдено"
+     1 string m_Localized = "Сервер не знайдено"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2272,7 +2272,7 @@
    [279]
     0 TableEntryData data
      0 SInt64 m_Id = 175564792641974272
-     1 string m_Localized = "Уведіть IP-адресу та ігровий порт сервера, до якого ви хочете приєднатися."
+     1 string m_Localized = "Уведіть IP-адресу та порт сервера, до якого ви хочете приєднатися."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2288,7 +2288,7 @@
    [281]
     0 TableEntryData data
      0 SInt64 m_Id = 175629416426991616
-     1 string m_Localized = "Отримання відомостей про ігровий сервер"
+     1 string m_Localized = "Отримання відомостей про сервер"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2592,7 +2592,7 @@
    [319]
     0 TableEntryData data
      0 SInt64 m_Id = 237812130701471744
-     1 string m_Localized = "<i>Виявлено збереження раннього доступу!</i>\r\n\r\nВи можете продовжити гру із цим збереженням, однак:\r\n\n● Якщо ви мали золоті обладунки, то вони будуть прибрані зі спорядження\r\n● Було скинуто поступ пекельної печери та золотих дверей\r\n● Якщо ви завершили гру, це було скинуто\r\n● Усі підібрані записки було прибрано зі спорядження\r\n● Деякі частини місцевости було змінено, що могло вплинути на вашу базу\r\n● Старі споруди можуть не мати увесь функціонал або доступ до новіших механік\n● Щоби насолодитися всією історією або новими відео-вставками, ми радимо почати нову гру"
+     1 string m_Localized = "<i>Виявлено збереження раннього доступу!</i>\r\n\r\nВи можете продовжити гру із цим збереженням, однак:\r\n\n● Якщо ви мали золоті обладунки, то вони будуть прибрані зі спорядження\r\n● Скинуто поступ пекельної печери та золотих дверей\r\n● Якщо ви завершили гру, це буде скинуто\r\n● Усі підібрані записки прибрано зі спорядження\r\n● Деякі частини місцевости змінено, що може вплинути на вашу базу\r\n● Старі споруди можуть не мати увесь функціонал або доступ до новіших механік\n● Щоби насолодитися всією історією або новими відео-вставками, ми радимо почати нову гру"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2648,7 +2648,7 @@
    [326]
     0 TableEntryData data
      0 SInt64 m_Id = 247976382871465984
-     1 string m_Localized = "Це збереження було пошкоджено і його неможливо відновити."
+     1 string m_Localized = "Це збереження пошкоджено, і його неможливо відновити."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2656,7 +2656,7 @@
    [327]
     0 TableEntryData data
      0 SInt64 m_Id = 247977545226350592
-     1 string m_Localized = "Це збереження було пошкоджено. Ви бажаєте відновити старішу резервну копію?"
+     1 string m_Localized = "Це збереження пошкоджено. Ви бажаєте відновити старішу резервну копію?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2664,7 +2664,7 @@
    [328]
     0 TableEntryData data
      0 SInt64 m_Id = 248039657885757440
-     1 string m_Localized = "Відновлення резервної копії провалено."
+     1 string m_Localized = "Провалено відновлення резервної копії."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -2672,7 +2672,7 @@
    [329]
     0 TableEntryData data
      0 SInt64 m_Id = 248039636624830464
-     1 string m_Localized = "Резервну копію було успішно відновлено."
+     1 string m_Localized = "Резервну копію успішно відновлено."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
