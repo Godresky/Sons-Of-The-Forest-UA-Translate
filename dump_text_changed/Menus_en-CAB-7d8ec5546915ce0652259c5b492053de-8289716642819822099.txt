@@ -2024,7 +2024,7 @@
    [248]
     0 TableEntryData data
      0 SInt64 m_Id = 151355296584298496
-     1 string m_Localized = "Важке виживання"
+     1 string m_Localized = "Виживання"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
